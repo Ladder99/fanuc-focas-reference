@@ -19,7 +19,7 @@
         <cmn>
             <p>
                 Notifies the end of uploading NC program to the internal logic of the Data window library.<br/>
-                (This function must be executed after <a href="Program/cnc_upload3.htm" target="_parent">cnc_upload3</a> function.)
+                (This function must be executed after <a href="../program/cnc_upload3.xml" target="_parent">cnc_upload3</a> function.)
             </p>
             <p>
                 There are cases where errors(EW_DATA, etc.) during execution of uploading NC program are returned by this function.
@@ -52,7 +52,7 @@
         <item>
             <name>EW_FUNC</name>
             <content>
-                <a href="Program/cnc_upstart3.htm" target="_parent">cnc_upstart3</a> function has not been executed.
+                <a href="../program/cnc_upstart3.xml" target="_parent">cnc_upstart3</a> function has not been executed.
             </content>
         </item>
         <item>
@@ -60,7 +60,7 @@
             <content>
                 Data error<br/>
                 In order to get more information for this err_no return value, execute
-                <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.<br/>
+                <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.<br/>
                 The following detail status will be set onto the member, err_no of ODBERR structure.<br/>
                 <table>
                     <colgroup align="center" valign="top">
@@ -109,7 +109,7 @@
             <item>
                 <name>EW_FUNC</name>
                 <content>
-                    <a href="Program/cnc_upstart3.htm" target="_parent">cnc_upstart3</a> function has not been executed.
+                    <a href="../program/cnc_upstart3.xml" target="_parent">cnc_upstart3</a> function has not been executed.
                 </content>
             </item>
             <item>
@@ -117,7 +117,7 @@
                 <content>
                     Data error<br/>
                     In order to get more information for this err_no return value, execute
-                    <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.<br/>
+                    <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.<br/>
                     The following detail status will be set onto the member, err_no of ODBERR structure.<br/>
                     <table>
                         <colgroup align="center" valign="top">

@@ -21,9 +21,9 @@
     <doc>
         <cmn>
 Reads the parameter for unsolicited messaging from CNC. This function is available only for Series 16i/18i/21i, 0i and Power Mate i. This function cannot be used with Visual Basic. Please use Visual C++ for making your application.<br/>
-Please refer to <a href="./Unsolic.htm" target="_parent">"Unsolicited Messaging Function"</a> for the detail information of unsolicited messaging function.
+Please refer to <a href=".././Unsolic.xml" target="_parent">"Unsolicited Messaging Function"</a> for the detail information of unsolicited messaging function.
 <p/>
-It is necessary to execute <a href="UnSolic/cnc_unsolicstart.htm" target="_parent">cnc_unsolicstart</a> and make the parameter effective before reading the parameters by this function. So, when this function is called just after the parameters are set by the <a href="UnSolic/cnc_wrunsolicprm.htm" target="_parent">cnc_wrunsolicprm</a>, the correct value cannot be read. 
+It is necessary to execute <a href="../unSolic/cnc_unsolicstart.xml" target="_parent">cnc_unsolicstart</a> and make the parameter effective before reading the parameters by this function. So, when this function is called just after the parameters are set by the <a href="../unSolic/cnc_wrunsolicprm.xml" target="_parent">cnc_wrunsolicprm</a>, the correct value cannot be read. 
 
         </cmn>
     </doc>

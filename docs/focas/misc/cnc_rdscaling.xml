@@ -23,7 +23,7 @@
             <p>
             Reads the mode and data of the scaling.<br/>
             These are stored in each member of ODBSCL structure.<br/>
-            The places of decimal points can be got by <a href="misc/cnc_getfigure.htm" target="_parent">cnc_getfigure</a> function.<br/>
+            The places of decimal points can be got by <a href="../misc/cnc_getfigure.xml" target="_parent">cnc_getfigure</a> function.<br/>
             The unit of magnification follows CNC parameter 6400#1.<br/>
             </p>
 <table class="dd">

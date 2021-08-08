@@ -29,7 +29,7 @@
             'ALL_AXES' in 'axis'.</p>
 
             <p>The attribute of setting data depends on the type and axis, and it is
-            different for each setting data.  It is as follows, and can be got by <a href="ncdata/cnc_rdsetinfo.htm" target="_parent">cnc_rdsetinfo</a> function.</p>
+            different for each setting data.  It is as follows, and can be got by <a href="../ncdata/cnc_rdsetinfo.xml" target="_parent">cnc_rdsetinfo</a> function.</p>
 
             <table class="dd" border="1">
                 <colgroup valign="top"/>
@@ -94,7 +94,7 @@
 
             <p>It is impossible to read any bit setting data bit by bit. 8 bits(i.e. 1 byte) which belong to the same setting data number are read at the same time.</p>
 
-            <p>This function is the same as <a href="ncdata/cnc_rdparar.htm" target="_parent">cnc_rdparar</a> function except that it cannot read the parameter without setting attribute.</p>
+            <p>This function is the same as <a href="../ncdata/cnc_rdparar.xml" target="_parent">cnc_rdparar</a> function except that it cannot read the parameter without setting attribute.</p>
 
             <p>See the "PARAMETER MANUAL" of CNC for details of each setting data.</p>
 
@@ -124,7 +124,7 @@
 
                         <p>See the "PARAMETER MANUAL" of CNC about available setting data
                     number.
-                           It can be got by <a href="ncdata/cnc_rdsetnum.htm" target="_parent">cnc_rdsetnum</a> function and <a href="ncdata/cnc_rdsetinfo.htm" target="_parent">cnc_rdsetinfo</a> function.
+                           It can be got by <a href="../ncdata/cnc_rdsetnum.xml" target="_parent">cnc_rdsetnum</a> function and <a href="../ncdata/cnc_rdsetinfo.xml" target="_parent">cnc_rdsetinfo</a> function.
                         </p>
                     </content>
                 </item>
@@ -361,8 +361,8 @@ typedef struct  iodbpsd {
 
                             <p>
                                 See the "PARAMETER MANUAL" of CNC about available setting data number.
-                                It can be got by <a href="ncdata/cnc_rdsetnum.htm" target="_parent">cnc_rdsetnum</a> function 
-                                and <a href="ncdata/cnc_rdsetinfo.htm" target="_parent">cnc_rdsetinfo</a> function.
+                                It can be got by <a href="../ncdata/cnc_rdsetnum.xml" target="_parent">cnc_rdsetnum</a> function 
+                                and <a href="../ncdata/cnc_rdsetinfo.xml" target="_parent">cnc_rdsetinfo</a> function.
                             </p>
                         </content>
                     </item>

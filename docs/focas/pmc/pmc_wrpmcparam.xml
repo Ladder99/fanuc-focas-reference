@@ -22,7 +22,7 @@
         <cmn>
             The PMC parameter(timer, counter, keep relay, and data) is downloaded by the tape format.<br/>
             When you execute this function, set '1'  for PWE of the CNC parameter and make the state of CNC an emergency stop.<br/>
-            Refer to the description of <a href="Pmc/pmc_rdpmcparam.htm" target="_parent">pmc_rdpmcparam</a> for the format of PMC parameter.<br/>
+            Refer to the description of <a href="../pmc/pmc_rdpmcparam.xml" target="_parent">pmc_rdpmcparam</a> for the format of PMC parameter.<br/>
             When the last character of buffer is not "A" or "%", EW_DATA error occurs.
         </cmn>
     </doc>
@@ -74,7 +74,7 @@
         <item>
             <name>EW_FUNC</name>
             <content>
-                <a href="Pmc/pmc_wrprmstart.htm" target="_parent">pmc_wrprmstart</a> function has not been executed.
+                <a href="../pmc/pmc_wrprmstart.xml" target="_parent">pmc_wrprmstart</a> function has not been executed.
             </content>
         </item>
         <item>
@@ -90,7 +90,7 @@
                 Data error<br/>
                 The writing format is wrong.<br/>
                 <span class="xis">In case of 0i-F,30i/31i/32i,</span> in order to get more information for this err_no return value, execute
-                <a href="Pmc/pmc_getdtailerr.htm" target="_parent">pmc_getdtailerr</a>function.<br/>
+                <a href="../pmc/pmc_getdtailerr.xml" target="_parent">pmc_getdtailerr</a>function.<br/>
                 The following detail status will be set onto the member, err_no of ODBERR structure.
                 <table>
                     <tr><td> 1</td><td>:</td><td>The first character string was not "%;".                                                </td></tr>

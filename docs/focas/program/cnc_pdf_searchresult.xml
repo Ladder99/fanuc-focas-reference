@@ -22,7 +22,7 @@
     <doc>
         <cmn>
             <p>
-                Gets the result of <a href="Program/cnc_pdf_searchword.htm" target="_parent">cnc_pdf_searchword</a> function.
+                Gets the result of <a href="../program/cnc_pdf_searchword.xml" target="_parent">cnc_pdf_searchword</a> function.
             </p>
         </cmn>
     </doc>
@@ -68,7 +68,7 @@
         <item>
             <name>EW_FUNC</name>
             <content>
-                No execution on searching the string. (<a href="Program/cnc_pdf_searchword.htm" target="_parent">cnc_pdf_searchword</a>)
+                No execution on searching the string. (<a href="../program/cnc_pdf_searchword.xml" target="_parent">cnc_pdf_searchword</a>)
             </content>
         </item>
         <item>

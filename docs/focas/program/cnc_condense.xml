@@ -78,7 +78,7 @@
             <name>EW_DATA</name>
             <content>
                 Data error(except 30i/31i/32i, 0i-D/F, PMi-A)<br/>
-                In order to get more information for this err_no return value, execute <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.<br/>
+                In order to get more information for this err_no return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.<br/>
                 The following detail status will be set onto the member, err_no of ODBERR structure.<br/>
                 <table>
                     <tr><td>1</td><td>:</td><td>Some alarm occurs. </td></tr>
@@ -135,7 +135,7 @@
                 <content>
                     Data error<br/>
                     In order to get more information for this err_no return value,
-                    execute <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.<br/>
+                    execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.<br/>
                     The following detail status will be set onto the member, err_no of ODBERR structure.<br/>
                     <table>
                         <tr><td>1</td><td>:</td><td>Some alarm occurs. </td></tr>

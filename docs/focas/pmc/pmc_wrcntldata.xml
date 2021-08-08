@@ -187,7 +187,7 @@ typedef struct iodbpmccntl {
             <content>
                 data error<br/>
                 In order to get more information for this err_no return value, execute
-                <a href="Pmc/pmc_getdtailerr.htm" target="_parent">pmc_getdtailerr</a>function.<br/>
+                <a href="../pmc/pmc_getdtailerr.xml" target="_parent">pmc_getdtailerr</a>function.<br/>
                 The following detail status will be set onto the member, err_no of ODBERR structure.
                  <table>
                     <tr><td>0</td><td>:</td><td>Error except EW_DATA</td></tr>

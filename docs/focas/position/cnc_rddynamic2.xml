@@ -19,7 +19,7 @@
         <cmn>
             <p>Reads various data which changes at CNC operation at a time.</p>
             
-            <p><span class="xis">This function is the improved version of the <a href="position/cnc_rddynamic.htm" target="_parent">cnc_rddynamic</a> function. Please use this function because the <a href="position/cnc_rddynamic.htm" target="_parent">cnc_rddynamic</a> function cannot read all alarm status of Series 15i.</span> The data which can be read is as follows.</p>
+            <p><span class="xis">This function is the improved version of the <a href="../position/cnc_rddynamic.xml" target="_parent">cnc_rddynamic</a> function. Please use this function because the <a href="../position/cnc_rddynamic.xml" target="_parent">cnc_rddynamic</a> function cannot read all alarm status of Series 15i.</span> The data which can be read is as follows.</p>
 
             <table border="1">
                 <tr>
@@ -28,43 +28,43 @@
                 </tr>
                 <tr>
                     <td>Alarm status </td>
-                    <td><a href="misc/cnc_alarm2.htm" target="_parent">cnc_alarm2</a></td>
+                    <td><a href="../misc/cnc_alarm2.xml" target="_parent">cnc_alarm2</a></td>
                 </tr>
                 <tr>
                     <td>Program number in executing </td>
-                    <td><a href="program/cnc_rdprgnum.htm" target="_parent">cnc_rdprgnum</a></td>
+                    <td><a href="../program/cnc_rdprgnum.xml" target="_parent">cnc_rdprgnum</a></td>
                 </tr>
                 <tr>
                     <td>Program number of the main program </td>
-                    <td><a href="program/cnc_rdprgnum.htm" target="_parent">cnc_rdprgnum</a></td>
+                    <td><a href="../program/cnc_rdprgnum.xml" target="_parent">cnc_rdprgnum</a></td>
                 </tr>
                 <tr>
                     <td>Sequence number </td>
-                    <td><a href="program/cnc_rdseqnum.htm" target="_parent">cnc_rdseqnum</a></td>
+                    <td><a href="../program/cnc_rdseqnum.xml" target="_parent">cnc_rdseqnum</a></td>
                 </tr>
                 <tr>
                     <td>Actual feed rate </td>
-                    <td><a href="position/cnc_actf.htm" target="_parent">cnc_actf</a></td>
+                    <td><a href="../position/cnc_actf.xml" target="_parent">cnc_actf</a></td>
                 </tr>
                 <tr>
                     <td>Actual spindle speed </td>
-                    <td><a href="position/cnc_acts.htm" target="_parent">cnc_acts</a></td>
+                    <td><a href="../position/cnc_acts.xml" target="_parent">cnc_acts</a></td>
                 </tr>
                 <tr>
                     <td>Absolute position data of controlled axis (2)</td>
-                    <td><a href="position/cnc_absolute2.htm" target="_parent">cnc_absolute2</a></td>
+                    <td><a href="../position/cnc_absolute2.xml" target="_parent">cnc_absolute2</a></td>
                 </tr>
                 <tr>
                     <td>Machine position data of controlled axis </td>
-                    <td><a href="position/cnc_machine.htm" target="_parent">cnc_machine</a></td>
+                    <td><a href="../position/cnc_machine.xml" target="_parent">cnc_machine</a></td>
                 </tr>
                 <tr>
                     <td>Relative position data of controlled axis (2)</td>
-                    <td><a href="position/cnc_relative2.htm" target="_parent">cnc_relative2</a></td>
+                    <td><a href="../position/cnc_relative2.xml" target="_parent">cnc_relative2</a></td>
                 </tr>
                 <tr>
                     <td>Amount of distance to go of controlled axis </td>
-                    <td><a href="position/cnc_distance.htm" target="_parent">cnc_distance</a></td>
+                    <td><a href="../position/cnc_distance.xml" target="_parent">cnc_distance</a></td>
                 </tr>
             </table>
 
@@ -79,7 +79,7 @@
             of faxis inside of ODBDY2.</p>
 
                 <p>The decimal point position of the various data concerning the axis
-            can be acquired in the <a href="misc/cnc_getfigure.htm" target="_parent">cnc_getfigure</a> function.</p>
+            can be acquired in the <a href="../misc/cnc_getfigure.xml" target="_parent">cnc_getfigure</a> function.</p>
 
         </cmn>
     </doc>

@@ -33,7 +33,7 @@
                 return of errors(EW_DATA, etc.) may be delayed.
                 Namely, an error status may refrect the result caused by the previously executed cnc_upload3 callings.
                 And the error status for some cnc_upload3 callings just before the finish of uploading is returned
-                by <a href="Program/cnc_upend3.htm" target="_parent">cnc_upend3</a> function.
+                by <a href="../program/cnc_upend3.xml" target="_parent">cnc_upend3</a> function.
             </p>
             <br/>
             <b>Format of input data</b>
@@ -116,13 +116,13 @@
             <content>
                 Reset or stop request<br/>
                 The data to read is nothing.<br/>
-                Call the <a href="Program/cnc_upend3.htm" target="_parent">cnc_upend3</a> function.
+                Call the <a href="../program/cnc_upend3.xml" target="_parent">cnc_upend3</a> function.
             </content>
         </item>
         <item>
             <name>EW_FUNC</name>
             <content>
-                <a href="Program/cnc_upstart3.htm" target="_parent">cnc_upstart3</a> function has not been executed.
+                <a href="../program/cnc_upstart3.xml" target="_parent">cnc_upstart3</a> function has not been executed.
             </content>
         </item>
         <item>
@@ -136,7 +136,7 @@
             <content>
                 Data error<br/>
                 In order to get more information for this err_no return value, execute
-                <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.<br/>
+                <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.<br/>
                 The following detail status will be set onto the member, err_no of ODBERR structure.<br/>
                 <table>
                     <colgroup align="center" valign="top">
@@ -195,13 +195,13 @@
                 <content>
                     Reset or stop request<br/>
                     The data to read is nothing.<br/>
-                    Call the <a href="Program/cnc_upend3.htm" target="_parent">cnc_upend3</a> function.
+                    Call the <a href="../program/cnc_upend3.xml" target="_parent">cnc_upend3</a> function.
                 </content>
             </item>
             <item>
                 <name>EW_FUNC</name>
                 <content>
-                    <a href="Program/cnc_upstart3.htm" target="_parent">cnc_upstart3</a> function has not been executed.
+                    <a href="../program/cnc_upstart3.xml" target="_parent">cnc_upstart3</a> function has not been executed.
                 </content>
             </item>
             <item>
@@ -215,7 +215,7 @@
                 <content>
                     Data error<br/>
                     In order to get more information for this err_no return value, execute
-                    <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.<br/>
+                    <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.<br/>
                     The following detail status will be set onto the member, err_no of ODBERR structure.<br/>
                     <table>
                         <colgroup align="center" valign="top">

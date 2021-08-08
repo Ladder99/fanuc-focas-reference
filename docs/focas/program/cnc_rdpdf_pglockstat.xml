@@ -19,7 +19,7 @@
         <cmn>
             <p>
                 The numbers of program and the program name is got which setted the
-                protection of running/editing by <a href="Program/cnc_setpdf_pglock.htm" target="_parent">cnc_setpdf_pglock</a>.
+                protection of running/editing by <a href="../program/cnc_setpdf_pglock.xml" target="_parent">cnc_setpdf_pglock</a>.
             </p>
         </cmn>
     </doc>

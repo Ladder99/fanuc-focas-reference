@@ -131,7 +131,7 @@ typedef struct iodbtlzn {
                 Data error<br/>
                 The tool zone data(data) is wrong.<br/>
                 In order to get more information for this err_no(nErr_no) return value, execute
-                <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.<br/>
+                <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.<br/>
                 The following detail status will be set onto the member, err_no of ODBERR structure
                 (nErr_no of ODBERR user define type.).<br/>
                 <table>

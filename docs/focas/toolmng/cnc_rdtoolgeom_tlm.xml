@@ -63,7 +63,7 @@
                     <content>
                         <p>
                             The pointer to the IODBTLGEOM structure which stores the tool geometry data.<br/>
-                            Refer to the description of <a href="ToolMng/cnc_wrtoolgeom_tlm.htm" target="_parent">cnc_wrtoolgeom_tlm</a> for IODBTLGEOM structure.
+                            Refer to the description of <a href="../toolMng/cnc_wrtoolgeom_tlm.xml" target="_parent">cnc_wrtoolgeom_tlm</a> for IODBTLGEOM structure.
                         </p>
                     </content>
                 </item>

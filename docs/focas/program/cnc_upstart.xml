@@ -22,8 +22,8 @@
         <cmn>
             <p>
                 Notifies the start of uploading NC program to the internal logic of the Data window library.<br/>
-                (This function must be executed before <a href="Program/cnc_upload.htm" target="_parent">cnc_upload</a> /
-                <a href="Program/cnc_cupload.htm" target="_parent">cnc_cupload</a>.)
+                (This function must be executed before <a href="../program/cnc_upload.xml" target="_parent">cnc_upload</a> /
+                <a href="../program/cnc_cupload.xml" target="_parent">cnc_cupload</a>.)
             </p>
             <p>
                 In Series 16/18,16i/18i, 0i-F, 30i, Power Mate i, t is possible to use this function for
@@ -81,13 +81,13 @@
                 Series15/15i<br/>
                 <ul style="margin-top:0">
                     <li>cnc_upstart function has been executed.</li>
-                        Terminate an uploading by using <a href="Program/cnc_upend.htm" target="_parent">cnc_upend</a>
+                        Terminate an uploading by using <a href="../program/cnc_upend.xml" target="_parent">cnc_upend</a>
                          function.
                 </ul>
                 Series 16i/18i/21i, 16/18/21, 0i, 30i, Power Mate i, PMi-A<br/>
                 <ul style="margin-top:0">
                     <li>cnc_upstart function has been executed.</li>
-                        Terminate an uploading by using <a href="Program/cnc_upend.htm" target="_parent">cnc_upend</a>
+                        Terminate an uploading by using <a href="../program/cnc_upend.xml" target="_parent">cnc_upend</a>
                          function.
                 </ul>
                 <ul style="margin-top:0">

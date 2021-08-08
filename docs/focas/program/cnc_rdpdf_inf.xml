@@ -45,7 +45,7 @@
                         <p>
                             Specify the drive name string.<br/>
                             Drive name string is up to 8 characters, NULL terminated.<br/>
-                            Drive name can be acquired by <a href="./Program/cnc_rdpdf_drive.htm" target="_parent">cnc_rdpdf_drive</a> function.
+                            Drive name can be acquired by <a href=".././Program/cnc_rdpdf_drive.xml" target="_parent">cnc_rdpdf_drive</a> function.
                         </p>
                     </content>
                 </item>

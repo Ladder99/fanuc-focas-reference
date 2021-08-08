@@ -27,7 +27,7 @@
             'ALL_AXES' in 'type'.
 
             <p>The unit of offset value is the same as "Read work zero offset value
-            ( <a href="ncdata/cnc_rdzofs.htm" target="_parent">cnc_rdzofs</a> )".  See the description of <a href="ncdata/cnc_rdzofs.htm" target="_parent">cnc_rdzofs</a> function.</p>
+            ( <a href="../ncdata/cnc_rdzofs.xml" target="_parent">cnc_rdzofs</a> )".  See the description of <a href="../ncdata/cnc_rdzofs.xml" target="_parent">cnc_rdzofs</a> function.</p>
         </cmn>
     </doc>
 

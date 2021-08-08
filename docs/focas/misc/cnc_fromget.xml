@@ -23,7 +23,7 @@
     <doc>
         <cmn>
             <p>Reads the F-ROM data from CNC.
-            <br/>After F-ROM data reading, execute <a href="Misc/cnc_fromgetend.htm" target="_parent">cnc_fromgetend</a> function in order to indicate the termination of reading process.</p>
+            <br/>After F-ROM data reading, execute <a href="../misc/cnc_fromgetend.xml" target="_parent">cnc_fromgetend</a> function in order to indicate the termination of reading process.</p>
             <p>The procedure for reading F-ROM data and storing into the file is as follows.</p>
             <p><img src="Misc/fromget.gif"></img></p>
             <p>Any file name can be specified for the file in which F-ROM data will be stored.</p>
@@ -31,7 +31,7 @@
             In this function, the F-ROM data is read from CNC every 128 Kbyte block and then the data is output to the application.<br/>
             It takes for a while to read the 128 Kbyte block of F-ROM data from CNC.<br/>
             This function waits its process completion in the library. <br/></p>
-            <p>The total size which can be read finally is F-ROM size(fromsize) acquired by the <a href="Misc/cnc_getfrominfo.htm" target="_parent">cnc_getfrominfo</a> function.</p>
+            <p>The total size which can be read finally is F-ROM size(fromsize) acquired by the <a href="../misc/cnc_getfrominfo.xml" target="_parent">cnc_getfrominfo</a> function.</p>
         </cmn>
     </doc>
 
@@ -66,7 +66,7 @@
                                 <td>Reading process continued</td>
                             </tr>
                         </table>
-                        <p>Call the <a href="Misc/cnc_fromgetend.htm" target="_parent">cnc_fromgetend</a> function in case of stat=0.
+                        <p>Call the <a href="../misc/cnc_fromgetend.xml" target="_parent">cnc_fromgetend</a> function in case of stat=0.
                         </p>
                     </content>
                 </item>
@@ -86,7 +86,7 @@
                         <p>Pointer to the variable to which the data length was set.<br/>
                         (Please set the value of 256 or more in the variable.)<br/>
                         Specify the size in byte which you want to read to the variable. After executing this function, the size of data which was actually read is set.<br/>
-                        The maximum size which can be read at a time is F-ROM size (fromsize) acquired by the <a href="Misc/cnc_getfrominfo.htm" target="_parent">cnc_getfrominfo</a> function.
+                        The maximum size which can be read at a time is F-ROM size (fromsize) acquired by the <a href="../misc/cnc_getfrominfo.xml" target="_parent">cnc_getfrominfo</a> function.
                         </p>
                     </content>
                 </item>
@@ -99,7 +99,7 @@
     <errcode>
         <item>
             <name>EW_FUNC</name>
-            <content>Unavailable or <a href="Misc/cnc_fromgetstart.htm" target="_parent">cnc_fromgetstart</a> function has not been executed.
+            <content>Unavailable or <a href="../misc/cnc_fromgetstart.xml" target="_parent">cnc_fromgetstart</a> function has not been executed.
             </content>
         </item>
         <item>
@@ -114,7 +114,7 @@
             <name>EW_DATA</name>
             <content>
                 F-ROM data reading error.<br/>
-                In order to get more information for this err_no return value, execute <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.<br/>
+                In order to get more information for this err_no return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.<br/>
                 The following detail status will be set onto the member, err_no of ODBERR structure. 
                <table>
                     <colgroup align="center" valign="top">
@@ -123,7 +123,7 @@
                     <tr>
                         <td>5</td>
                         <td>:</td>
-                        <td>The F-ROM data of the specified name does not exist.(The F-ROM data specified by <a href="Misc/cnc_fromgetstart.htm" target="_parent">cnc_fromgetstart</a> does not exist)</td>
+                        <td>The F-ROM data of the specified name does not exist.(The F-ROM data specified by <a href="../misc/cnc_fromgetstart.xml" target="_parent">cnc_fromgetstart</a> does not exist)</td>
                     </tr>
                     <tr>
                         <td>9</td>

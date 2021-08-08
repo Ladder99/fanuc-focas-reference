@@ -23,27 +23,27 @@
             The execution of the function for the following DATA SERVER is stopped.<br/>
             <br/>
             <table class="dd">
-                <tr><td><a href="Data/ds_delhddfile.htm" target="_parent">ds_delhddfile</a></td>    <td>Delete of file in hard disk</td></tr>
-                <tr><td><a href="Data/ds_copyhddfile.htm" target="_parent">ds_copyhddfile</a></td>  <td>Copy of file in hard disk</td></tr>
-                <tr><td><a href="Data/ds_puthddfile.htm" target="_parent">ds_puthddfile</a></td>    <td>PUT of file in hard disk</td></tr>
-                <tr><td><a href="Data/ds_mputhddfile.htm" target="_parent">ds_mputhddfile</a></td>  <td>MPUT of file in hard disk</td></tr>
-                <tr><td><a href="Data/ds_lputhddfile.htm" target="_parent">ds_lputhddfile</a></td>  <td>LIST-PUT of file in hard disk</td></tr>
-                <tr><td><a href="Data/ds_ldelhddfile.htm" target="_parent">ds_ldelhddfile</a></td>  <td>LIST-DELETE of file in hard disk</td></tr>
-                <tr><td><a href="Data/ds_gethostfile.htm" target="_parent">ds_gethostfile</a></td>  <td>GET of host file</td></tr>
-                <tr><td><a href="Data/ds_mgethostfile.htm" target="_parent">ds_mgethostfile</a></td><td>MGET of host file</td></tr>
-                <tr><td><a href="Data/ds_lgethostfile.htm" target="_parent">ds_lgethostfile</a></td><td>LIST-GET of host file</td></tr>
+                <tr><td><a href="../data/ds_delhddfile.xml" target="_parent">ds_delhddfile</a></td>    <td>Delete of file in hard disk</td></tr>
+                <tr><td><a href="../data/ds_copyhddfile.xml" target="_parent">ds_copyhddfile</a></td>  <td>Copy of file in hard disk</td></tr>
+                <tr><td><a href="../data/ds_puthddfile.xml" target="_parent">ds_puthddfile</a></td>    <td>PUT of file in hard disk</td></tr>
+                <tr><td><a href="../data/ds_mputhddfile.xml" target="_parent">ds_mputhddfile</a></td>  <td>MPUT of file in hard disk</td></tr>
+                <tr><td><a href="../data/ds_lputhddfile.xml" target="_parent">ds_lputhddfile</a></td>  <td>LIST-PUT of file in hard disk</td></tr>
+                <tr><td><a href="../data/ds_ldelhddfile.xml" target="_parent">ds_ldelhddfile</a></td>  <td>LIST-DELETE of file in hard disk</td></tr>
+                <tr><td><a href="../data/ds_gethostfile.xml" target="_parent">ds_gethostfile</a></td>  <td>GET of host file</td></tr>
+                <tr><td><a href="../data/ds_mgethostfile.xml" target="_parent">ds_mgethostfile</a></td><td>MGET of host file</td></tr>
+                <tr><td><a href="../data/ds_lgethostfile.xml" target="_parent">ds_lgethostfile</a></td><td>LIST-GET of host file</td></tr>
             </table>
             <p>
                 When execution is discontinued by this function, not EW_OK but EW_RESET
                 is returned to the return value of this function.  If the process of
                 the DATA SERVER had already ended when this function was executed, the
-                same value as <a href="Data/ds_rdresult.htm" target="_parent">ds_rdresult</a> is returned to the this function. 
+                same value as <a href="../data/ds_rdresult.xml" target="_parent">ds_rdresult</a> is returned to the this function. 
             </p>
             <p>
                 In case of the execution of the above function, the DATA SERVER keeps
                 the state of the occupation until the execution is discontinued by this
                 function or the execution result(normal termination or the errors other
-                than EW_BUSY) is acquired by the <a href="Data/ds_rdresult.htm" target="_parent">ds_rdresult</a>.
+                than EW_BUSY) is acquired by the <a href="../data/ds_rdresult.xml" target="_parent">ds_rdresult</a>.
             </p>
                 If these function is executed when the DATA SERVER is occupied, the EW_REJECT error will occur.<br/>
             <br/>

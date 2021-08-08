@@ -20,8 +20,8 @@
             <p>
                 Read NC program registered on the tape memory in CNC (program memory).<br/>
                 As for the Data window interface, this function is quite the same with the
-                <a href="Program/cnc_upload.htm" target="_parent">cnc_upload</a> function .
-                Refer to <a href="Program/cnc_upload.htm" target="_parent">cnc_upload</a> function for the format of input data, etc.
+                <a href="../program/cnc_upload.xml" target="_parent">cnc_upload</a> function .
+                Refer to <a href="../program/cnc_upload.xml" target="_parent">cnc_upload</a> function for the format of input data, etc.
             </p>
         </cmn>
     </doc>
@@ -37,7 +37,7 @@
         <item>
             <name>EW_FUNC</name>
             <content>
-                <a href="Program/cnc_upstart.htm" target="_parent">cnc_upstart</a> function has not been executed.
+                <a href="../program/cnc_upstart.xml" target="_parent">cnc_upstart</a> function has not been executed.
             </content>
         </item>
         <item>

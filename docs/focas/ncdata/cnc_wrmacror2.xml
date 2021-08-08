@@ -20,7 +20,7 @@
 
     <doc>
         <cmn>
-            <p>Writes the custom macro variables specified by the starting number, "s_no", and number of variables, "*num". The data is stored in "data" with double format. It is not influenced by setting of <a href="ncdata/cnc_setmactype.htm" target="_parent">cnc_setmactype</a> function.</p>
+            <p>Writes the custom macro variables specified by the starting number, "s_no", and number of variables, "*num". The data is stored in "data" with double format. It is not influenced by setting of <a href="../ncdata/cnc_setmactype.xml" target="_parent">cnc_setmactype</a> function.</p>
 
             <p>The kind of custom macro variable is as follows. The local variable(#1,..,#33) cannot be written.</p>
 
@@ -30,12 +30,12 @@
                 <tr>
                     <td>(1)</td>
                     <td>Common variable (#100,..,#999)<br/>
-                        See the description of <a href="ncdata/cnc_rdmacroinfo.htm" target="_parent">cnc_rdmacroinfo</a> function about the available range of common variables.</td>
+                        See the description of <a href="../ncdata/cnc_rdmacroinfo.xml" target="_parent">cnc_rdmacroinfo</a> function about the available range of common variables.</td>
                 </tr>
                 <tr>
                     <td>(2)</td>
                     <td>Common variable (#98000Å`#98499)<br/>
-                        See the description of <a href="ncdata/cnc_rdmacroinfo.htm" target="_parent">cnc_rdmacroinfo</a> function about the available range of common variables.</td>
+                        See the description of <a href="../ncdata/cnc_rdmacroinfo.xml" target="_parent">cnc_rdmacroinfo</a> function about the available range of common variables.</td>
                 </tr>
                 </colgroup>
                 </colgroup>

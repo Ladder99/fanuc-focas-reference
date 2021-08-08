@@ -138,7 +138,7 @@ typedef struct  iodbpmc {
                                 <dd>Specify the end PMC address number.</dd>
                         </dl>
                         See "The referenceable range of PMC data" of "Read PMC data(area specified)
-                        (<a href="Pmc/pmc_rdpmcrng.htm" target="_parent">pmc_rdpmcrng</a>)" about the kind of the
+                        (<a href="../pmc/pmc_rdpmcrng.xml" target="_parent">pmc_rdpmcrng</a>)" about the kind of the
                         PMC address, the start address, and the end address.
                     </content>
                 </item>

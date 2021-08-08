@@ -23,7 +23,7 @@
             <p>Writes tuning data(parameter input) for high-speed and high-precision
             machining.</p>
 
-            <p>This function is not supported on Series 15i. The function which writes CNC parameter ( <a href="ncdata/cnc_wrparam.htm" target="_parent">cnc_wrparam</a> or <a href="ncdata/cnc_wrparas.htm" target="_parent">cnc_wrparas</a> ) can be substituted for this function.<br/>
+            <p>This function is not supported on Series 15i. The function which writes CNC parameter ( <a href="../ncdata/cnc_wrparam.xml" target="_parent">cnc_wrparam</a> or <a href="../ncdata/cnc_wrparas.xml" target="_parent">cnc_wrparas</a> ) can be substituted for this function.<br/>
 Refer to CNC operator's manual and CNC parameter manual in order to know CNC parameters which correspond to the data to be written by this function.</p>
 
         </cmn>
@@ -223,7 +223,7 @@ hppr.tune[2].slct,...,hppr.tune[2].reserve
                 Data error<br/>
                 Tuning data for high-speed and high-precision
                                     machining(IODBHPPR) is wrong.<br/>
-                In order to get more information for this err_no return value, execute <a href="misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.  The following details status will be set onto the member, err_no of ODBERR structure.<br/>
+                In order to get more information for this err_no return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.  The following details status will be set onto the member, err_no of ODBERR structure.<br/>
 
                 <table class="dd">
                     <tr>

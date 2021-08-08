@@ -25,7 +25,7 @@
             in the data array of IODBOVL.</p>
 
             <p>The decimal point position of the manual overlapped motion value can
-            be acquired in the <a href="misc/cnc_getfigure.htm" target="_parent">cnc_getfigure</a> function.</p>
+            be acquired in the <a href="../misc/cnc_getfigure.xml" target="_parent">cnc_getfigure</a> function.</p>
 
         </cmn>
     </doc>

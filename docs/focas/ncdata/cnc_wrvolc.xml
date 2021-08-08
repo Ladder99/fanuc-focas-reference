@@ -127,7 +127,7 @@ typedef struct odbvolc {
             <name>EW_DATA</name>
             <content>
                 Data error<br/>
-                     In order to get more information for this return value, execute <a href="misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr
+                     In order to get more information for this return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr
                      </a> function.<br/>  The following detail status will be set onto the member, err_no of ODBERR structure.
                     <table class="dd">
                         <tr> <td>0</td><td>:</td><td>3-dimensional error compensation data(data) is worng. </td> </tr>

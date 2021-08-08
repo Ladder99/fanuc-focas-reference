@@ -22,10 +22,10 @@
         <cmn>
             <p>
                 Gets the type of custom macro variable which is used by 
-                <a href="ncdata/cnc_rdmacro.htm" target="_parent">cnc_rdmacro</a>, 
-                <a href="ncdata/cnc_wrmacro.htm" target="_parent">cnc_wrmacro</a>, 
-                <a href="ncdata/cnc_rdmacror.htm" target="_parent">cnc_rdmacror</a>, 
-                <a href="ncdata/cnc_wrmacror.htm" target="_parent">cnc_wrmacror</a> functions.
+                <a href="../ncdata/cnc_rdmacro.xml" target="_parent">cnc_rdmacro</a>, 
+                <a href="../ncdata/cnc_wrmacro.xml" target="_parent">cnc_wrmacro</a>, 
+                <a href="../ncdata/cnc_rdmacror.xml" target="_parent">cnc_rdmacror</a>, 
+                <a href="../ncdata/cnc_wrmacror.xml" target="_parent">cnc_wrmacror</a> functions.
             </p>
         </cmn>
     </doc>

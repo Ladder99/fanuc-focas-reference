@@ -57,7 +57,7 @@
                         </table>
                         <p>
                             The data within the number of spindles acquired by
-                            <a href="Motor/cnc_rdnspdl.htm" target="_parent">cnc_rdnspdl</a> function is valid.
+                            <a href="../motor/cnc_rdnspdl.xml" target="_parent">cnc_rdnspdl</a> function is valid.
                         </p>
 
 <pre>
@@ -104,7 +104,7 @@
                             </p>
                             <p>
                                 The data within the number of spindles acquired by
-                                <a href="Motor/cnc_rdnspdl.htm" target="_parent">cnc_rdnspdl</a> function is valid.
+                                <a href="../motor/cnc_rdnspdl.xml" target="_parent">cnc_rdnspdl</a> function is valid.
                             </p>
 
 <pre>

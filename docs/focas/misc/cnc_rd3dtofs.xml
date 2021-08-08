@@ -23,7 +23,7 @@
         <p>Reads the mode and vector of the 3-dimensional tool compensation.</p>
         <p>These are stored in each member of ODB3DTO structure.</p>
 
-The places of decimal points can be got by <a href="misc/cnc_getfigure.htm" target="_parent">cnc_getfigure</a> function.
+The places of decimal points can be got by <a href="../misc/cnc_getfigure.xml" target="_parent">cnc_getfigure</a> function.
       </cmn>
     </doc>
 

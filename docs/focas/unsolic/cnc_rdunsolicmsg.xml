@@ -22,7 +22,7 @@
         <cmn>
 Reads the unsolicited messaging data. This function is available only for Series 16i/18i/21i, 0i and Power Mate i. This function cannot be used with Visual Basic. Please use Visual C++ for making your application.
 <br/>
-Please refer to <a href="./Unsolic.htm" target="_parent">"Unsolicited Messaging Function"</a> for the detail information of unsolicited messaging function.
+Please refer to <a href=".././Unsolic.xml" target="_parent">"Unsolicited Messaging Function"</a> for the detail information of unsolicited messaging function.
 <p/>
 This function does not have the argument, library handle "FlibHndl". 
         </cmn>
@@ -38,7 +38,7 @@ This function does not have the argument, library handle "FlibHndl".
                     <type>in</type>
                     <content>
                         <p>
-Handle for the Message data reading. Specify the value acquired by the <a href="UnSolic/cnc_unsolicstart.htm" target="_parent">cnc_unsolicstart</a> or the value notified by the argument(lParam) of the message reception function.
+Handle for the Message data reading. Specify the value acquired by the <a href="../unSolic/cnc_unsolicstart.xml" target="_parent">cnc_unsolicstart</a> or the value notified by the argument(lParam) of the message reception function.
                         </p>
                     </content>
                 </item>
@@ -65,7 +65,7 @@ typedef struct idbunsolicmsg {
                             <dt>rdsize</dt>
                                 <dd>Size of PMC data which was transmitted by the unsolicited messaging. (byte)</dd>
                             <dt>data</dt>
-                                <dd>Specify the pointer to the buffer in which the PMC data which was transmitted is stored. The size of this area must ensure the size which has been specified as "rdsize" at <a href="UnSolic/cnc_wrunsolicprm.htm" target="_parent">cnc_wrunsolicprm</a>.</dd>
+                                <dd>Specify the pointer to the buffer in which the PMC data which was transmitted is stored. The size of this area must ensure the size which has been specified as "rdsize" at <a href="../unSolic/cnc_wrunsolicprm.xml" target="_parent">cnc_wrunsolicprm</a>.</dd>
                             <dt>Setting example)</dt>
                                     <table class="dd">
                                         <tr><td>IP address          </td> <td>:</td> <td>192.168.0.1</td></tr>

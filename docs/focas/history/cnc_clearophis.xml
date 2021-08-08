@@ -31,7 +31,7 @@
                 The 3 kinds data, that is, the operation history, the alarm history, and the external operator message history can be cleared. <br/><br/>
 <!--                Parameter No.11354#2 = 0 : the opeation history data, the alarm history data and the external operator's message history data are cleared.<br/> -->
 <!--                Parameter No.11354#2 = 1 : It is possible to select the clearing of history data type by setting "slct"<br/><br/> -->
-                Please use <a href="History/cnc_clearomhis.htm" target="_parent">cnc_clearomhis</a> function instead of this for other series.
+                Please use <a href="../history/cnc_clearomhis.xml" target="_parent">cnc_clearomhis</a> function instead of this for other series.
             <br/><br/>
             </ul>
 

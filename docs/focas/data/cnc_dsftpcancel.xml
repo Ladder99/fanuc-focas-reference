@@ -21,21 +21,21 @@
     <doc>
         <cmn>
             This function is used to cancel the following operetions.<br/>
-            <a href="Data/cnc_dsget_req.htm" target="_parent">cnc_dsget_req()</a><br/>
-            <a href="Data/cnc_dsput_req.htm" target="_parent">cnc_dsput_req()</a><br/>
-            <a href="Data/cnc_dsmget_req.htm" target="_parent">cnc_dsmget_req()</a><br/>
-            <a href="Data/cnc_dsmput_req.htm" target="_parent">cnc_dsmput_req()</a><br/>
-            <a href="Data/cnc_dslistget_req.htm" target="_parent">cnc_dslistget_req()</a><br/>
-            <a href="Data/cnc_dslistput_req.htm" target="_parent">cnc_dslistput_req()</a><br/>
-            <a href="Data/cnc_dslistdel_req.htm" target="_parent">cnc_dslistdel_req()</a><br/>
-            Result of stopping file transfer calls <a href="Data/cnc_dsftpstat.htm" target="_parent">cnc_dsftpstat()</a> function. <br/>
+            <a href="../data/cnc_dsget_req.xml" target="_parent">cnc_dsget_req()</a><br/>
+            <a href="../data/cnc_dsput_req.xml" target="_parent">cnc_dsput_req()</a><br/>
+            <a href="../data/cnc_dsmget_req.xml" target="_parent">cnc_dsmget_req()</a><br/>
+            <a href="../data/cnc_dsmput_req.xml" target="_parent">cnc_dsmput_req()</a><br/>
+            <a href="../data/cnc_dslistget_req.xml" target="_parent">cnc_dslistget_req()</a><br/>
+            <a href="../data/cnc_dslistput_req.xml" target="_parent">cnc_dslistput_req()</a><br/>
+            <a href="../data/cnc_dslistdel_req.xml" target="_parent">cnc_dslistdel_req()</a><br/>
+            Result of stopping file transfer calls <a href="../data/cnc_dsftpstat.xml" target="_parent">cnc_dsftpstat()</a> function. <br/>
             <img src="Data/cnc_dsftpcancel.gif"></img>
             <dl>
             <table border="0" class = "dd">
             <tr> <td width = "40"> </td><td>*</td><td>"Req." is declare the stop demands of a file transfer each FTP. </td> </tr>
-            <tr> <td width = "40"> </td><td> </td><td>"ret=" is declare the completion status when perfoming <a href="Data/cnc_dsftpstat.htm" target="_parent">cnc_dsftpstat()</a> function.</td> </tr>
+            <tr> <td width = "40"> </td><td> </td><td>"ret=" is declare the completion status when perfoming <a href="../data/cnc_dsftpstat.xml" target="_parent">cnc_dsftpstat()</a> function.</td> </tr>
             </table></dl>
-            It is necessary to get EW_OK or EW_REJECT or EW_DTSRVR as the completion status by <a href="Data/cnc_dsftpstat.htm" target="_parent">cnc_dsftpstat()</a> when this function was executed successfully. <br/>
+            It is necessary to get EW_OK or EW_REJECT or EW_DTSRVR as the completion status by <a href="../data/cnc_dsftpstat.xml" target="_parent">cnc_dsftpstat()</a> when this function was executed successfully. <br/>
         </cmn>
     </doc>
 
@@ -61,7 +61,7 @@
         <item>
             <name>EW_NOOPT</name>
             <content>No option<br/>
-                In order to get more information for this err_no return value, execute <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr()</a> function.<br/>
+                In order to get more information for this err_no return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr()</a> function.<br/>
                 The following details status will be set onto the member, err_no of ODBERR structure.<br/>
                 <table class="dd">
                     <tr> <td>22</td><td>:</td><td>The option board is nothing</td> </tr>

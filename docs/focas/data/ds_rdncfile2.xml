@@ -116,7 +116,7 @@
                 <li>The specified file does not exist in the DATA SERVER.</li>
                 <li>The selected program was about to be overwrited.</li>
                 <li>Specified program number is protected by
-                    <a href="program/cnc_setpglock.htm" target="_parent">cnc_setpglock</a> function.</li>
+                    <a href="../program/cnc_setpglock.xml" target="_parent">cnc_setpglock</a> function.</li>
             </content>
         </item>
       <item>

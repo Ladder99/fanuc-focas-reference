@@ -22,7 +22,7 @@
 <p>
 
 Reads the unsolicited messaging data. This function is available only for Series Series 30i/31i/32i, 0i-D/F and PMi-A. This function cannot be used with Visual Basic. Please use Visual C++ for making your application.<br/>
-Please refer to <a href="./Unsolic.htm" target="_parent">"Unsolicited Messaging Function"</a> for the detail information of unsolicited messaging function.
+Please refer to <a href=".././Unsolic.xml" target="_parent">"Unsolicited Messaging Function"</a> for the detail information of unsolicited messaging function.
 <p/>
 This function does not have the argument, library handle "FlibHndl". 
 </p>
@@ -39,7 +39,7 @@ This function does not have the argument, library handle "FlibHndl".
                     <type>in</type>
                     <content>
                         <p>
-Handle for the Message data reading. Specify the value acquired by the <a href="UnSolic/cnc_unsolicstart.htm" target="_parent">cnc_unsolicstart</a> or the value notified by the argument(lParam) of the message reception function.
+Handle for the Message data reading. Specify the value acquired by the <a href="../unSolic/cnc_unsolicstart.xml" target="_parent">cnc_unsolicstart</a> or the value notified by the argument(lParam) of the message reception function.
                         </p>
                     </content>
                 </item>

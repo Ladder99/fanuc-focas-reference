@@ -64,7 +64,7 @@
             </p>
             <p>
                 The setting by this function becomes effective until the setting is released by 
-                <a href="Program/cnc_resetpdf_pglock.htm" target="_parent">cnc_resetpdf_pglock</a> or the CNC is turned off.
+                <a href="../program/cnc_resetpdf_pglock.xml" target="_parent">cnc_resetpdf_pglock</a> or the CNC is turned off.
             </p>
             <p>
                 The procedure to edit existing program by the application is shown as follows.
@@ -73,7 +73,7 @@
                         <tr><td valign="top">1)</td><td>The protection of running/editing to the program which wants to be edited is set by cnc_setpdf_pglock.</td></tr>
                         <tr><td valign="top">2)</td><td>The program is edited by the line editing function.</td></tr>
                         <tr><td valign="top">3)</td><td>The protection of running/editing is released by 
-                            <a href="Program/cnc_resetpdf_pglock.htm" target="_parent">cnc_resetpdf_pglock</a> and editing is end.</td></tr>
+                            <a href="../program/cnc_resetpdf_pglock.xml" target="_parent">cnc_resetpdf_pglock</a> and editing is end.</td></tr>
                         <tr></tr>
                         <tr><td valign="top">*</td><td> If you want to edit the new program, it is necessary to register the new program before the procedure 1.</td></tr>
                     </table>
@@ -132,7 +132,7 @@
             <name>EW_DATA</name>
             <content>
                 Program number is worng.<br/>
-                In order to get more information for this err_no return value, execute <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.<br/>
+                In order to get more information for this err_no return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.<br/>
                 The following detail status will be set onto the member, err_no of ODBERR structure.<br/>
                 <table>
                     <tr><td valign="top">2</td><td valign="top">:</td><td>The program specified by program name(prog_name) does not exist.</td></tr>

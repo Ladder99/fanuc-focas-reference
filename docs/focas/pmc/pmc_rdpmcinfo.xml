@@ -51,7 +51,7 @@
                                 <tr>
                                     <td>0,...</td>
                                     <td>:</td>
-                                    <td>refer to the table of <a href="Pmc/pmc_rdpmcrng.htm" target="_parent">pmc_rdpmcrng</a> function</td>
+                                    <td>refer to the table of <a href="../pmc/pmc_rdpmcrng.xml" target="_parent">pmc_rdpmcrng</a> function</td>
                                 </tr>
                                 <tr>
                                     <td>-1</td>
@@ -125,7 +125,7 @@ typedef struct odbpmcinf {
                                 <dd>Top number of PMC address</dd>
                             <dt>last_num</dt>
                                 <dd>Last number of PMC address</dd>
-                                <dd>* Refer to the table of <a href="Pmc/pmc_rdpmcrng.htm" target="_parent">pmc_rdpmcrng</a>                                        function.</dd>
+                                <dd>* Refer to the table of <a href="../pmc/pmc_rdpmcrng.xml" target="_parent">pmc_rdpmcrng</a>                                        function.</dd>
                         </dl>
                     </content>
                 </item>

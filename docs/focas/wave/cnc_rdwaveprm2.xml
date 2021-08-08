@@ -86,7 +86,7 @@ typedef struct iodbwvprm {
                     <td>:</td>
                     <td>
                         The sampling of the data is started by
-                        <a href="Wave/cnc_wavestart.htm" target="_parent">cnc_wavestart</a> function,
+                        <a href="../wave/cnc_wavestart.xml" target="_parent">cnc_wavestart</a> function,
                         and stopped after the specified sampling time.
                     </td>
                 </tr>
@@ -95,7 +95,7 @@ typedef struct iodbwvprm {
                     <td>:</td>
                     <td>
                         The sampling of the data is started when the trigger event occurs after calling
-                        <a href="Wave/cnc_wavestart.htm" target="_parent">cnc_wavestart</a> function,
+                        <a href="../wave/cnc_wavestart.xml" target="_parent">cnc_wavestart</a> function,
                         and stopped after the specified sampling time.<br/>
                         The trigger events are the followings.
                     </td>
@@ -118,7 +118,7 @@ typedef struct iodbwvprm {
                 </tr>
                 <tr>
                     <td>100 to 120</td><td>:</td><td>The sampling of the data is started by 
-                        <a href="Wave/cnc_wavestart.htm" target="_parent">cnc_wavestart</a> function,
+                        <a href="../wave/cnc_wavestart.xml" target="_parent">cnc_wavestart</a> function,
                         and stopped when the trigger event occurs.<br/>
                         The trigger events are the followings.
                     </td>
@@ -165,7 +165,7 @@ typedef struct iodbwvprm {
             <dd>number of PMC address of trigger machine signal</dd>
             <dd>The PMC address number which corresponds to machine signal for a trigger event is stored.</dd>
             <dd>It is valid when condition is 1/2/3/11/12/13/101/102/103/111/112/113.</dd>
-            <dd>Range of stored number is shown in <a href="Pmc/pmc_rdpmcrng.htm" target="_parent">pmc_rdpmcrng</a>
+            <dd>Range of stored number is shown in <a href="../pmc/pmc_rdpmcrng.xml" target="_parent">pmc_rdpmcrng</a>
                 function reference.
             </dd>
             <br/>
@@ -537,7 +537,7 @@ typedef struct iodbwvprm {
                     <dd>number of PMC address of machine signal</dd>
                     <dd>The PMC address number which corresponds to machine signal to trace is stored.</dd>
                     <dd>It is valid when the kind of waveform data is 13.</dd>
-                    <dd>Range of stored number is shown in <a href="Pmc/pmc_rdpmcrng.htm" target="_parent">pmc_rdpmcrng</a> function reference.</dd>
+                    <dd>Range of stored number is shown in <a href="../pmc/pmc_rdpmcrng.xml" target="_parent">pmc_rdpmcrng</a> function reference.</dd>
                         </dl>
                     </content>
                 </item>

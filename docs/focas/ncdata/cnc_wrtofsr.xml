@@ -22,7 +22,7 @@
             <p>Writes the tool offset value specified by "datano_s","datano_e","type".
                The offset value must be stored in "IODBTO" with signed binary format.
             </p>
-            <p>The unit of offset value is the same as "Write tool offset value(<a href="ncdata/cnc_wrtofs.htm" target="_parent">cnc_wrtofs</a>)". See the description of <a href="ncdata/cnc_wrtofs.htm" target="_parent">cnc_wrtofs</a> function.
+            <p>The unit of offset value is the same as "Write tool offset value(<a href="../ncdata/cnc_wrtofs.xml" target="_parent">cnc_wrtofs</a>)". See the description of <a href="../ncdata/cnc_wrtofs.xml" target="_parent">cnc_wrtofs</a> function.
             </p>
         </cmn>
     </doc>
@@ -96,7 +96,7 @@ typedef struct iodbto {
                         <dl>
                             <dt>datano_s</dt>
                             <dd>Specify the start tool offset number.<br/>
-                                The available number of tool offset can be got by <a href="ncdata/cnc_rdtofsinfo.htm" target="_parent">cnc_rdtofsinfo</a> function.</dd>
+                                The available number of tool offset can be got by <a href="../ncdata/cnc_rdtofsinfo.xml" target="_parent">cnc_rdtofsinfo</a> function.</dd>
                         </dl>
                         <dl>
                             <dt>datano_e</dt>
@@ -107,7 +107,7 @@ typedef struct iodbto {
                             <dd>Specify the tool offset type.</dd>
                         </dl>
 
-                        <p>The combinations of the value specified in "type", the data block length "length", the kind of offset value to be written and the member in  which the offset value must be stored are the same as "Read tool offset value(area specified)(<a href="ncdata/cnc_rdtofsr.htm" target="_parent">cnc_rdtofsr</a>)".  See the description of <a href="ncdata/cnc_rdtofsr.htm" target="_parent">cnc_rdtofsr</a> function.</p>
+                        <p>The combinations of the value specified in "type", the data block length "length", the kind of offset value to be written and the member in  which the offset value must be stored are the same as "Read tool offset value(area specified)(<a href="../ncdata/cnc_rdtofsr.xml" target="_parent">cnc_rdtofsr</a>)".  See the description of <a href="../ncdata/cnc_rdtofsr.xml" target="_parent">cnc_rdtofsr</a> function.</p>
 
                     </content>
                 </item>

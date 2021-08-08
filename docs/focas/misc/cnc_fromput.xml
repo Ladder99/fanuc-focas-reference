@@ -23,14 +23,14 @@
     <doc>
         <cmn>
             <p>Writes the F-ROM data to CNC.<br/>
-                After F-ROM data writing, execute <a href="Misc/cnc_fromputend.htm" target="_parent">cnc_fromputend</a> function in order to indicate the termination of writing process.</p>
+                After F-ROM data writing, execute <a href="../misc/cnc_fromputend.xml" target="_parent">cnc_fromputend</a> function in order to indicate the termination of writing process.</p>
 
                 <p>The procedure for reading F-ROM data from the file and storing into the F-ROM on the CNC is as follows.</p>
                 
                 <p><img src="Misc/fromput.gif"></img></p>
                 
                 <p>Internal 128KB buffer is prepared for data writing.<br/>
-                When the data transferred by the <a href="Misc/cnc_fromput.htm" target="_parent">cnc_fromput</a> function becomes 128KB (at the first time, 128KB+128bytes), the CNC executes the writing process to F-ROM.</p>
+                When the data transferred by the <a href="../misc/cnc_fromput.xml" target="_parent">cnc_fromput</a> function becomes 128KB (at the first time, 128KB+128bytes), the CNC executes the writing process to F-ROM.</p>
                 
                 <p><img src="Misc/fromput2.gif"></img></p>
                 
@@ -74,7 +74,7 @@ You must write all data from F-ROM file by this function.</p>
                     <content>
                         <p>Pointer to the variable to which the data length was set.<br/>
                         Specify the size in byte which you want to write to the variable. After executing this function, the size of data which was actually written is set.<br/>
-                        The maximum size which can be written at a time is F-ROM size (fromsize) acquired by the <a href="Misc/cnc_getfrominfo.htm" target="_parent">cnc_getfrominfo</a> function.
+                        The maximum size which can be written at a time is F-ROM size (fromsize) acquired by the <a href="../misc/cnc_getfrominfo.xml" target="_parent">cnc_getfrominfo</a> function.
                         </p>
                             <table>
                                 <tr><td rowspan="3" valign="top">Note) </td>
@@ -93,7 +93,7 @@ You must write all data from F-ROM file by this function.</p>
     <errcode>
         <item>
             <name>EW_FUNC</name>
-            <content>Unavailable or <a href="Misc/cnc_fromputstart.htm" target="_parent">cnc_fromputstart</a> function has not been executed.
+            <content>Unavailable or <a href="../misc/cnc_fromputstart.xml" target="_parent">cnc_fromputstart</a> function has not been executed.
     </content>
         </item>
         <item>
@@ -108,7 +108,7 @@ You must write all data from F-ROM file by this function.</p>
             <name>EW_DATA</name>
             <content>
 F-ROM data writing error.<br/>
-In order to get more information for this err_no return value, execute <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> . 
+In order to get more information for this err_no return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> . 
 The following detail status will be set onto the member, err_no of ODBERR structure. 
                 <table>
                     <colgroup align="center" valign="top">

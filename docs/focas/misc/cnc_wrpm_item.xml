@@ -98,7 +98,7 @@ typedef struct tagIODBPMAINTE {
 </pre>
             <dt>name</dt>
             <dd>Specify Name string</dd>
-                        <dd>Please refer to <a href="misc/cnc_wrpm_mcnitem.htm" target="_parent">cnc_wrpm_mcnitem</a> for the method of specifying the name.</dd>
+                        <dd>Please refer to <a href="../misc/cnc_wrpm_mcnitem.xml" target="_parent">cnc_wrpm_mcnitem</a> for the method of specifying the name.</dd>
 
             <dt>type</dt>
             <dd>Specify Life count type</dd>
@@ -178,7 +178,7 @@ typedef struct tagIODBPMAINTE {
             <name>EW_DATA</name>
             <content>
 data error<br/>
-In order to get more information for this return value, execute <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.  The following details status will be set onto the member, err_no of ODBERR structure.<br/>
+In order to get more information for this return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.  The following details status will be set onto the member, err_no of ODBERR structure.<br/>
 0 : Completion status other than EW_DATA<br/>
 1 : Name string error<br/>
 2 : Life count type error<br/>

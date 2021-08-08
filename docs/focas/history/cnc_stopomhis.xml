@@ -24,16 +24,16 @@
                 Stops logging the external operator's message history data.
             </p>
             <p>
-                The specification for Series 30i, 0i-D/F and PMi-A are same as <a href="History/cnc_stopophis.htm" target="_parent">cnc_stopophis</a>.
+                The specification for Series 30i, 0i-D/F and PMi-A are same as <a href="../history/cnc_stopophis.xml" target="_parent">cnc_stopophis</a>.
             </p>
             <p>
                 The sequence of reading the external operator's message history data is as follows.
             </p>
             <ol>
                 <li>Stop logging.(cnc_stopomhis)(must be done)</li>
-                <li>Read history data information.(<a href="History/cnc_rdomhisinfo.htm" target="_parent">cnc_rdomhisinfo</a>, <a href="History/cnc_rdomhisno.htm" target="_parent">cnc_rdomhisno(30i, 0i-D/F, PMi-A only)</a>)</li>
-                <li>Read history data.(<a href="History/cnc_rdomhistry.htm" target="_parent">cnc_rdomhistry</a>)</li>
-                <li>Restart logging.(<a href="History/cnc_startomhis.htm" target="_parent">cnc_startomhis</a>)(must be done)</li>
+                <li>Read history data information.(<a href="../history/cnc_rdomhisinfo.xml" target="_parent">cnc_rdomhisinfo</a>, <a href="../history/cnc_rdomhisno.xml" target="_parent">cnc_rdomhisno(30i, 0i-D/F, PMi-A only)</a>)</li>
+                <li>Read history data.(<a href="../history/cnc_rdomhistry.xml" target="_parent">cnc_rdomhistry</a>)</li>
+                <li>Restart logging.(<a href="../history/cnc_startomhis.xml" target="_parent">cnc_startomhis</a>)(must be done)</li>
             </ol>
        </cmn>
         <is>
@@ -42,7 +42,7 @@
                 Stops logging the external operator's message history data.
             </p>
             <p>
-                The specification is same as <a href="History/cnc_stopophis.htm" target="_parent">cnc_stopophis</a>.
+                The specification is same as <a href="../history/cnc_stopophis.xml" target="_parent">cnc_stopophis</a>.
             </p>
        </cmn>
         </is>

@@ -20,7 +20,7 @@
     <doc>
         <cmn>
             <p>
-                Sets the default node number which is allocated by <a href="Handle/cnc_allclibhndl.htm" target="_parent">cnc_allclibhndl</a> function.
+                Sets the default node number which is allocated by <a href="../handle/cnc_allclibhndl.xml" target="_parent">cnc_allclibhndl</a> function.
             </p>
         </cmn>
     </doc>

@@ -30,7 +30,7 @@
 
             <p>
                 When DNC operation or M198 operation is aborted on CNC side, this function returns EW_RESET.<br/>
-                In this case, call <a href="Program/cnc_dncend2.htm" target="_parent">cnc_dncend2</a> with
+                In this case, call <a href="../program/cnc_dncend2.xml" target="_parent">cnc_dncend2</a> with
                 DNC_CANCEL as the output result in order to terminate  the output of NC program.
             </p>
             <p>Following shows the format of NC part program to be output.</p>
@@ -110,13 +110,13 @@
             <content>
                 Reset or stop request<br/>
                 'RESET or STOP' was pushed.<br/>
-                Call the <a href="Program/cnc_dncend2.htm" target="_parent">cnc_dncend2</a> function.
+                Call the <a href="../program/cnc_dncend2.xml" target="_parent">cnc_dncend2</a> function.
             </content>
         </item>
         <item>
             <name>EW_FUNC</name>
             <content>
-                <a href="Program/cnc_dncstart2.htm" target="_parent">cnc_dncstart2</a> function has not been executed.
+                <a href="../program/cnc_dncstart2.xml" target="_parent">cnc_dncstart2</a> function has not been executed.
             </content>
         </item>
         <item>
@@ -157,13 +157,13 @@
                 <name>EW_RESET</name>
                 <content>
                     Reset or stop request<br/>
-                    Call the <a href="Program/cnc_dncend2.htm" target="_parent">cnc_dncend2</a> function.
+                    Call the <a href="../program/cnc_dncend2.xml" target="_parent">cnc_dncend2</a> function.
                 </content>
             </item>
             <item>
                 <name>EW_FUNC</name>
                 <content>
-                    <a href="Program/cnc_dncstart2.htm" target="_parent">cnc_dncstart2</a> function has not been executed.
+                    <a href="../program/cnc_dncstart2.xml" target="_parent">cnc_dncstart2</a> function has not been executed.
                 </content>
             </item>
             <item>

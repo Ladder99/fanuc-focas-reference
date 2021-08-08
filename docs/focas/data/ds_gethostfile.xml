@@ -26,15 +26,15 @@
                 In this function, the control returns to the application without only
                 ordering the transfer of the file according to the "get" command of
                 the FTP to the DATA SERVER, and waiting for the end of the processing.
-                The final result can be acquired by <a href="Data/ds_rdresult.htm" target="_parent">ds_rdresult</a> function.
+                The final result can be acquired by <a href="../data/ds_rdresult.xml" target="_parent">ds_rdresult</a> function.
              </p>
              <p>
                 When this function ends normally, the process of DATA SERVER is
-                occupied by the requested work.  When the <a href="Data/ds_rdresult.htm" target="_parent">ds_rdresult</a>
+                occupied by the requested work.  When the <a href="../data/ds_rdresult.xml" target="_parent">ds_rdresult</a>
                 is normal end or it returns the values other than EW_BUSY, this occupation are released.
              </p>
                 When the process of requested work by this function is executing, the
-                processing can be discontinued by <a href="Data/ds_cancel.htm" target="_parent">ds_cancel</a>.  
+                processing can be discontinued by <a href="../data/ds_cancel.xml" target="_parent">ds_cancel</a>.  
                 When processing is discontinued, the occupation of the DATA SERVER is released.
         </cmn>
     </doc>

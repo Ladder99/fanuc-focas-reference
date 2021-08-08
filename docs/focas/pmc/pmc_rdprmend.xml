@@ -24,7 +24,7 @@
             <br/>
             This function is executable other than EDIT mode.<br/>
             However, when EW_MODE or EW_PATH occurred by
-            <a href="Pmc/pmc_rdpmcparam.htm" target="_parent">pmc_rdpmcparam</a>, 
+            <a href="../pmc/pmc_rdpmcparam.xml" target="_parent">pmc_rdpmcparam</a>, 
             the return value of this function becomes the same value, too.
         </cmn>
     </doc>
@@ -54,7 +54,7 @@
         <item>
             <name>EW_FUNC</name>
             <content>
-                <a href="Pmc/pmc_rdprmstart.htm" target="_parent">pmc_rdprmstart</a> function has not been executed.
+                <a href="../pmc/pmc_rdprmstart.xml" target="_parent">pmc_rdprmstart</a> function has not been executed.
             </content>
         </item>
         <item>
@@ -67,7 +67,7 @@
             <name>EW_MODE</name>
             <content>
                 CNC mode error<br/>
-                <a href="Pmc/pmc_rdpmcparam.htm" target="_parent">pmc_rdpmcparam</a> was executed other than the EDIT mode.
+                <a href="../pmc/pmc_rdpmcparam.xml" target="_parent">pmc_rdpmcparam</a> was executed other than the EDIT mode.
             </content>
         </item>
         <item>

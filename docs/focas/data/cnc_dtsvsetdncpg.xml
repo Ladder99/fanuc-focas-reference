@@ -83,7 +83,7 @@ No option
             <name>EW_DTSRVR</name>
             <content>
                  DATA SERVER error<br/>
-                 In order to get more information for this err_no return value, execute <a href="misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.  The following details status will be set onto the member, err_no of ODBERR structure.
+                 In order to get more information for this err_no return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.  The following details status will be set onto the member, err_no of ODBERR structure.
                 <table class="dd">
                     <tr><td>1 <![CDATA[<-->]]>  498</td><td>:</td><td>DATA SERVER error</td></tr>
                     <tr><td>499</td><td>:</td> <td>DATA SERVER system error</td></tr>

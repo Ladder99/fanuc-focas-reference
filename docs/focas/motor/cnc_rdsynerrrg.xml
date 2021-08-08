@@ -25,7 +25,7 @@
             </p>
             <p>
                 The synchronous error in the synchronous control mode is able to be
-                acquired by <a href="Motor/cnc_rdsynerrsy.htm" target="_parent">cnc_rdsynerrsy</a> function.
+                acquired by <a href="../motor/cnc_rdsynerrsy.xml" target="_parent">cnc_rdsynerrsy</a> function.
             </p>
             <p>This synchronous error is valid only during the rigid tapping mode.</p>
         </cmn>

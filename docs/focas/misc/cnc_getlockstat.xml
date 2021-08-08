@@ -213,55 +213,55 @@ The meaning of each bit is as follows.
                                 <tr>
                                     <td rowspan="7">pattern[0]</td>
                                     <td>bit 0</td>
-                                    <td><a href="Misc/cnc_fromgetstart.htm" target="_parent">cnc_fromgetstart</a><br/>
-                                    <a href="Misc/cnc_fromput.htm" target="_parent">cnc_fromput</a><br/>
-                                    <a href="Misc/cnc_fromremove.htm" target="_parent">cnc_fromremove</a>
+                                    <td><a href="../misc/cnc_fromgetstart.xml" target="_parent">cnc_fromgetstart</a><br/>
+                                    <a href="../misc/cnc_fromput.xml" target="_parent">cnc_fromput</a><br/>
+                                    <a href="../misc/cnc_fromremove.xml" target="_parent">cnc_fromremove</a>
                                     </td>
                                     <td>To the file of the PMC ladder</td>
                                 </tr>
                                 <tr>
                                     <td>bit 1</td>
-                                    <td><a href="Misc/cnc_fromgetstart.htm" target="_parent">cnc_fromgetstart</a><br/>
-                                    <a href="Misc/cnc_fromput.htm" target="_parent">cnc_fromput</a><br/>
-                                    <a href="Misc/cnc_fromremove.htm" target="_parent">cnc_fromremove</a>
+                                    <td><a href="../misc/cnc_fromgetstart.xml" target="_parent">cnc_fromgetstart</a><br/>
+                                    <a href="../misc/cnc_fromput.xml" target="_parent">cnc_fromput</a><br/>
+                                    <a href="../misc/cnc_fromremove.xml" target="_parent">cnc_fromremove</a>
                                     </td>
                                     <td>To the file of the C language executor</td>
                                 </tr>
                                 <tr>
                                     <td>bit 2</td>
-                                    <td><a href="Misc/cnc_fromgetstart.htm" target="_parent">cnc_fromgetstart</a><br/>
-                                    <a href="Misc/cnc_fromput.htm" target="_parent">cnc_fromput</a><br/>
-                                    <a href="Misc/cnc_fromremove.htm" target="_parent">cnc_fromremove</a>
+                                    <td><a href="../misc/cnc_fromgetstart.xml" target="_parent">cnc_fromgetstart</a><br/>
+                                    <a href="../misc/cnc_fromput.xml" target="_parent">cnc_fromput</a><br/>
+                                    <a href="../misc/cnc_fromremove.xml" target="_parent">cnc_fromremove</a>
                                     </td>
                                     <td>To the file of the macro executor/Order-made macro</td>
                                 </tr>
                                 <tr>
                                     <td>bit 3</td>
-                                    <td><a href="Misc/cnc_fromgetstart.htm" target="_parent">cnc_fromgetstart</a><br/>
-                                    <a href="Misc/cnc_fromput.htm" target="_parent">cnc_fromput</a><br/>
-                                    <a href="Misc/cnc_fromremove.htm" target="_parent">cnc_fromremove</a>
+                                    <td><a href="../misc/cnc_fromgetstart.xml" target="_parent">cnc_fromgetstart</a><br/>
+                                    <a href="../misc/cnc_fromput.xml" target="_parent">cnc_fromput</a><br/>
+                                    <a href="../misc/cnc_fromremove.xml" target="_parent">cnc_fromremove</a>
                                     </td>
                                     <td>To the file of the PMC C language</td>
                                 </tr>
                                 <tr>
                                     <td>bit 4</td>
-                                    <td><a href="Misc/cnc_fromgetstart.htm" target="_parent">cnc_fromgetstart</a><br/>
-                                    <a href="Misc/cnc_fromput.htm" target="_parent">cnc_fromput</a><br/>
-                                    <a href="Misc/cnc_fromremove.htm" target="_parent">cnc_fromremove</a>
+                                    <td><a href="../misc/cnc_fromgetstart.xml" target="_parent">cnc_fromgetstart</a><br/>
+                                    <a href="../misc/cnc_fromput.xml" target="_parent">cnc_fromput</a><br/>
+                                    <a href="../misc/cnc_fromremove.xml" target="_parent">cnc_fromremove</a>
                                     </td>
                                     <td>To the file of the maintenance information</td>
                                 </tr>
                                 <tr>
                                     <td>bit 5</td>
-                                    <td><a href="Misc/cnc_fromgetstart.htm" target="_parent">cnc_fromgetstart</a><br/>
-                                    <a href="Misc/cnc_fromput.htm" target="_parent">cnc_fromput</a><br/>
-                                    <a href="Misc/cnc_fromremove.htm" target="_parent">cnc_fromremove</a>
+                                    <td><a href="../misc/cnc_fromgetstart.xml" target="_parent">cnc_fromgetstart</a><br/>
+                                    <a href="../misc/cnc_fromput.xml" target="_parent">cnc_fromput</a><br/>
+                                    <a href="../misc/cnc_fromremove.xml" target="_parent">cnc_fromremove</a>
                                     </td>
                                     <td>To the file of the embedded macro function</td>
                                 </tr>
                                 <tr>
                                     <td>bit 7</td>
-                                    <td><a href="Misc/cnc_sramgetstart.htm" target="_parent">cnc_sramgetstart</a><br/>
+                                    <td><a href="../misc/cnc_sramgetstart.xml" target="_parent">cnc_sramgetstart</a><br/>
                                     </td>
                                     <td>&#160;</td>
                                 </tr>
@@ -269,35 +269,35 @@ The meaning of each bit is as follows.
                                 <tr>
                                     <td rowspan="4">pattern[1]</td>
                                     <td>bit 0</td>
-                                    <td><a href="Program/cnc_dwnstart3.htm" target="_parent">cnc_dwnstart3</a><br/>
-                                    <a href="Program/cnc_upstart3.htm" target="_parent">cnc_upstart3</a><br/>
-                                    <a href="Program/cnc_delall.htm" target="_parent">cnc_delall</a><br/>
-                                    <a href="Program/cnc_delete.htm" target="_parent">cnc_delete</a>
+                                    <td><a href="../program/cnc_dwnstart3.xml" target="_parent">cnc_dwnstart3</a><br/>
+                                    <a href="../program/cnc_upstart3.xml" target="_parent">cnc_upstart3</a><br/>
+                                    <a href="../program/cnc_delall.xml" target="_parent">cnc_delall</a><br/>
+                                    <a href="../program/cnc_delete.xml" target="_parent">cnc_delete</a>
                                     </td>
                                     <td>As for cnc_dwnstart3 and the cnc_upstart3 functions, only NC programs and parameters are protected.</td>
                                 </tr>
                                 <tr>
                                     <td>bit 1</td>
-                                    <td><a href="Ncdata/cnc_rdpmacro.htm" target="_parent">cnc_rdpmacro</a><br/>
-                                    <a href="Ncdata/cnc_wrpmacro.htm" target="_parent">cnc_wrpmacro</a><br/>
-                                    <a href="Ncdata/cnc_rdpmacror.htm" target="_parent">cnc_rdpmacror</a><br/>
-                                    <a href="Ncdata/cnc_wrpmacror.htm" target="_parent">cnc_wrpmacror</a>
+                                    <td><a href="../ncdata/cnc_rdpmacro.xml" target="_parent">cnc_rdpmacro</a><br/>
+                                    <a href="../ncdata/cnc_wrpmacro.xml" target="_parent">cnc_wrpmacro</a><br/>
+                                    <a href="../ncdata/cnc_rdpmacror.xml" target="_parent">cnc_rdpmacror</a><br/>
+                                    <a href="../ncdata/cnc_wrpmacror.xml" target="_parent">cnc_wrpmacror</a>
                                     </td>
                                     <td>&#160;</td>
                                 </tr>
                                 <tr>
                                     <td>bit 2</td>
-                                    <td><a href="Ncdata/cnc_rdparam.htm" target="_parent">cnc_rdparam</a><br/>
-                                    <a href="Ncdata/cnc_wrparam.htm" target="_parent">cnc_wrparam</a><br/>
-                                    <a href="Ncdata/cnc_rdparar.htm" target="_parent">cnc_rdparar</a><br/>
-                                    <a href="Ncdata/cnc_wrparas.htm" target="_parent">cnc_wrparas</a><br/>
-                                    <a href="Ncdata/cnc_rdparam_ext.htm" target="_parent">cnc_rdparam_ext</a></td>
+                                    <td><a href="../ncdata/cnc_rdparam.xml" target="_parent">cnc_rdparam</a><br/>
+                                    <a href="../ncdata/cnc_wrparam.xml" target="_parent">cnc_wrparam</a><br/>
+                                    <a href="../ncdata/cnc_rdparar.xml" target="_parent">cnc_rdparar</a><br/>
+                                    <a href="../ncdata/cnc_wrparas.xml" target="_parent">cnc_wrparas</a><br/>
+                                    <a href="../ncdata/cnc_rdparam_ext.xml" target="_parent">cnc_rdparam_ext</a></td>
                                     <td>&#160;</td>
                                 </tr>
                                 <tr>
                                     <td>bit 3</td>
-                                    <td><a href="Pmc/pmc_rdpmcrng.htm" target="_parent">pmc_rdpmcrng</a><br/>
-                                    <a href="Pmc/pmc_wrpmcrng.htm" target="_parent">pmc_wrpmcrng</a></td>
+                                    <td><a href="../pmc/pmc_rdpmcrng.xml" target="_parent">pmc_rdpmcrng</a><br/>
+                                    <a href="../pmc/pmc_wrpmcrng.xml" target="_parent">pmc_wrpmcrng</a></td>
                                     <td>&#160;</td>
                                 </tr>
 

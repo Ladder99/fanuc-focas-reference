@@ -22,8 +22,8 @@
         <cmn>
             <p>
                 Writes the target signal for the operation history.<br/>
-                Please use <a href="History/cnc_wrhissgnl2.htm" target="_parent">cnc_wrhissgnl2</a> instead of this function for Series 16i/18i/21i MODEL B with the extended operation history function.<br/>
-                And please use <a href="History/cnc_wrhissgnl3.htm" target="_parent">cnc_wrhissgnl3</a> function for Series 30i.
+                Please use <a href="../history/cnc_wrhissgnl2.xml" target="_parent">cnc_wrhissgnl2</a> instead of this function for Series 16i/18i/21i MODEL B with the extended operation history function.<br/>
+                And please use <a href="../history/cnc_wrhissgnl3.xml" target="_parent">cnc_wrhissgnl3</a> function for Series 30i.
             </p>
         </cmn>
     </doc>
@@ -122,7 +122,7 @@ typedef struct iodbsig {
             <content>
                 Data error<br/>
                 In order to get more information for this err_no return value,
-                execute <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.
+                execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.
                 The following detail status will be set onto the member, err_no of ODBERR structure.
                 <table class="dd">
                     <tr><td>0</td><td>:</td><td>Completion status other than EW_DATA</td></tr>

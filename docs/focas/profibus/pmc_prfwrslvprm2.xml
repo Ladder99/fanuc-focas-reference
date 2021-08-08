@@ -178,7 +178,7 @@ typedef struct {
             <content>Data error<br/>
                 The slave parameter is wrong.<br/>
                 In order to get more information for this err_no return value,
-                execute <a href="Pmc/pmc_getdtailerr.htm" target="_parent">pmc_getdtailerr</a> function. <br/>
+                execute <a href="../pmc/pmc_getdtailerr.xml" target="_parent">pmc_getdtailerr</a> function. <br/>
                 The following details status will be set onto the member, err_no of ODBPMCERR structure.
                 <table border="0">
                     <tr><td>1</td><td>ÅF</td><td>wd_fact1 is wrong. </td></tr>
@@ -194,7 +194,7 @@ typedef struct {
             <content>CNC execution rejection<br/>
                 The slave index data is not set.
                 In order to get more information for this err_no return value,
-                execute <a href="Pmc/pmc_getdtailerr.htm" target="_parent">pmc_getdtailerr</a> function. <br/>
+                execute <a href="../pmc/pmc_getdtailerr.xml" target="_parent">pmc_getdtailerr</a> function. <br/>
                 The following details status will be set onto the member, err_no of ODBPMCERR structure.
                 <table border="0">
                     <tr><td>1</td><td>ÅF</td><td>The station number is not set.            </td></tr>

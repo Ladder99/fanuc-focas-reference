@@ -18,7 +18,7 @@
     <doc>
         <cmn>
             <p>Read the modification of tool length compensation amount in tool axis direction.</p>
-            <p>The places of decimal points can be got by <a href="misc/cnc_getfigure.htm" target="_parent">cnc_getfigure</a> function specified tool offset.</p>
+            <p>The places of decimal points can be got by <a href="../misc/cnc_getfigure.xml" target="_parent">cnc_getfigure</a> function specified tool offset.</p>
         </cmn>
     </doc>
 

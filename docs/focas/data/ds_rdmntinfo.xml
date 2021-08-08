@@ -61,7 +61,7 @@
                             Specify the channel number of maintenance information which
                             wants to be acquired.
                             For this data, the number from 1 to number of channel can specify.
-                            The number of channels can be acquired by <a href="data/etb_rdparam.htm" target="_parent">etb_rdparam</a>.
+                            The number of channels can be acquired by <a href="../data/etb_rdparam.xml" target="_parent">etb_rdparam</a>.
                         </p>
                     </content>
                 </item>

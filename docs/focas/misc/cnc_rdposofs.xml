@@ -22,7 +22,7 @@
         <cmn>
             Reads the mode and vector of the tool position compensation.<br/>
             These are stored in each member of ODBPOFS structure.<br/>
-            The places of decimal points can be got by <a href="misc/cnc_getfigure.htm" target="_parent">cnc_getfigure</a> function.
+            The places of decimal points can be got by <a href="../misc/cnc_getfigure.xml" target="_parent">cnc_getfigure</a> function.
         </cmn>
     </doc>
 

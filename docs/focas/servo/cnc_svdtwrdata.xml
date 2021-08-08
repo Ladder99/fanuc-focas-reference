@@ -92,7 +92,7 @@
         <item>
             <name>EW_FUNC</name>
             <content>
-                <a href="Servo/cnc_svdtstartwr.htm" target="_parent">cnc_svdtstartwr</a>
+                <a href="../servo/cnc_svdtstartwr.xml" target="_parent">cnc_svdtstartwr</a>
                 function has not been executed.
             </content>
         </item>

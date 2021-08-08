@@ -24,7 +24,7 @@
             data array of ODBAXIS.</p>
 
             <p>The decimal point position of the amount of distance to go can be
-            acquired in the <a href="misc/cnc_getfigure.htm" target="_parent">cnc_getfigure</a> function.</p>
+            acquired in the <a href="../misc/cnc_getfigure.xml" target="_parent">cnc_getfigure</a> function.</p>
             <ul>
                 <li>Series 16/18/21, 16i/18i/21i, 0i-A/B/C</li>
                 The read amount of distance to go is twice as big as the actual one except specifying diameter of linear axis in T series.
@@ -45,7 +45,7 @@
                 data array of ODBAXIS.</p>
 
                 <p>The decimal point position of the amount of distance to go can be
-                acquired in the <a href="misc/cnc_getfigure.htm" target="_parent">cnc_getfigure</a> function.</p>
+                acquired in the <a href="../misc/cnc_getfigure.xml" target="_parent">cnc_getfigure</a> function.</p>
 
             </cmn>
         </is>

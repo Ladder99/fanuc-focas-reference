@@ -23,7 +23,7 @@
                 The number of each axis and the tool tip coordinates are stored
           respectively in "axes" and "data" of "ODB3DHDL".
 
-            <p>The places of decimal points can be got by <a href="misc/cnc_getfigure.htm" target="_parent">cnc_getfigure</a> function.</p>
+            <p>The places of decimal points can be got by <a href="../misc/cnc_getfigure.xml" target="_parent">cnc_getfigure</a> function.</p>
 
             <p>The relation to the read tool tip coordinates, amount of
             Tool Length Compensation and Cutter Radius Compensation, and amount of

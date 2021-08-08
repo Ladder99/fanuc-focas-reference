@@ -132,7 +132,7 @@
             <name>EW_DATA</name>
             <content>
                 data error<br/>
-                In order to get more information for this err_no return value, execute <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.<br/>
+                In order to get more information for this err_no return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.<br/>
                 The following detail status will be set onto the member, err_no of ODBERR structure.<br/>
                 <table>
                     <tr><td>0</td><td>:</td><td>Error except EW_DATA</td></tr>

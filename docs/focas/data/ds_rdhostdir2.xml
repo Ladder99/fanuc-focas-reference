@@ -22,7 +22,7 @@
     <doc>
         <cmn>
             Get the number of files and file information of login directory on the host computer.
-            Information acquired in <a href="Data/ds_rdhostinfo.htm" target="_parent">ds_rdhostinfo</a> and <a href="Data/ds_rdhostdir.htm" target="_parent">ds_rdhostdir</a> can be acquired at the same time according to this function.
+            Information acquired in <a href="../data/ds_rdhostinfo.xml" target="_parent">ds_rdhostinfo</a> and <a href="../data/ds_rdhostdir.xml" target="_parent">ds_rdhostdir</a> can be acquired at the same time according to this function.
         </cmn>
     </doc>
 

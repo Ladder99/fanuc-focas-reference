@@ -24,7 +24,7 @@
             specified by "s_number", "e_number".  The data is stored in "IODBPR"
             with signed binary format.</p>
 
-            <p>It is possible to exchange the type of P code macro variable by <a href="ncdata/cnc_setpmactype.htm" target="_parent">cnc_setpmactype</a> function. In case of the integer type variable, this indication is invalid and always regarded as the decimal form floating-point type.</p>
+            <p>It is possible to exchange the type of P code macro variable by <a href="../ncdata/cnc_setpmactype.xml" target="_parent">cnc_setpmactype</a> function. In case of the integer type variable, this indication is invalid and always regarded as the decimal form floating-point type.</p>
 
             <ul>
                 <li>decimal form floating-point type (data format=M*10**(-E))</li><br/>
@@ -114,7 +114,7 @@
                     <name>s_number</name>
                     <type>in</type>
                     <content>
-                        <p>Specify the start P code macro variable number. See the description of <a href="ncdata/cnc_rdpmacroinfo.htm" target="_parent">cnc_rdpmacroinfo</a> function about the available range.</p>
+                        <p>Specify the start P code macro variable number. See the description of <a href="../ncdata/cnc_rdpmacroinfo.xml" target="_parent">cnc_rdpmacroinfo</a> function about the available range.</p>
                     </content>
                 </item>
                 <item>

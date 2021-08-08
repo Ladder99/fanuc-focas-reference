@@ -192,7 +192,7 @@ typedef struct iodblppfbdt {
 
 
                 In order to get more information for this err_no return value, execute 
-                <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.
+                <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.
                 The cutting data group number which an error occurred will be set onto the member
                 of err_no of ODBERR structure and the following detailed status will be set onto the member of
                 err_dtno of ODBERR structure.

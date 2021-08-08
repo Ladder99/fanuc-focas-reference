@@ -113,7 +113,7 @@ typedef struct _OUT_PBSPRM{
         <item>
             <name>EW_NOOPT</name>
             <content>No option<br/>
-                In order to get more information for this err_no return value, execute <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.<br/>
+                In order to get more information for this err_no return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.<br/>
                 err_no of ODBERR structure.
                 <table border="0">
                     <tr><td>43</td><td>:</td><td>There is no PROFIBUS slave board.           </td></tr>
@@ -125,7 +125,7 @@ typedef struct _OUT_PBSPRM{
         <item>
             <name>EW_REJECT</name>
             <content>CNC execution rejection<br/>
-                In order to get more information for this err_no return value, execute <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.<br/>
+                In order to get more information for this err_no return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.<br/>
                 err_no of ODBERR structure.
                 <table border="0">
                     <tr><td>10</td><td>:</td><td>fail to read the parameter from SRAM</td></tr>

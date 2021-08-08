@@ -20,7 +20,7 @@
 
     <doc>
         <cmn>
-            <p>Writes the P code macro variables(variables for the macro-executor) specified by the starting number, "stnum", and number of variables, "*num". The data is stored in "pmacror" with double format. It is not influenced by setting of <a href="ncdata/cnc_setpmactype.htm" target="_parent">cnc_setpmactype</a> function.</p>
+            <p>Writes the P code macro variables(variables for the macro-executor) specified by the starting number, "stnum", and number of variables, "*num". The data is stored in "pmacror" with double format. It is not influenced by setting of <a href="../ncdata/cnc_setpmactype.xml" target="_parent">cnc_setpmactype</a> function.</p>
             <p>The value of an undefined variable is called "vacant", and it is expressed as follows.</p>
 
             <p class="dd">0xFFFFFFFFFFFFFFFF</p>
@@ -49,7 +49,7 @@
                     <type>in</type>
                     <content>
                         <p>Specify the starting P code macro variable number.<br/>
-                           Please refer to the document of the <a href="ncdata/cnc_rdpmacroinfo2.htm" target="_parent">cnc_rdpmacroinfo2</a> for the range of variable.</p>
+                           Please refer to the document of the <a href="../ncdata/cnc_rdpmacroinfo2.xml" target="_parent">cnc_rdpmacroinfo2</a> for the range of variable.</p>
                     </content>
                 </item>
                 <item>

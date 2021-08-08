@@ -23,7 +23,7 @@
             Reads the alarm status of CNC. Various information is stored in "data" of ODBALM.<p/>
             This function is used for watching CNC's alarm status, displaying the maintenance information or guidance of how to reset the alarm, etc.<p/>
             When CNC falls into the system alarm, it is completely impossible to communicate data, and the alarm status cannot be acquired.<p/>
-            Please use the <a href="misc/cnc_alarm2.htm" target="_parent">cnc_alarm2</a> function for Series 15i, 30i, 0i-D/F and PMi-A, because this function cannot read all alarm status of Series 15i, 30i, 0i-D/F and PMi-A.
+            Please use the <a href="../misc/cnc_alarm2.xml" target="_parent">cnc_alarm2</a> function for Series 15i, 30i, 0i-D/F and PMi-A, because this function cannot read all alarm status of Series 15i, 30i, 0i-D/F and PMi-A.
         </cmn>
 
     <is>
@@ -31,7 +31,7 @@
             Reads the alarm status of CNC. Various information is stored in "data" of ODBALM.<p/>
             This function is used for watching CNC's alarm status, displaying the maintenance information or guidance of how to reset the alarm, etc.<p/>
             When CNC falls into the system alarm, it is completely impossible to communicate data, and the alarm status cannot be acquired.<p/>
-            Please use the <a href="misc/cnc_alarm2.htm" target="_parent">cnc_alarm2</a> function, because this function cannot read all alarm status.
+            Please use the <a href="../misc/cnc_alarm2.xml" target="_parent">cnc_alarm2</a> function, because this function cannot read all alarm status.
         </cmn>
     </is>
     </doc>

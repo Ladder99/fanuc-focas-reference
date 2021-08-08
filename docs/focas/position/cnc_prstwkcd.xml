@@ -255,7 +255,7 @@ typedef struct idbwra {
             <content>
                 data error<br/>
                 The content of "data" is out of range which can be specified.<br/>
-                In order to get more information for this err_no return value, execute <a href="misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.<br/>
+                In order to get more information for this err_no return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.<br/>
                 The axis number(0 -) which error occurred will be set onto the member, err_dtno of ODBERR structure.
             </content>
         </item>
@@ -296,7 +296,7 @@ typedef struct idbwra {
                 <content>
                     data error<br/>
                     The content of "data" is out of range which can be specified.<br/>
-                    In order to get more information for this err_no return value, execute <a href="misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.<br/>
+                    In order to get more information for this err_no return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.<br/>
                     The axis number(0 -) which error occurred will be set onto the member, err_dtno of ODBERR structure.
                 </content>
             </item>

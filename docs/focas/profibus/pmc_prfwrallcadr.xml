@@ -156,7 +156,7 @@ typedef struct {
                 Data error<br/>
                 The specification of the address allocation is wrong.<br/>
                 In order to get more information for this err_no return value,
-                execute <a href="Pmc/pmc_getdtailerr.htm" target="_parent">pmc_getdtailerr</a> function.  
+                execute <a href="../pmc/pmc_getdtailerr.xml" target="_parent">pmc_getdtailerr</a> function.  
                 The following details status will be set onto the member, err_no of ODBPMCERR structure.
                 <table border="0">
                     <tr><td>1</td><td>:</td><td>di_size is wrong.</td></tr>

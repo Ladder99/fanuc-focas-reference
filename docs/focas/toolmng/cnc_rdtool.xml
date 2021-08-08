@@ -78,7 +78,7 @@
                         <p>
                             Specify the pointer to IODBTLMNG structure including the Tool management data to be read.  
                             As for the IODBTLMNG structure, refer to the explanation of arguments of 
-                            <a href="ToolMng/cnc_regtool.htm" target="_parent">cnc_regtool</a> function.
+                            <a href="../toolMng/cnc_regtool.xml" target="_parent">cnc_regtool</a> function.
                         </p>
                     </content>
                 </item>

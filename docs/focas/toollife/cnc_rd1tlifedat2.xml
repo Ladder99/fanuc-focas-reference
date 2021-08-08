@@ -43,13 +43,13 @@
                 number has never be specified since power-on, <b>0</b> is stored.
              </p>
              <p>
-                Please use this function because the <a href="Toollife/cnc_rd1tlifedata.htm" target="_parent">cnc_rd1tlifedata</a> 
+                Please use this function because the <a href="../toollife/cnc_rd1tlifedata.xml" target="_parent">cnc_rd1tlifedata</a> 
                 function cannot be used when the option,
                 "Tool life management B" is used with Series 16i, 18i.
              </p>
              <p>
                 Please use this function to get tool data with Series 0i-F, 30i.
-                The <a href="Toollife/cnc_rd1tifedata.htm" target="_parent">cnc_rd1tlifedata</a> function can be only used by the tool number of under 4 digits.
+                The <a href="../toollife/cnc_rd1tifedata.xml" target="_parent">cnc_rd1tlifedata</a> function can be only used by the tool number of under 4 digits.
              </p>
         </cmn>
 
@@ -77,7 +77,7 @@
             </p>
             <p>
                Please use this function to get tool data.
-               The <a href="Toollife/cnc_rd1tlifedata.htm" target="_parent">cnc_rd1tlifedata</a> function can be only used by the tool number of 
+               The <a href="../toollife/cnc_rd1tlifedata.xml" target="_parent">cnc_rd1tlifedata</a> function can be only used by the tool number of 
 under 4 digits.</p>
         </cmn>
         </is>

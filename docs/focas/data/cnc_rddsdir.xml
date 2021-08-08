@@ -85,7 +85,7 @@
         <item>
             <name>EW_NOOPT</name>
             <content>No option<br/>
-                In order to get more information for this err_no return value, execute <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr()</a> function.<br/>
+                In order to get more information for this err_no return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr()</a> function.<br/>
                 The following details status will be set onto the member, err_no of ODBERR structure.<br/>
                 <table class="dd">
                     <tr> <td>22</td><td>:</td><td>The option board is nothing</td> </tr>
@@ -110,7 +110,7 @@
         <item>
             <name>EW_DTSRVR</name>
             <content>DATA SERVER error<br/>
-                     In order to get more information for this err_no return value,In order to get more information for this err_no return value,<a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr()</a> function.<br/>
+                     In order to get more information for this err_no return value,In order to get more information for this err_no return value,<a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr()</a> function.<br/>
                      The following details status will be set onto the member, err_no of ODBERR structure.<br/>
                      <li>DATA SERVER</li>
                      <table class="dd">

@@ -23,7 +23,7 @@ Obtains receipt status of message for OSI-Ethernet.
 <p/>
 The receipt status becomes ON when CNC receives a message for OSI-Ethernet, and becomes OFF when receipt message is read by
 <p/>
-<a href="Data/cnc_rdrcvmsg.htm" target="_parent">cnc_rdrcvmsg</a> function or when communication screen of the CNC is selected.
+<a href="../data/cnc_rdrcvmsg.xml" target="_parent">cnc_rdrcvmsg</a> function or when communication screen of the CNC is selected.
 <p/>
 When a message which requires response is received, following message is added in the receive buffer if a response is not returned within predetermined time.
 <p/>

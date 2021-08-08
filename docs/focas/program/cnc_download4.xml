@@ -37,7 +37,7 @@
                 may refrect the result caused by the previously executed cnc_download4 callings.<br/>
                 And the error status for some cnc_download4
                 callings just before the finish of downloading is returned by
-                <a href="Program/cnc_dwnend4.htm" target="_parent">cnc_dwnend4</a> function.
+                <a href="../program/cnc_dwnend4.xml" target="_parent">cnc_dwnend4</a> function.
             </p>
 
             <br/>
@@ -115,13 +115,13 @@ M30 ;
             <content>
                 Reset or stop request<br/>
                 CNC required to stop downloading.<br/>
-                Call the <a href="Program/cnc_dwnend4.htm" target="_parent">cnc_dwnend4</a> function.<br/>
+                Call the <a href="../program/cnc_dwnend4.xml" target="_parent">cnc_dwnend4</a> function.<br/>
             </content>
         </item>
         <item>
             <name>EW_FUNC</name>
             <content>
-                <a href="Program/cnc_dwnstart4.htm" target="_parent">cnc_dwnstart4</a> function has not been executed.
+                <a href="../program/cnc_dwnstart4.xml" target="_parent">cnc_dwnstart4</a> function has not been executed.
             </content>
         </item>
         <item>
@@ -135,7 +135,7 @@ M30 ;
             <content>
                 Data error<br/>
                 In order to get more information for this err_no return value, execute
-                <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.<br/>
+                <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.<br/>
                 The following detail status will be set onto the member, err_no of ODBERR structure.
                 <table>
                     <colgroup align="center" valign="top">

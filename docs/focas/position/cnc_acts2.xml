@@ -21,7 +21,7 @@
 
             <p>All spindle can be read at a time by specifying ALL_SPINDLES for "sp_no". In that case, an actual spindle speed of each serial spindle is stored in the data array of ODBACT2.</p>
 
-            <p><a href="position/cnc_acts.htm" target="_parent">cnc_acts</a> can read only the actual spindle speed which is selected by CNC. This function can read all actual spindle speed at a time, or the actual spindle speed specified by "sp_no".</p>
+            <p><a href="../position/cnc_acts.xml" target="_parent">cnc_acts</a> can read only the actual spindle speed which is selected by CNC. This function can read all actual spindle speed at a time, or the actual spindle speed specified by "sp_no".</p>
         </cmn>
     </doc>
 

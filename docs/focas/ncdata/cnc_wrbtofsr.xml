@@ -22,7 +22,7 @@
         <cmn>
             <p>Writes the tool offset value for B axis specified by "datano_s", "datano_e","type". The offset value must be stored in "IODBBTO" with signed binary format.</p>
 
-            <p>The unit of offset value is the same as "Write tool offset value( <a href="ncdata/cnc_wrtofs.htm" target="_parent">cnc_wrtofs</a> )".  See the description of <a href="ncdata/cnc_wrtofs.htm" target="_parent">cnc_wrtofs</a> function.</p>
+            <p>The unit of offset value is the same as "Write tool offset value( <a href="../ncdata/cnc_wrtofs.xml" target="_parent">cnc_wrtofs</a> )".  See the description of <a href="../ncdata/cnc_wrtofs.xml" target="_parent">cnc_wrtofs</a> function.</p>
 
         </cmn>
     </doc>
@@ -70,7 +70,7 @@ typedef struct  iodbbto {
                             <dd>Specify the start tool offset number.<br/>
                                 The available number is 1,...,9.<br/>
                                 'This number + aux. function number which can be got by
-                            <a href="ncdata/cnc_rdbtofsinfo.htm" target="_parent">cnc_rdbtofsinfo</a> function + 1' means the tool offset
+                            <a href="../ncdata/cnc_rdbtofsinfo.xml" target="_parent">cnc_rdbtofsinfo</a> function + 1' means the tool offset
                             number for B axis which is used by NC command or
                             display.
                             </dd>

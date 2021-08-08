@@ -21,7 +21,7 @@
 
     <doc>
         <cmn>
-            <p>Reads various data relating servo axis/spindle axis that is got by <a href="position/cnc_rdposition.htm" target="_parent">cnc_rdposition</a>, <a href="position/cnc_rdspeed.htm" target="_parent">cnc_rdspeed</a>, <a href="position/cnc_rdsvmeter.htm" target="_parent">cnc_rdsvmeter</a>, <a href="position/cnc_rdspmeter.htm" target="_parent">cnc_rdspmeter</a>, <a href="position/cnc_rdhndintrpt.htm" target="_parent">cnc_rdhndintrpt</a>, with supporting "extended axis name".</p>
+            <p>Reads various data relating servo axis/spindle axis that is got by <a href="../position/cnc_rdposition.xml" target="_parent">cnc_rdposition</a>, <a href="../position/cnc_rdspeed.xml" target="_parent">cnc_rdspeed</a>, <a href="../position/cnc_rdsvmeter.xml" target="_parent">cnc_rdsvmeter</a>, <a href="../position/cnc_rdspmeter.xml" target="_parent">cnc_rdspmeter</a>, <a href="../position/cnc_rdhndintrpt.xml" target="_parent">cnc_rdhndintrpt</a>, with supporting "extended axis name".</p>
 
             <p>You have to specify the argument "cls" with the data class to be read,
         array of short, "type[]" with the kind of data to be read.  The number

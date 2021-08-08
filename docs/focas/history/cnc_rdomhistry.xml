@@ -24,12 +24,12 @@
             <p>
                 Because the external operator's message history data is recorded
                 automatically by CNC, it is necessary to stop logging by using
-                <a href="History/cnc_stopomhis.htm" target="_parent">cnc_stopomhis</a> function 
+                <a href="../history/cnc_stopomhis.xml" target="_parent">cnc_stopomhis</a> function 
                 before this function is used.
             </p>
             <p>
                 In order to minimize the time when the logging is being suspended,
-                restart logging by using <a href="History/cnc_startomhis.htm" target="_parent">cnc_startomhis</a> function 
+                restart logging by using <a href="../history/cnc_startomhis.xml" target="_parent">cnc_startomhis</a> function 
                 as soon as possible after reading history data completes.
             </p>
             <p>The message history data is acquired in new order.</p>
@@ -122,7 +122,7 @@ typedef struct odbomhis {
         <item>
             <name>EW_FUNC</name>
             <content>
-                <a href="History/cnc_stopomhis.htm" target="_parent">cnc_stopomhis</a> function has not been executed.
+                <a href="../history/cnc_stopomhis.xml" target="_parent">cnc_stopomhis</a> function has not been executed.
             </content>
         </item>
         <item>

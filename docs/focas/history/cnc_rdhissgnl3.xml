@@ -22,7 +22,7 @@
         <cmn>
             <p>
                 Reads the target signal for the operation history.<br/>
-                Please use this function instead of <a href="History/cnc_rdhissgnl.htm" target="_parent">cnc_rdhissgnl</a> for Series 30i, 0i-D/F and PMi-A.
+                Please use this function instead of <a href="../history/cnc_rdhissgnl.xml" target="_parent">cnc_rdhissgnl</a> for Series 30i, 0i-D/F and PMi-A.
             </p>
         </cmn>
         <is>

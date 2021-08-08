@@ -28,11 +28,11 @@
                 <li>Local variable (#1,..,#33)</li>
                     The local variables which belong to the macro program just being executed when the application program calls this function are read.<br/>
                 <li>Common variable (#100,..,#999)</li>
-                    See the description of <a href="ncdata/cnc_rdmacroinfo.htm" target="_parent">cnc_rdmacroinfo</a> function about the available range of common variables.<br/>
+                    See the description of <a href="../ncdata/cnc_rdmacroinfo.xml" target="_parent">cnc_rdmacroinfo</a> function about the available range of common variables.<br/>
                 <li>System variable (#1000,..,#9999)</li>
             </ol>
 
-            <p>It is possible to exchange the type of macro variable by <a href="ncdata/cnc_setmactype.htm" target="_parent">cnc_setmactype</a> function.</p>
+            <p>It is possible to exchange the type of macro variable by <a href="../ncdata/cnc_setmactype.xml" target="_parent">cnc_setmactype</a> function.</p>
 
             <ul>
                 <li>decimal form floating-point type (data format=M*10**(-E))</li><br/>

@@ -22,7 +22,7 @@
                 (It is impossible to operate the execution pointer directly)
             </p>
             <p>
-                Register the MDI program previously according to the <a href="Program/cnc_wrmdiprog.htm" target="_parent">cnc_wrmdiprog</a> function before executing this function.
+                Register the MDI program previously according to the <a href="../program/cnc_wrmdiprog.xml" target="_parent">cnc_wrmdiprog</a> function before executing this function.
             </p>
         </cmn>
     </doc>
@@ -85,7 +85,7 @@
                 CNC execution denied
                 <li>Edit processing in the CNC side.</li>
                 <li>MDI program is not registered.</li>
-                    Register the MDI program previously according to the <a href="Program/cnc_wrmdiprog.htm" target="_parent">cnc_wrmdiprog</a> function.
+                    Register the MDI program previously according to the <a href="../program/cnc_wrmdiprog.xml" target="_parent">cnc_wrmdiprog</a> function.
             </content>
         </item>
         
@@ -118,7 +118,7 @@
                     <ul style="margin-top:0;margin-bottom:0">
                     <li>Edit processing in the CNC side.</li>
                     <li>MDI program is not registered.</li>
-                        Register the MDI program previously according to the <a href="Program/cnc_wrmdiprog.htm" target="_parent">cnc_wrmdiprog</a> function.
+                        Register the MDI program previously according to the <a href="../program/cnc_wrmdiprog.xml" target="_parent">cnc_wrmdiprog</a> function.
                     </ul>
                 </content>
             </item>

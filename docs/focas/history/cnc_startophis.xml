@@ -25,7 +25,7 @@
             </p>
             <p>
                 In Series 30i, 0i-D/F and PMi-A, the sampling of the external operator's message history data is restarted, too.<br/>
-                (Please use <a href="History/cnc_startomhis.htm" target="_parent">cnc_startomhis</a> function 
+                (Please use <a href="../history/cnc_startomhis.xml" target="_parent">cnc_startomhis</a> function 
                  instead of this for other series.)
             </p>
         </cmn>
@@ -62,7 +62,7 @@
         <item>
             <name>EW_FUNC</name>
             <content>
-                <a href="History/cnc_stopophis.htm" target="_parent">cnc_stopophis</a> function has not been executed. 
+                <a href="../history/cnc_stopophis.xml" target="_parent">cnc_stopophis</a> function has not been executed. 
             </content>
         </item>
         <item>
@@ -83,7 +83,7 @@
         <item>
             <name>EW_FUNC</name>
             <content>
-                <a href="History/cnc_stopophis.htm" target="_parent">cnc_stopophis</a> function has not been executed. 
+                <a href="../history/cnc_stopophis.xml" target="_parent">cnc_stopophis</a> function has not been executed. 
             </content>
         </item>
         <item>

@@ -22,7 +22,7 @@
         <cmn>
             <p>The CNC parameter shown by parameter information is read at high speed.<br/>
             The parameter can be read according to parameter information acquired
-            by <a href="ncdata/cnc_rdhsprminfo.htm" target="_parent">cnc_rdhsprminfo</a>.  The reading speed is high more than <a href="ncdata/cnc_rdparar.htm" target="_parent">cnc_rdparar</a>.</p>
+            by <a href="../ncdata/cnc_rdhsprminfo.xml" target="_parent">cnc_rdhsprminfo</a>.  The reading speed is high more than <a href="../ncdata/cnc_rdparar.xml" target="_parent">cnc_rdparar</a>.</p>
             <br/>
             <p class="info">When specified parameter information is illegal, the operation                    of this function is not guaranteed.</p>
 

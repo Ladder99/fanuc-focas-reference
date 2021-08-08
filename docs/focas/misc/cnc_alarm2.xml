@@ -21,7 +21,7 @@
     <doc>
         <cmn>
 <p>
-Reads the alarm status of CNC. This function is the improved version of the <a href="misc/cnc_alarm.htm" target="_parent">cnc_alarm</a> function.
+Reads the alarm status of CNC. This function is the improved version of the <a href="../misc/cnc_alarm.xml" target="_parent">cnc_alarm</a> function.
 </p>
 <p>
 This function is used for watching CNC's alarm status, displaying the maintenance information or guidance of how to reset the alarm, etc.

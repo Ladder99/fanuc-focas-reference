@@ -28,7 +28,7 @@
             </p>
 
             <p>The unit of work coordinate shift measured value is the same as "Read
-            work coordinate shift value( <a href="ncdata/cnc_rdwkcdshft.htm" target="_parent">cnc_rdwkcdshft</a> )".  See the description of <a href="ncdata/cnc_rdwkcdshft.htm" target="_parent">cnc_rdwkcdshft</a> function.</p>
+            work coordinate shift value( <a href="../ncdata/cnc_rdwkcdshft.xml" target="_parent">cnc_rdwkcdshft</a> )".  See the description of <a href="../ncdata/cnc_rdwkcdshft.xml" target="_parent">cnc_rdwkcdshft</a> function.</p>
         </cmn>
     </doc>
 
@@ -148,7 +148,7 @@ typedef struct iodbwcsf {
             <name>EW_DATA</name>
             <content>Data error<br/>
             Work coordinate shift measured value(data) is out of range.<br/>
-            In order to get more information for this err_no return value, execute <a href="misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.  The axis number(0 -) at which error occurred will be set onto the member, err_dtno of ODBERR structure.
+            In order to get more information for this err_no return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.  The axis number(0 -) at which error occurred will be set onto the member, err_dtno of ODBERR structure.
             </content>
         </item>
         <item>

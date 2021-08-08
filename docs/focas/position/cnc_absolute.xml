@@ -24,7 +24,7 @@
 
 <p>All axes can be read at a time by specifying ALL_AXES for "axis". In that case, an absolute position of each axis is stored in the data array of ODBAXIS.</p>
 
-<p>The decimal point position of the absolute position can be acquired in the <a href="misc/cnc_getfigure.htm" target="_parent">cnc_getfigure</a> function.</p>
+<p>The decimal point position of the absolute position can be acquired in the <a href="../misc/cnc_getfigure.xml" target="_parent">cnc_getfigure</a> function.</p>
             <ul>
                 <li>Series 15/15i</li>
                 <p>The relation to the read absolute position, amount of Tool Length Compensation and Cutter Radius Compensation, and amount of servo delay and acceleration/deceleration delay follows setting the CNC parameter of the following description.</p>
@@ -56,7 +56,7 @@
                 </p>
                 <p>
                     The decimal point position of the absolute position can be acquired in the 
-                    <a href="misc/cnc_getfigure.htm" target="_parent">cnc_getfigure</a> function.
+                    <a href="../misc/cnc_getfigure.xml" target="_parent">cnc_getfigure</a> function.
                 </p>
             </cmn>
         </is>

@@ -21,7 +21,7 @@
     <doc>
         <cmn>
 Reads the series/version of CNC system software. These information are stored in each member of ODBSYSS.<p/>
-Reading the data which depends on the path needs exchanging the path using <a href="misc/cnc_setpath.htm" target="_parent">cnc_setpath</a> function.<p/>
+Reading the data which depends on the path needs exchanging the path using <a href="../misc/cnc_setpath.xml" target="_parent">cnc_setpath</a> function.<p/>
         </cmn>
     </doc>
 

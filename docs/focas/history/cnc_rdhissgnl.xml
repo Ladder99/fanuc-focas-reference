@@ -22,8 +22,8 @@
         <cmn>
             <p>
                 Reads the target signal for the operation history.<br/>
-                Please use <a href="History/cnc_rdhissgnl2.htm" target="_parent">cnc_rdhissgnl2</a> instead of this function for Series 16i/18i/21i MODEL B with the extended operation history function.<br/>
-                And please use <a href="History/cnc_rdhissgnl3.htm" target="_parent">cnc_rdhissgnl3</a> function for Series 30i.
+                Please use <a href="../history/cnc_rdhissgnl2.xml" target="_parent">cnc_rdhissgnl2</a> instead of this function for Series 16i/18i/21i MODEL B with the extended operation history function.<br/>
+                And please use <a href="../history/cnc_rdhissgnl3.xml" target="_parent">cnc_rdhissgnl3</a> function for Series 30i.
             </p>
         </cmn>
     </doc>

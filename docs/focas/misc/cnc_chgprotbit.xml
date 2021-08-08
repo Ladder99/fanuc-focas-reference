@@ -241,7 +241,7 @@ Error code EW_PASSWD returns when an incorrect key word is specified.
         <item>
             <name>EW_PASSWD</name>
             <content>The given key word is not correct.<br/>
-In order to get more information for this err_no return value, execute <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a>
+In order to get more information for this err_no return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a>
  function. The following detail status will be set onto the member, err_no of ODBERR structure.
                  <table>
                     <colgroup align="center" valign="top">

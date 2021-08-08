@@ -24,7 +24,7 @@
             array of ODBAXIS.</p>
 
             <p>The decimal point position of the machine position can be acquired in
-            the <a href="misc/cnc_getfigure.htm" target="_parent">cnc_getfigure</a> function.</p>
+            the <a href="../misc/cnc_getfigure.xml" target="_parent">cnc_getfigure</a> function.</p>
             <ul>
                 <li>Series 15/15i</li>
                 <p>The relation to the read machine position, and
@@ -50,7 +50,7 @@
                 array of ODBAXIS.</p>
 
                 <p>The decimal point position of the machine position can be acquired in
-                the <a href="misc/cnc_getfigure.htm" target="_parent">cnc_getfigure</a> function.</p>
+                the <a href="../misc/cnc_getfigure.xml" target="_parent">cnc_getfigure</a> function.</p>
 
             </cmn>
 

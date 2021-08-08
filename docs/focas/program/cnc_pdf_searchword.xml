@@ -248,7 +248,7 @@
                             Specify the line number to search from.<br/>
                            When you search from the first line of a program, you have to specify 0.<br/>
                            When you specify other than the existing line number, this function never returns error result as the return code.<br/>
-                           In this case, next <a href="Program/cnc_pdf_searchresult.htm" target="_parent">cnc_pdf_searchresult</a> function would return EW_NUMBER error.
+                           In this case, next <a href="../program/cnc_pdf_searchresult.xml" target="_parent">cnc_pdf_searchresult</a> function would return EW_NUMBER error.
                         </p>
                     </content>
                 </item>
@@ -333,7 +333,7 @@
             <name>EW_DATA</name>
             <content>
                 Data error<br/>
-                In order to get more information for this err_no return value, execute <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.
+                In order to get more information for this err_no return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.
                 The following detail status will be set onto the member, err_no of ODBERR structure.<br/>
                 <table>
                     <tr> <td>1</td> <td>:</td> <td>The program name(prog_name) error</td> </tr>

@@ -52,7 +52,7 @@
         <item>
             <name>EW_FUNC</name>
             <content>
-                <a href="Program/cnc_dncstart.htm" target="_parent">cnc_dncstart</a> function has not been executed.
+                <a href="../program/cnc_dncstart.xml" target="_parent">cnc_dncstart</a> function has not been executed.
             </content>
         </item>
         <item>

@@ -22,15 +22,15 @@
                 When the data processing on the CNC side is delayed and the data cannot be transferred,
                 this function waits until it can be transferred.<br/>
                 If an application cannot wait,
-                use the <a href="Program/cnc_cverify.htm" target="_parent">cnc_cverify</a> function.
+                use the <a href="../program/cnc_cverify.xml" target="_parent">cnc_cverify</a> function.
             </p>
             <p>
                 Because importance is attached to the speed of data transfer to the CNC, in general, return of errors(EW_DATA, EW_OVRFLOW, etc.) may be delayed.<br/>
                 Namely, an error status may refrect the result caused by the previously executed cnc_verify callings.<br/>
-                And the error status for some cnc_verify callings just before the finish of verifying is returned by <a href="Program/cnc_vrfend.htm" target="_parent">cnc_vrfend</a> function.
+                And the error status for some cnc_verify callings just before the finish of verifying is returned by <a href="../program/cnc_vrfend.xml" target="_parent">cnc_vrfend</a> function.
             </p>
             <p>
-                Refer to the description of <a href="Program/cnc_download.htm" target="_parent">cnc_download</a> function for the format of output data. 
+                Refer to the description of <a href="../program/cnc_download.xml" target="_parent">cnc_download</a> function for the format of output data. 
             </p>
         </cmn>
     </doc>
@@ -83,20 +83,20 @@
                     Reset or stop request<br/>
                     CNC required to stop verification.<br/>
                    'RESET or STOP' was pushed.(Series 15/15i)<br/>
-                    Call the <a href="Program/cnc_vrfend.htm" target="_parent">cnc_vrfend</a> function.
+                    Call the <a href="../program/cnc_vrfend.xml" target="_parent">cnc_vrfend</a> function.
                 </ul>
                 Ethernet<br/>
                 <ul style="margin-top:0">
                     Reset or stop request<br/>
                     CNC required to stop verification.<br/>
-                    Call the <a href="Program/cnc_vrfend.htm" target="_parent">cnc_vrfend</a> function.
+                    Call the <a href="../program/cnc_vrfend.xml" target="_parent">cnc_vrfend</a> function.
                 </ul>
             </content>
         </item>
         <item>
             <name>EW_FUNC</name>
             <content>
-                <a href="Program/cnc_vrfstart.htm" target="_parent">cnc_vrfstart</a> function has not been executed.
+                <a href="../program/cnc_vrfstart.xml" target="_parent">cnc_vrfstart</a> function has not been executed.
             </content>
         </item>
         <item>
@@ -125,13 +125,13 @@
                 <content>
                     Reset or stop request<br/>
                     CNC required to stop verification.<br/>
-                    Call the <a href="Program/cnc_vrfend.htm" target="_parent">cnc_vrfend</a> function.
+                    Call the <a href="../program/cnc_vrfend.xml" target="_parent">cnc_vrfend</a> function.
                 </content>
             </item>
             <item>
                 <name>EW_FUNC</name>
                 <content>
-                    <a href="Program/cnc_vrfstart.htm" target="_parent">cnc_vrfstart</a> function has not been executed.
+                    <a href="../program/cnc_vrfstart.xml" target="_parent">cnc_vrfstart</a> function has not been executed.
                 </content>
             </item>
             <item>

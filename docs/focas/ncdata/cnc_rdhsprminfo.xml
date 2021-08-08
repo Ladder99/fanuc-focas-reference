@@ -55,9 +55,9 @@
                     <content>
                         <p>Specify the pointer to HSPINFO structure to store the parameter information is specified.</p>
 
-                        <p class="info">Got parameter information is used by <a href="ncdata/cnc_rdhsparam.htm" target="_parent">cnc_rdhsparam</a>.<br/>
+                        <p class="info">Got parameter information is used by <a href="../ncdata/cnc_rdhsparam.xml" target="_parent">cnc_rdhsparam</a>.<br/>
                         If you change the parameter information, the result of
-                  <a href="ncdata/cnc_rdhsparam.htm" target="_parent">cnc_rdhsparam</a> is not guaranteed.  Never change the parameter
+                  <a href="../ncdata/cnc_rdhsparam.xml" target="_parent">cnc_rdhsparam</a> is not guaranteed.  Never change the parameter
                   information by your application.</p>
 
                     </content>

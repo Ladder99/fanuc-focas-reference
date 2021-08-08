@@ -27,14 +27,14 @@
                     <tr valign="top"><td style="white-space:nowrap">Note)</td><td></td><td>The execution start line of the MDI program changes as follows before and after the execution of the function concerning writing the MDI program or setting the pointer.</td></tr>
                 </table>
                 <table class="dd">
-                    <tr><td></td><td></td><td><a href="Program/cnc_wrmdiprog.htm" target="_parent">cnc_wrmdiprog</a></td><td>1:From the top of program</td></tr>
-                    <tr><td></td><td></td><td><a href="Program/cnc_wrmdipntr.htm" target="_parent">cnc_wrmdipntr</a></td><td>0:From the pointer of program (In case of 30i, 0i-D/F and PMi-A, immediately after the MDI program registration from initial state, the state become to "1:From the top of program".)</td></tr>
-                    <tr><td></td><td></td><td><a href="Program/cnc_wractpt.htm" target="_parent">cnc_wractpt</a></td><td>The execution start line is maintained.</td></tr>
+                    <tr><td></td><td></td><td><a href="../program/cnc_wrmdiprog.xml" target="_parent">cnc_wrmdiprog</a></td><td>1:From the top of program</td></tr>
+                    <tr><td></td><td></td><td><a href="../program/cnc_wrmdipntr.xml" target="_parent">cnc_wrmdipntr</a></td><td>0:From the pointer of program (In case of 30i, 0i-D/F and PMi-A, immediately after the MDI program registration from initial state, the state become to "1:From the top of program".)</td></tr>
+                    <tr><td></td><td></td><td><a href="../program/cnc_wractpt.xml" target="_parent">cnc_wractpt</a></td><td>The execution start line is maintained.</td></tr>
                 </table>
                 <br/>
                 <table>
-                    <tr><td valign="top">*</td><td>Even if the <a href="Program/cnc_wractpt.htm" target="_parent">cnc_wractpt</a> is executed when the state(bit2) of the execution start line is '1', the program is started from the top of program .<br/>
-                        If the <a href="Program/cnc_wractpt.htm" target="_parent">cnc_wractpt</a> is executed when the state(bit2) of the execution start line is '0', the program is started from line setted by <a href="Program/cnc_wractpt.htm" target="_parent">cnc_wractpt</a>.</td></tr>
+                    <tr><td valign="top">*</td><td>Even if the <a href="../program/cnc_wractpt.xml" target="_parent">cnc_wractpt</a> is executed when the state(bit2) of the execution start line is '1', the program is started from the top of program .<br/>
+                        If the <a href="../program/cnc_wractpt.xml" target="_parent">cnc_wractpt</a> is executed when the state(bit2) of the execution start line is '0', the program is started from line setted by <a href="../program/cnc_wractpt.xml" target="_parent">cnc_wractpt</a>.</td></tr>
                 </table>
             </p>
         </cmn>

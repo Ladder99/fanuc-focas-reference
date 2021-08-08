@@ -115,7 +115,7 @@ typedef struct odbfinform {
         <item>
             <name>EW_DATA</name>
             <content>Error when function was executed<br/>
-In order to get more information for this err_no return value, execute <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function. 
+In order to get more information for this err_no return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function. 
 The following details status will be set onto the member, err_no of ODBERR structure. 
 And the slot number where an error occurred will be set in err_dtno of ODBERR structure. 
         <table>

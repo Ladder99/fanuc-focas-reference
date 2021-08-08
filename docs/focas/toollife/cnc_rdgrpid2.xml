@@ -26,13 +26,13 @@
                 the smallest group number is stored.
             </p>
             <p>
-                Please use this function because the <a href="Toollife/cnc_rdgrpid.htm" target="_parent">cnc_rdgrpid</a>
+                Please use this function because the <a href="../toollife/cnc_rdgrpid.xml" target="_parent">cnc_rdgrpid</a>
                 function cannot be used when the option, 
                 "Tool life management B"  is used with Series 16i,18i.
             </p>
             <p>
                 And gets the tool group number by this function with Series 0i-F, 30i, 
-                so use <a href="Toollife/cnc_rdgrpid.htm" target="_parent">cnc_rdgrpid</a> function 
+                so use <a href="../toollife/cnc_rdgrpid.xml" target="_parent">cnc_rdgrpid</a> function 
                 in case of setting the tool number of under 4 digits.
             </p>
         </cmn>
@@ -42,7 +42,7 @@
             <p>Reads the tool group number in which the specified tool is registered.</p>
             <p>When the same tool number exists in two or more tool groups, the smallest group number is stored.</p>
             <p>And gets the tool group number by this function, so use 
-               <a href="Toollife/cnc_rdgrpid.htm" target="_parent">cnc_rdgrpid</a> 
+               <a href="../toollife/cnc_rdgrpid.xml" target="_parent">cnc_rdgrpid</a> 
                function in case of setting the tool number of under 4 digits.</p>
         </cmn>
         </is>

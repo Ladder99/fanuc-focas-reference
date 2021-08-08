@@ -19,7 +19,7 @@
         <cmn>
             <p>
                 Notifies the end of downloading NC data to CNC.<br/>
-                (This function must be executed after <a href="Program/cnc_download3.htm" target="_parent">cnc_download3</a>.)
+                (This function must be executed after <a href="../program/cnc_download3.xml" target="_parent">cnc_download3</a>.)
             </p>
 
             <p>
@@ -28,7 +28,7 @@
             </p>
             <p>
                 Further, this function does not return until the registration of the
-                output data by <a href="Program/cnc_download3.htm" target="_parent">cnc_download3</a> is completed.
+                output data by <a href="../program/cnc_download3.xml" target="_parent">cnc_download3</a> is completed.
             </p>
         </cmn>
     </doc>
@@ -58,7 +58,7 @@
         <item>
             <name>EW_FUNC</name>
             <content>
-                <a href="Program/cnc_dwnstart3.htm" target="_parent">cnc_dwnstart3</a> function has not been executed.
+                <a href="../program/cnc_dwnstart3.xml" target="_parent">cnc_dwnstart3</a> function has not been executed.
             </content>
         </item>
         <item>
@@ -66,7 +66,7 @@
             <content>
                 Data error<br/>
                 In order to get more information for this err_no return value, execute
-                <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.<br/>
+                <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.<br/>
                 The following detail status will be set onto the member, err_no of ODBERR structure.
                 <table>
                     <colgroup align="center" valign="top">
@@ -134,7 +134,7 @@
             <item>
                 <name>EW_FUNC</name>
                 <content>
-                    <a href="Program/cnc_dwnstart3.htm" target="_parent">cnc_dwnstart3</a> function has not been executed.
+                    <a href="../program/cnc_dwnstart3.xml" target="_parent">cnc_dwnstart3</a> function has not been executed.
                 </content>
             </item>
             <item>
@@ -142,7 +142,7 @@
                 <content>
                     Data error<br/>
                     In order to get more information for this err_no return value, execute
-                    <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.<br/>
+                    <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.<br/>
                     The following detail status will be set onto the member, err_no of ODBERR structure.
                     <table>
                         <colgroup align="center" valign="top">

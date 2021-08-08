@@ -19,12 +19,12 @@
 
     <doc>
         <cmn>
-The execution result of <a href="Data/cnc_dtsvdownload.htm" target="_parent">cnc_dtsvdownload</a>, <a href="Data/cnc_dtsvupload.htm" target="_parent">cnc_dtsvupload</a> function can be got only once.<br/>
+The execution result of <a href="../data/cnc_dtsvdownload.xml" target="_parent">cnc_dtsvdownload</a>, <a href="../data/cnc_dtsvupload.xml" target="_parent">cnc_dtsvupload</a> function can be got only once.<br/>
 The completion status is as follows when this function is executed.
 <p/>
 <img src="Data/dtsv_updwn.gif"/>
 <ul>
-* "Req." shows the start request for download/upload the  file by <a href="Data/cnc_dtsvdownload.htm" target="_parent">cnc_dtsvdownload</a>/<a href="Data/cnc_dtsvupload.htm" target="_parent">cnc_dtsvupload</a> functions.<br/>
+* "Req." shows the start request for download/upload the  file by <a href="../data/cnc_dtsvdownload.xml" target="_parent">cnc_dtsvdownload</a>/<a href="../data/cnc_dtsvupload.xml" target="_parent">cnc_dtsvupload</a> functions.<br/>
 * "ret=" is the completion status when this function is done.
 </ul>
 
@@ -70,7 +70,7 @@ The completion status is as follows when this function is executed.
             <name>EW_FUNC</name>
             <content>
                 Function is not executed<br/>
-                - upload/download is not executed Execute either <a href="Data/cnc_dtsvdownload.htm" target="_parent">cnc_dtsvdownload</a> or <a href="Data/cnc_dtsvupload.htm" target="_parent">cnc_dtsvupload</a> beforehand.
+                - upload/download is not executed Execute either <a href="../data/cnc_dtsvdownload.xml" target="_parent">cnc_dtsvdownload</a> or <a href="../data/cnc_dtsvupload.xml" target="_parent">cnc_dtsvupload</a> beforehand.
             </content>
         </item>
         <item>
@@ -115,7 +115,7 @@ No option
             <name>EW_DTSRVR</name>
             <content>
                  DATA SERVER error<br/>
-                 In order to get more information for this err_no return value, execute <a href="misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.  The following details status will be set onto the member, err_no of ODBERR structure.
+                 In order to get more information for this err_no return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.  The following details status will be set onto the member, err_no of ODBERR structure.
                 <table class="dd">
                     <tr><td>1 <![CDATA[<-->]]>  498</td><td>:</td><td>DATA SERVER error</td></tr>
                     <tr><td>499</td><td>:</td> <td>DATA SERVER system error</td></tr>

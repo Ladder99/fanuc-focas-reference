@@ -24,7 +24,7 @@
             The data is stored in each member of "IODBHPST".</p>
 
             <p>This function is not supported on Series 15i. The function which reads
-            CNC parameter ( <a href="ncdata/cnc_rdparam.htm" target="_parent">cnc_rdparam</a> or <a href="ncdata/cnc_rdparar.htm" target="_parent">cnc_rdparar</a> ) can be substituted for this function.<br/>
+            CNC parameter ( <a href="../ncdata/cnc_rdparam.xml" target="_parent">cnc_rdparam</a> or <a href="../ncdata/cnc_rdparar.xml" target="_parent">cnc_rdparar</a> ) can be substituted for this function.<br/>
 Refer to CNC operator's manual and CNC parameter manual in order to
             know CNC parameters which correspond to the data which are read by this
             function.</p>

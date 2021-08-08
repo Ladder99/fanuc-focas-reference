@@ -56,7 +56,7 @@ Specify the physical slot number of control P.C.B. where F-ROM from which you wa
                     <type>in</type>
                     <content>
 The name of the system data which you want to read.<br/>
-Specify the System data name (sysname) acquired by <a href="Misc/cnc_getfrominfo.htm" target="_parent">cnc_getfrominfo</a> function.
+Specify the System data name (sysname) acquired by <a href="../misc/cnc_getfrominfo.xml" target="_parent">cnc_getfrominfo</a> function.
                     </content>
                 </item>
             </vc>
@@ -73,14 +73,14 @@ Specify the System data name (sysname) acquired by <a href="Misc/cnc_getfrominfo
         <item>
             <name>EW_BUSY</name>
             <content>Busy<br/>
-<a href="Misc/cnc_fromgetstart.htm" target="_parent">cnc_fromgetstart</a> function has been already executed.<br/>
-Terminate a reading process by using <a href="Misc/cnc_fromgetend.htm" target="_parent">cnc_fromgetend</a> function. 
+<a href="../misc/cnc_fromgetstart.xml" target="_parent">cnc_fromgetstart</a> function has been already executed.<br/>
+Terminate a reading process by using <a href="../misc/cnc_fromgetend.xml" target="_parent">cnc_fromgetend</a> function. 
             </content>
         </item>
         <item>
             <name>EW_DATA</name>
             <content>Error when function was executed<br/>
-In order to get more information for this err_no return value, execute <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function. 
+In order to get more information for this err_no return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function. 
 The following details status will be set onto the member, err_no of ODBERR structure.
                 <table>
                     <colgroup align="center" valign="top">

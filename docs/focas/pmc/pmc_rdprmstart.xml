@@ -23,22 +23,22 @@
             Starts uploading the PMC parameter(timer, counter, keep relay, and data) of the tape format.<br/>
             <br/>
             To uploading of PMC parameter, this function,
-            <a href="Pmc/pmc_rdpmcparam.htm" target="_parent">pmc_rdpmcparam</a> and
-            <a href="Pmc/pmc_rdprmend.htm" target="_parent">pmc_rdprmend</a> is used.<br/>
+            <a href="../pmc/pmc_rdpmcparam.xml" target="_parent">pmc_rdpmcparam</a> and
+            <a href="../pmc/pmc_rdprmend.xml" target="_parent">pmc_rdprmend</a> is used.<br/>
             The procedure of uploading the PMC parameter is shown as follows.
             <p><img src="Pmc/pmc_rdprmstart.gif"/></p>
             <table>
                 <colgroup valign="top">
                 <tr><td>*</td><td>Upload the PMC parameter repeatedly until the return value of
-                                  <a href="Pmc/pmc_rdpmcparam.htm" target="_parent">pmc_rdpmcparam</a> becomes excepting
+                                  <a href="../pmc/pmc_rdpmcparam.xml" target="_parent">pmc_rdpmcparam</a> becomes excepting
                                   EW_OK.  When all data is uploaded, EW_RESET is returned as a return value.</td></tr>
                 </colgroup>
                 <colgroup valign="top">
                 <tr><td>*</td><td>Judge final result of the uploading of PMC parameter from the return
-                                  value of <a href="Pmc/pmc_rdprmend.htm" target="_parent">pmc_rdprmend</a></td></tr>
+                                  value of <a href="../pmc/pmc_rdprmend.xml" target="_parent">pmc_rdprmend</a></td></tr>
                 </colgroup>
                 <colgroup valign="top">
-                <tr><td>*</td><td><span class="xis">In case of 0i-F, 30i/31i/32i, </span>please beforehand select the PMC unit type which becomes the object by <a href="Pmc/pmc_select_pmc_unit.htm" target="_parent">pmc_select_pmc_unit</a>.</td></tr>
+                <tr><td>*</td><td><span class="xis">In case of 0i-F, 30i/31i/32i, </span>please beforehand select the PMC unit type which becomes the object by <a href="../pmc/pmc_select_pmc_unit.xml" target="_parent">pmc_select_pmc_unit</a>.</td></tr>
                 </colgroup>
             </table>
             <br/>
@@ -72,7 +72,7 @@
             <name>EW_BUSY</name>
             <content>
                 Busy<br/>
-                pmc_rdprmstart or <a href="Pmc/pmc_wrprmstart.htm" target="_parent">pmc_wrprmstart</a>
+                pmc_rdprmstart or <a href="../pmc/pmc_wrprmstart.xml" target="_parent">pmc_wrprmstart</a>
                 function has been already executed.
             </content>
         </item>

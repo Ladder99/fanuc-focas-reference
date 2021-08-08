@@ -21,7 +21,7 @@
 
     <doc>
         <cmn>
-            <p>This function gets the result of <a href="Program/cnc_saveprog_end.htm" target="_parent">cnc_saveprog_start</a> function.<br/>
+            <p>This function gets the result of <a href="../program/cnc_saveprog_end.xml" target="_parent">cnc_saveprog_start</a> function.<br/>
                If cnc_saveprog_start function is being executed, the return value is "EW_BUSY". Please command this function repeatedly until the return value becomes besides "EW_BUSY".</p>
         </cmn>
     </doc>

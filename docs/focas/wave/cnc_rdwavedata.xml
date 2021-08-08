@@ -28,7 +28,7 @@
                 If used, the behavior of this function is not guaranteed.
             </p>
                 In case that the waveform diagnosis parameter is changed, the correct data cannot be read
-                if <a href="Wave/cnc_wavestart.htm" target="_parent">cnc_wavestart</a> function is not executed.
+                if <a href="../wave/cnc_wavestart.xml" target="_parent">cnc_wavestart</a> function is not executed.
         </cmn>
     </doc>
 
@@ -187,7 +187,7 @@ typedef struct odbwvdt {
     <dt>kind</dt>
     <dd>kind of waveform data</dd>
     <dd>
-        Refer to the kind of waveform data in <a href="Wave/cnc_rdwaveprm.htm" target="_parent">cnc_rdwaveprm</a> function.
+        Refer to the kind of waveform data in <a href="../wave/cnc_rdwaveprm.xml" target="_parent">cnc_rdwaveprm</a> function.
     <ul>
         <li>In case that "kind" is except 13(machine signal)</li>
             <dl>
@@ -226,7 +226,7 @@ typedef struct odbwvdt {
                 <dd>number of PMC address of machine signal</dd>
                 <dd>The PMC address number which is traced is stored.</dd>
                 <dd>
-                    The range of stored number is shown in <a href="Pmc/pmc_rdpmcrng.htm" target="_parent">pmc_rdpmcrng</a>
+                    The range of stored number is shown in <a href="../pmc/pmc_rdpmcrng.xml" target="_parent">pmc_rdpmcrng</a>
                 </dd>
             </dl>
     </ul>
@@ -287,7 +287,7 @@ typedef struct odbwvdt {
     <dd>The data which is specified by "kind" is stored.(In case of kind=13, this is 0/1. Othewise, this is binary data)</dd>
     <dd>
         Concerning the unit, etc., refer to the kind of the waveform data
-        in <a href="Wave/cnc_rdwaveprm.htm" target="_parent">cnc_rdwaveprm</a> function.
+        in <a href="../wave/cnc_rdwaveprm.xml" target="_parent">cnc_rdwaveprm</a> function.
     </dd>
 </dl>
 </div>
@@ -356,7 +356,7 @@ typedef struct odbwvdt {
             <name>EW_FUNC</name>
             <content>
                 function is not executed<br/>
-                <a href="Wave/cnc_wavestop.htm" target="_parent">cnc_wavestop</a> function has not been executed.
+                <a href="../wave/cnc_wavestop.xml" target="_parent">cnc_wavestop</a> function has not been executed.
             </content>
         </item>
         <item>

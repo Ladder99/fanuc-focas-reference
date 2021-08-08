@@ -716,7 +716,7 @@
                     <type>in</type>
                     <content>
                         <p>Specify the tool offset number.<br/>
-                            The available number of tool offset can be got by <a href="ncdata/cnc_rdtofsinfo.htm" target="_parent">cnc_rdtofsinfo</a> function. </p>
+                            The available number of tool offset can be got by <a href="../ncdata/cnc_rdtofsinfo.xml" target="_parent">cnc_rdtofsinfo</a> function. </p>
                     </content>
                 </item>
                 <item>

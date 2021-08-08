@@ -26,12 +26,12 @@
 
             <ol>
                 <li>Common variable (#100 to #999)</li>
-                    See the description of <a href="ncdata/cnc_rdmacroinfo.htm" target="_parent">cnc_rdmacroinfo</a> function about the available range of common variables. <br/>
+                    See the description of <a href="../ncdata/cnc_rdmacroinfo.xml" target="_parent">cnc_rdmacroinfo</a> function about the available range of common variables. <br/>
                 <li>System variable (#1000 to #9999)</li>
                     #3000, #3003, #3004 and #3006 cannnot be written. <br/>
             </ol>
 
-            <p>It is possible to exchange the type of macro variable by <a href="ncdata/cnc_setmactype.htm" target="_parent">cnc_setmactype</a> function.</p>
+            <p>It is possible to exchange the type of macro variable by <a href="../ncdata/cnc_setmactype.xml" target="_parent">cnc_setmactype</a> function.</p>
 
             <ul>
                 <li>decimal form floating-point type (data format=M*10**(-E))</li><br/>

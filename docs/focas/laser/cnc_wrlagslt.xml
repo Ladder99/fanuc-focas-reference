@@ -124,7 +124,7 @@ typedef struct iodblagsl {
                 Data error<br/>
                 The assist gas selection of laser setting data is wrong.
                 In order to get more information for this err_no return value,
-                execute <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.
+                execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.
                 The following details status will be set onto the member, err_no of ODBERR structure.
                 <p>ÅESeries 16i/18i-L</p>
                 <table border="0">

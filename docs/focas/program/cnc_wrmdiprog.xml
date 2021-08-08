@@ -20,16 +20,16 @@
             <p>Outputs NC program for MDI operation to CNC.</p>
             <p>
                 <li>HSSB</li>
-                    <dd>Refer description of <a href="Program/cnc_dnc.htm" target="_parent">cnc_dnc</a> function for the format of output data.</dd>
+                    <dd>Refer description of <a href="../program/cnc_dnc.xml" target="_parent">cnc_dnc</a> function for the format of output data.</dd>
                 <br/>
                 <li>Ethernet</li>
-                    <dd>Refer description of <a href="Program/cnc_download3.htm" target="_parent">cnc_download3</a> function for the format of output data.</dd>
+                    <dd>Refer description of <a href="../program/cnc_download3.xml" target="_parent">cnc_download3</a> function for the format of output data.</dd>
             </p>
         </cmn>
         <is>
             <p>Outputs NC program for MDI operation to CNC.</p>
             <p>
-                Refer description of <a href="Program/cnc_download3.htm" target="_parent">cnc_download3</a>
+                Refer description of <a href="../program/cnc_download3.xml" target="_parent">cnc_download3</a>
                 function for the format of output data.
             </p>
         </is>

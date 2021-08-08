@@ -28,7 +28,7 @@
             stored in the data array of ODBAXIS.</p>
 
             <p>The decimal point position of the acceleration/deceleration delay
-            amount can be acquired in the <a href="misc/cnc_getfigure.htm" target="_parent">cnc_getfigure</a> function.</p>
+            amount can be acquired in the <a href="../misc/cnc_getfigure.xml" target="_parent">cnc_getfigure</a> function.</p>
         </cmn>
     </doc>
 

@@ -46,7 +46,7 @@
                     <content>
                         <p>
                            The name of the S-RAM data which you want to read.<br/>
-                           Specify the S-RAM data name (sysname) acquired by <a href="Misc/cnc_getsraminfo.htm" target="_parent">cnc_getsraminfo</a> function.
+                           Specify the S-RAM data name (sysname) acquired by <a href="../misc/cnc_getsraminfo.xml" target="_parent">cnc_getsraminfo</a> function.
                         </p>
                     </content>
                 </item>
@@ -65,8 +65,8 @@
             <name>EW_BUSY</name>
             <content>
             Busy<br/>
-            <a href="Misc/cnc_sramgetstart.htm"  target="_parent">cnc_sramgetstart</a> function has been already executed.<br/>
-            Terminate a reading process by using <a href="Misc/cnc_sramgetend.htm" target="_parent">cnc_sramgetend</a> function. 
+            <a href="../misc/cnc_sramgetstart.xml"  target="_parent">cnc_sramgetstart</a> function has been already executed.<br/>
+            Terminate a reading process by using <a href="../misc/cnc_sramgetend.xml" target="_parent">cnc_sramgetend</a> function. 
             </content>
         </item>
         <item>

@@ -21,9 +21,9 @@
         <cmn>
 <p>
 Sets the parameter for unsolicited messaging to CNC. This function is available only for Series 30i/31i/32i, 0i-D/F and PMi-A. This function cannot be used with Visual Basic. Please use Visual C++ for making your application.<br/>
-Please refer to <a href="./Unsolic.htm" target="_parent">"Unsolicited Messaging Function"</a> for the detail information of unsolicited messaging function.</p>
+Please refer to <a href=".././Unsolic.xml" target="_parent">"Unsolicited Messaging Function"</a> for the detail information of unsolicited messaging function.</p>
 <p>
-After calling the <a href="UnSolic/cnc_unsolicstart.htm" target="_parent">cnc_unsolicstart</a> function, the parameter set by thisfunction becomes effective. 
+After calling the <a href="../unSolic/cnc_unsolicstart.xml" target="_parent">cnc_unsolicstart</a> function, the parameter set by thisfunction becomes effective. 
 </p>
         </cmn>
     </doc>
@@ -321,7 +321,7 @@ typedef struct unsolicmsg_type_prm {
         <item>
             <name>EW_FUNC</name>
             <content>Unavailable<br/>
-In order to get more information for this err_no return value, execute <a href="misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.<br/>
+In order to get more information for this err_no return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.<br/>
                 Member of ODBERR : err_no<br/>
                 <table>
                     <tr><td>5</td> <td>:</td> <td>Data was rejected.</td></tr>
@@ -343,7 +343,7 @@ In order to get more information for this err_no return value, execute <a href="
             <name>EW_DATA</name>
             <content>
               The contents of parameter for unsolicited messaging function is wrong.<br/>
-In order to get more information for this err_no return value, execute <a href="misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function. The following details status will be set onto the member, err_no and err_dtno of OBDERR structure.<br/>
+In order to get more information for this err_no return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function. The following details status will be set onto the member, err_no and err_dtno of OBDERR structure.<br/>
                 Member of ODBERR : err_no<br/>
                 <table>
                     <tr><td>2</td> <td>:</td> <td>Out of range</td></tr>
@@ -381,7 +381,7 @@ In order to get more information for this err_no return value, execute <a href="
             <content>
                 Write protect<br/>
                 Parameter writing is failed.<br/>
-In order to get more information for this err_no return value, execute <a href="misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function. The following details status will be set onto the member, err_no of OBDERR structure.
+In order to get more information for this err_no return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function. The following details status will be set onto the member, err_no of OBDERR structure.
 <br/>
                 Member of ODBERR : err_no<br/>
                 <table>

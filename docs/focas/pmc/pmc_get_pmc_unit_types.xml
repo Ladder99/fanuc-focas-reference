@@ -45,7 +45,7 @@
                     <content>
                         Specify the pointer to an array of "long" where the "Unit Type" of each PMC path will be stored.<br/>
                         The maximum number of PMC paths is 6, and the actual number of PMC paths can be got by
-                        <a href="Pmc/pmc_get_number_of_pmc.htm" target="_parent">pmc_get_number_of_pmc</a>.
+                        <a href="../pmc/pmc_get_number_of_pmc.xml" target="_parent">pmc_get_number_of_pmc</a>.
                         Each element of the array shows the "Unit Type" of the PMC path as following values.<br/>
                         <br/>
                         <table border="1">

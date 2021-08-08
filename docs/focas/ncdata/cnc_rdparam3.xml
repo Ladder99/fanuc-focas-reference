@@ -34,7 +34,7 @@
                 </p>
                 <p>
                     The attribute of CNC parameter depends on the type and axis, and it is different for each parameter.<br/>
-                    It is as follows, and can be got by <a href="ncdata/cnc_rdparainfo.htm" target="_parent">cnc_rdparainfo</a> function.
+                    It is as follows, and can be got by <a href="../ncdata/cnc_rdparainfo.xml" target="_parent">cnc_rdparainfo</a> function.
                 </p>
 
                 <table class="dd" border="1">
@@ -125,7 +125,7 @@
                             <p>
                                 Specify the parameter number.<br/>
                                 See the "PARAMETER MANUAL" of CNC about available parameter number.<br/>
-                                It can be got by <a href="ncdata/cnc_rdparanum.htm" target="_parent">cnc_rdparanum</a> function and <a href="ncdata/cnc_rdparainfo.htm" target="_parent">cnc_rdparainfo</a> function.
+                                It can be got by <a href="../ncdata/cnc_rdparanum.xml" target="_parent">cnc_rdparanum</a> function and <a href="../ncdata/cnc_rdparainfo.xml" target="_parent">cnc_rdparainfo</a> function.
                             </p>
                         </content>
                     </item>

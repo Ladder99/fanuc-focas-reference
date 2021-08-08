@@ -56,14 +56,14 @@ A necessary writing data size is automatically decided by the content of the FRO
     <errcode>
         <item>
             <name>EW_FUNC</name>
-            <content>Unavailable or <a href="Misc/cnc_fromputstart.htm" target="_parent">cnc_fromputstart</a> function has not been executed 
+            <content>Unavailable or <a href="../misc/cnc_fromputstart.xml" target="_parent">cnc_fromputstart</a> function has not been executed 
     </content>
         </item>
         <item>
             <name>EW_DATA</name>
             <content>F-ROM data writing error.<br/>
-When the EW_DATA error occurred by <a href="Misc/cnc_fromput.htm" target="_parent">cnc_fromput</a> function, the same return value is returned. 
-In order to get more information for this err_no return value, execute <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function. 
+When the EW_DATA error occurred by <a href="../misc/cnc_fromput.xml" target="_parent">cnc_fromput</a> function, the same return value is returned. 
+In order to get more information for this err_no return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function. 
 The following detail status will be set onto the member, err_no of ODBERR structure. 
                 <table>
                     <colgroup align="center" valign="top">

@@ -25,7 +25,7 @@
             </p>
             <p>
                 It is necessary to execute "Stop logging operation history data"
-                (<a href="History/cnc_stopophis.htm" target="_parent">cnc_stopophis</a>) . 
+                (<a href="../history/cnc_stopophis.xml" target="_parent">cnc_stopophis</a>) . 
             </p>
         </cmn>
     </doc>
@@ -63,7 +63,7 @@
         <item>
             <name>EW_FUNC</name>
             <content>
-                <a href="History/cnc_stopomhis.htm" target="_parent">cnc_stopomhis</a> function has not been executed.
+                <a href="../history/cnc_stopomhis.xml" target="_parent">cnc_stopomhis</a> function has not been executed.
             </content>
         </item>
         <item>

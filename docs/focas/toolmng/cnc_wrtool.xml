@@ -22,7 +22,7 @@
         <cmn><p>
                 Writes the specified Tool management data to the Tool management data table.
                 In case of writing the individual data on the Tool management data,
-                use <a href="ToolMng/cnc_wrtool2.htm" target="_parent">cnc_wrtool2</a> function.
+                use <a href="../toolMng/cnc_wrtool2.xml" target="_parent">cnc_wrtool2</a> function.
              </p>
              <p class="xis">
                 Note) This function is only for "Fast Ethernet board" and "Embedded Ethernet". So, this function is not supported at "Ethernet board".
@@ -59,7 +59,7 @@
                     <content>
                         <p>
                             Specify the pointer to IODBTLMNG structure including the Tool management data to be written.  As for the IODBTLMNG structure,
-                            refer to the explanation of arguments of <a href="ToolMng/cnc_regtool.htm" target="_parent">cnc_regtool</a> function.
+                            refer to the explanation of arguments of <a href="../toolMng/cnc_regtool.xml" target="_parent">cnc_regtool</a> function.
                         </p>
                     </content>
                 </item>
@@ -88,7 +88,7 @@
             <content>
                 The member in the IODBTLMNG structure is invalid.<br/>
                 In order to get more information for this err_no return value,
-                execute <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.
+                execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.
                 The following detail status will be set onto the member, err_no of OBDERR structure.
                 <table border="0">
                     <tr><td>0</td><td>:</td><td>error except EW_DATA</td></tr>

@@ -24,7 +24,7 @@
                 Clears the external operator's message history data.
             </p>
             <p>
-                The specification for Series 30i, 0i-D/F and PMi-A are same as <a href="History/cnc_clearophis.htm" target="_parent">cnc_clearophis</a>( Argument "slct=2" ).
+                The specification for Series 30i, 0i-D/F and PMi-A are same as <a href="../history/cnc_clearophis.xml" target="_parent">cnc_clearophis</a>( Argument "slct=2" ).
             </p>
         </cmn>
         <is>
@@ -33,7 +33,7 @@
                 Clears the external operator's message history data.
             </p>
             <p>
-                The specification is same as <a href="History/cnc_clearophis.htm" target="_parent">cnc_clearophis</a>.
+                The specification is same as <a href="../history/cnc_clearophis.xml" target="_parent">cnc_clearophis</a>.
             </p>
         </cmn>
         </is>

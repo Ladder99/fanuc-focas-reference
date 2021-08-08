@@ -21,7 +21,7 @@
     <doc>
         <cmn>
             <p>
-                Gets the result of <a href="Data/ds_searchword.htm" target="_parent">ds_searchword</a> function.
+                Gets the result of <a href="../data/ds_searchword.xml" target="_parent">ds_searchword</a> function.
             </p>
         </cmn>
     </doc>
@@ -57,7 +57,7 @@
         <item>
             <name>EW_FUNC</name>
             <content>
-                <a href="Data/ds_searchword.htm" target="_parent">ds_searchword</a> was not called prior to this function
+                <a href="../data/ds_searchword.xml" target="_parent">ds_searchword</a> was not called prior to this function
             </content>
         </item>
         <item>

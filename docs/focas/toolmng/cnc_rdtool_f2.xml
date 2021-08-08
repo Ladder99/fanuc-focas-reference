@@ -77,7 +77,7 @@
                         <p>
                             Specify the pointer to IODBTLMNG_F2 structure including the Tool management data to be read. 
                             As for the IODBTLMNG_F2 structure, 
-                            refer to the explanation of arguments of <a href="ToolMng/cnc_regtool_f2.htm" target="_parent">cnc_regtool_f2</a> function. 
+                            refer to the explanation of arguments of <a href="../toolMng/cnc_regtool_f2.xml" target="_parent">cnc_regtool_f2</a> function. 
                         </p>
                     </content>
                 </item>

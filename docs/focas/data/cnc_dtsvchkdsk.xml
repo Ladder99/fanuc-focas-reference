@@ -21,7 +21,7 @@
         <cmn>
 Checks the hard disk on the DATA SERVER whether there is an error sector etc. or not.
 <p/>
-If this function is executed while <a href="Data/cnc_dtsvftpput.htm" target="_parent">cnc_dtsvftpput</a> or <a href="Data/cnc_dtsvftpget.htm" target="_parent">cnc_dtsvftpget</a> is executing(until the completion status is got by <a href="Data/cnc_dtsvftpstat.htm" target="_parent">cnc_dtsvftpstat</a>), EW_BUSY is returned.
+If this function is executed while <a href="../data/cnc_dtsvftpput.xml" target="_parent">cnc_dtsvftpput</a> or <a href="../data/cnc_dtsvftpget.xml" target="_parent">cnc_dtsvftpget</a> is executing(until the completion status is got by <a href="../data/cnc_dtsvftpstat.xml" target="_parent">cnc_dtsvftpstat</a>), EW_BUSY is returned.
         </cmn>
     </doc>
 
@@ -50,7 +50,7 @@ If this function is executed while <a href="Data/cnc_dtsvftpput.htm" target="_pa
             <name>EW_BUSY</name>
             <content>
                 Busy<br/>
-                Try again because DATA SERVER is processing. (There is a possibility of forgetting to call <a href="Data/cnc_dtsvftpstat.htm" target="_parent">cnc_dtsvftpstat</a> function.)
+                Try again because DATA SERVER is processing. (There is a possibility of forgetting to call <a href="../data/cnc_dtsvftpstat.xml" target="_parent">cnc_dtsvftpstat</a> function.)
             </content>
         </item>
         <item>
@@ -68,7 +68,7 @@ No option
             <name>EW_DTSRVR</name>
             <content>
                  DATA SERVER error<br/>
-                 In order to get more information for this err_no return value, execute <a href="misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.  The following details status will be set onto the member, err_no of ODBERR structure.
+                 In order to get more information for this err_no return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.  The following details status will be set onto the member, err_no of ODBERR structure.
                 <table class="dd">
                     <tr><td>1 <![CDATA[<-->]]>  498</td><td>:</td><td>DATA SERVER error</td></tr>
                     <tr><td>499</td><td>:</td> <td>DATA SERVER system error</td></tr>

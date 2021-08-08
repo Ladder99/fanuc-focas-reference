@@ -25,7 +25,7 @@ Reads the data of block restart.
 <p>These are stored in each member of ODBBRS structure.</p>
 
 The destination and the distance to go of block restart are valid in case of CNC parameter 2204#1=1, 7613#0=1 for Series 15.<p/>
-The places of decimal points can be got by <a href="misc/cnc_getfigure.htm" target="_parent">cnc_getfigure</a> function.<p/>
+The places of decimal points can be got by <a href="../misc/cnc_getfigure.xml" target="_parent">cnc_getfigure</a> function.<p/>
 The relation to these data, amount of Tool Length Compensation/Cutter Compensation, and amount of servo delay and acceleration/deceleration delay follows the setting of CNC parameter of the following description.
       </cmn>
     </doc>

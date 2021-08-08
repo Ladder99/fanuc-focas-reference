@@ -19,14 +19,14 @@
         <cmn>
             <p>
                 Notifies the end of downloading NC program to CNC.<br/>
-                (This function must be executed after <a href="Program/cnc_download.htm" target="_parent">cnc_download</a> /
-                <a href="Program/cnc_cdownload.htm" target="_parent">cnc_cdownload</a>.)
+                (This function must be executed after <a href="../program/cnc_download.xml" target="_parent">cnc_download</a> /
+                <a href="../program/cnc_cdownload.xml" target="_parent">cnc_cdownload</a>.)
             </p>
             <p>
                 There are cases where errors(EW_DATA,EW_OVRFLOW, etc.) during execution
                 of downloading NC program are returned by this function.<br/>
                 Further, this function does not return until the registration
-                of the output data by <a href="Program/cnc_download.htm" target="_parent">cnc_download</a>(<a href="Program/cnc_cdownload.htm" target="_parent">cnc_cdownload</a>) is completed.
+                of the output data by <a href="../program/cnc_download.xml" target="_parent">cnc_download</a>(<a href="../program/cnc_cdownload.xml" target="_parent">cnc_cdownload</a>) is completed.
             </p>
         </cmn>
     </doc>
@@ -56,7 +56,7 @@
         <item>
             <name>EW_FUNC</name>
             <content>
-                <a href="Program/cnc_dwnstart.htm" target="_parent">cnc_dwnstart</a> function has not been executed.
+                <a href="../program/cnc_dwnstart.xml" target="_parent">cnc_dwnstart</a> function has not been executed.
             </content>
         </item>
         <item>

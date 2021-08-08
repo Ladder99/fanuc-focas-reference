@@ -77,9 +77,9 @@ typedef struct odbdncdgn {
                                     This count shows the total of the events from the power-up of CNC.</dd>
                             <dt>total_size</dt>
                                 <dd>Total number of characters output as the NC part program after
-                                    <a href="Program/cnc_dncstart2.htm" target="_parent">cnc_dncstart2</a>
+                                    <a href="../program/cnc_dncstart2.xml" target="_parent">cnc_dncstart2</a>
                                     was executed is set.<br/>
-                                    This value is cleared by each <a href="Program/cnc_dncstart2.htm" target="_parent">
+                                    This value is cleared by each <a href="../program/cnc_dncstart2.xml" target="_parent">
                                     cnc_dncstart2</a> execution.</dd>
                         </dl>
                     </content>

@@ -24,16 +24,16 @@
         <cmn>
             Reads the S-RAM data from CNC.<br/>
             The SRAM data which was read by this function should be restored by using the Boot function.(The SRAM data cannot be restored while the system is running).<br/>
-            It is necessary to make the file having the file name which was acquired by <a href="Misc/cnc_getsraminfo.htm" target="_parent">cnc_getsraminfo</a> function to restore the SRAM data by using the Boot function.<br/>
+            It is necessary to make the file having the file name which was acquired by <a href="../misc/cnc_getsraminfo.xml" target="_parent">cnc_getsraminfo</a> function to restore the SRAM data by using the Boot function.<br/>
             Refer to the following for the method of making the file for the S-RAM data.<p/>
             The procedure of reading S-RAM data and storing the data to the file is as follows. <p/>
 
             <p><img src="Misc/sramget.gif"></img></p>
 
-            The total size which can be read finally is S-RAM size(sramsize) acquired by the <a href="Misc/cnc_getsraminfo.htm" target="_parent">cnc_getsraminfo</a> function. <p/>
+            The total size which can be read finally is S-RAM size(sramsize) acquired by the <a href="../misc/cnc_getsraminfo.xml" target="_parent">cnc_getsraminfo</a> function. <p/>
 
-            When you store the read SRAM data to the file, please store the divided S-RAM data into the files whose names were acquired by <a href="Misc/cnc_getsraminfo.htm" target="_parent">cnc_getsraminfo</a> function in order of the file names.<br/>
-            The size of one file is calculated from information of <a href="Misc/cnc_getsraminfo.htm" target="_parent">cnc_getsraminfo</a> as follows. 
+            When you store the read SRAM data to the file, please store the divided S-RAM data into the files whose names were acquired by <a href="../misc/cnc_getsraminfo.xml" target="_parent">cnc_getsraminfo</a> function in order of the file names.<br/>
+            The size of one file is calculated from information of <a href="../misc/cnc_getsraminfo.xml" target="_parent">cnc_getsraminfo</a> as follows. 
             <blockquote>
                     <table>
 
@@ -44,7 +44,7 @@
                 <ul>
                     <table>
                         <tr> <td rowspan="5" valign="top">Ex.)</td> <td colspan="3">i Series(1Mbyte S-RAM)</td> </tr>
-                        <tr> <td>Information acquired by <a href="Misc/cnc_getsraminfo.htm" target="_parent">cnc_getsraminfo</a></td></tr>
+                        <tr> <td>Information acquired by <a href="../misc/cnc_getsraminfo.xml" target="_parent">cnc_getsraminfo</a></td></tr>
                         <tr><td>
                         <table class="dd">
                             <tr><td>sramsize</td>         <td>=</td> <td>1Mbyte(1048576byte) = 1024Kbyte</td> </tr>
@@ -92,7 +92,7 @@
                                 <td>Reading process continued</td>
                             </tr>
                         </table>
-                        <p>Call the <a href="Misc/cnc_sramgetend.htm" target="_parent">cnc_sramgetend</a> function in case of stat=0. </p>
+                        <p>Call the <a href="../misc/cnc_sramgetend.xml" target="_parent">cnc_sramgetend</a> function in case of stat=0. </p>
                     </content>
                 </item>
                 <item>
@@ -111,7 +111,7 @@
                         <p>
                         Pointer to the variable to which the data length was set.<br/>
                         Specify the size in byte which you want to read to the variable. After executing this function, the size of data which was actually read is set.<br/>
-                        The maximum size which can be read at a time is S-RAM size (sramsize) acquired by the <a href="Misc/cnc_getsraminfo.htm" target="_parent">cnc_getsraminfo</a> function.<br/>
+                        The maximum size which can be read at a time is S-RAM size (sramsize) acquired by the <a href="../misc/cnc_getsraminfo.xml" target="_parent">cnc_getsraminfo</a> function.<br/>
                         This function returns EW_LENGTH if '*length' is less than 256.
                         </p>
                     </content>
@@ -125,7 +125,7 @@
     <errcode>
         <item>
             <name>EW_FUNC</name>
-            <content>Unavailable or <a href="Misc/cnc_sramgetstart.htm" target="_parent">cnc_sramgetstart</a> function has not been executed</content>
+            <content>Unavailable or <a href="../misc/cnc_sramgetstart.xml" target="_parent">cnc_sramgetstart</a> function has not been executed</content>
         </item>
         <item>
             <name>EW_LENGTH</name>

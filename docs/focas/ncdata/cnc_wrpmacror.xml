@@ -22,7 +22,7 @@
         <cmn>
             <p>Writes the P code macro variable (variable for the macro-executor) specified by "datano_s", "datano_e". The data must be stored in "IODBPR" with signed binary format.</p>
 
-            <p>It is possible to exchange the type of P code macro variable by <a href="ncdata/cnc_setpmactype.htm" target="_parent">cnc_setpmactype</a> function. In case of the integer type variable, this indication is invalid and always regarded as the decimal form floating-point type.</p>
+            <p>It is possible to exchange the type of P code macro variable by <a href="../ncdata/cnc_setpmactype.xml" target="_parent">cnc_setpmactype</a> function. In case of the integer type variable, this indication is invalid and always regarded as the decimal form floating-point type.</p>
 
             <ul>
                 <li>decimal form floating-point type (data format=M*10**(-E))</li>

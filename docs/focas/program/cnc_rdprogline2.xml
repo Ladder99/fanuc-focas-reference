@@ -49,7 +49,7 @@ N005 M30 ;
                (for example, feed hold stopping, single block stopping, etc).
             </p>
             <p>When you use this function for the MDI program or the selected program in the following situations, the execution pointer goes to the top of the specified line by line_no.
-            <p>In this function, the execution pointer never moves like <a href="Program/cnc_rdprogline.htm" target="_parent">cnc_rdprogline</a>.</p>
+            <p>In this function, the execution pointer never moves like <a href="../program/cnc_rdprogline.xml" target="_parent">cnc_rdprogline</a>.</p>
             </p>
         </cmn>
     </doc>
@@ -140,7 +140,7 @@ N005 M30 ;
             <name>EW_DATA</name>
             <content>
                 Data error<br/>
-                In order to get more information for this err_no return value, execute <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.<br/>
+                In order to get more information for this err_no return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.<br/>
                 The following detail status will be set onto the member, err_no of ODBERR structure.
                 <table>
                     <tr><td>1</td><td>:</td><td>The program number(prog_no) error</td></tr>

@@ -88,7 +88,7 @@
             <name>EW_DATA</name>
             <content>
                 File name(pc_file[]) is wrong, File open error, File read error<br/>
-                In order to get more information for this err_no return value, execute <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.<br/>
+                In order to get more information for this err_no return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.<br/>
                 The following details status will be set onto the member, err_no of ODBERR structure.
                 <table class="dd">
                     <tr><td>1</td><td>:</td><td>File(pc_file[]) open error</td></tr>
@@ -120,7 +120,7 @@
             <name>EW_DTSRVR</name>
             <content>
                 DATA SERVER error<br/>
-                In order to get more information for this err_no return value, execute <a href="misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.<br/>
+                In order to get more information for this err_no return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.<br/>
                 The following details status will be set onto the member, err_no of ODBERR structure.As for the details, see "Ethernet Board/DATA SERVER Board OPERATOR'S MANUAL".
                 <table class="dd">
                     <tr><td>0xf000, 0xfe00-</td><td>:</td><td>Error code from DATA SERVER</td></tr>

@@ -27,7 +27,7 @@
             <p>
                 The operation history data and the alarm history data are automatically recorded on the CNC.<br/>
                 When these data are accessed, it is necessary to temporarily stop sampling on the CNC by this function.<br/>
-                And it is necessary to execute <a href="History/cnc_startophis.htm" target="_parent">cnc_startophis</a> function after reading to make the sampling stop time of the history data as short as possible. 
+                And it is necessary to execute <a href="../history/cnc_startophis.xml" target="_parent">cnc_startophis</a> function after reading to make the sampling stop time of the history data as short as possible. 
             </p>
             <p>
                 The sequence of reading the history data is as follows.
@@ -36,18 +36,18 @@
                 <tr> <td valign="top">1.</td> <td>Stop sampling. This must be done. (by this function)</td> </tr>
                 <tr> <td valign="top">2.</td> 
                      <td>
-                        Read history data count.(by <a href="History/cnc_rdophisno.htm" target="_parent">cnc_rdophisno</a>, <a href="History/cnc_rdalmhisno.htm" target="_parent">cnc_rdalmhisno</a> functions)
+                        Read history data count.(by <a href="../history/cnc_rdophisno.xml" target="_parent">cnc_rdophisno</a>, <a href="../history/cnc_rdalmhisno.xml" target="_parent">cnc_rdalmhisno</a> functions)
                     </td>
                 </tr>
                 <tr> <td valign="top">3.</td> 
                      <td>
-                        Read history data.(by <a href="History/cnc_rdophistry.htm" target="_parent">cnc_rdophistry</a>, 
-                        <a href="History/cnc_rdophistry2.htm" target="_parent">cnc_rdophistry2</a>, <a href="History/cnc_rdophistry4.htm" target="_parent">cnc_rdophistry4</a>, <a href="History/cnc_rdalmhistry.htm" target="_parent">cnc_rdalmhistry</a>, <a href="History/cnc_rdalmhistry2.htm" target="_parent">cnc_rdalmhistry2</a>, <a href="History/cnc_rdalmhistry3.htm" target="_parent">cnc_rdalmhistry3</a>, <a href="History/cnc_rdalmhistry5.htm" target="_parent">cnc_rdalmhistry5</a> functions)
+                        Read history data.(by <a href="../history/cnc_rdophistry.xml" target="_parent">cnc_rdophistry</a>, 
+                        <a href="../history/cnc_rdophistry2.xml" target="_parent">cnc_rdophistry2</a>, <a href="../history/cnc_rdophistry4.xml" target="_parent">cnc_rdophistry4</a>, <a href="../history/cnc_rdalmhistry.xml" target="_parent">cnc_rdalmhistry</a>, <a href="../history/cnc_rdalmhistry2.xml" target="_parent">cnc_rdalmhistry2</a>, <a href="../history/cnc_rdalmhistry3.xml" target="_parent">cnc_rdalmhistry3</a>, <a href="../history/cnc_rdalmhistry5.xml" target="_parent">cnc_rdalmhistry5</a> functions)
                      </td> 
                 </tr>
                 <tr> <td valign="top">4.</td> 
                      <td>
-                        Restart sampling. This must be done. (by <a href="History/cnc_startophis.htm" target="_parent">cnc_startophis</a> function)
+                        Restart sampling. This must be done. (by <a href="../history/cnc_startophis.xml" target="_parent">cnc_startophis</a> function)
                      </td> 
                 </tr>
             </table>
@@ -61,7 +61,7 @@
                 <p>
                     The operation history data and the alarm history data are automatically recorded on the CNC.<br/>
                     When these data are accessed, it is necessary to temporarily stop sampling on the CNC by this function.<br/>
-                    And it is necessary to execute <a href="History/cnc_startophis.htm" target="_parent">cnc_startophis</a> function after reading to make the sampling stop time of the history data as short as possible. 
+                    And it is necessary to execute <a href="../history/cnc_startophis.xml" target="_parent">cnc_startophis</a> function after reading to make the sampling stop time of the history data as short as possible. 
                 </p>
 <!--        <br/><p>The history data screen of CNC is displayed, EW_BUSY is returned.</p> -->
            </cmn>

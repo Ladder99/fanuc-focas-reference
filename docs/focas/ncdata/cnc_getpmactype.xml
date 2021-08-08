@@ -20,7 +20,7 @@
 
     <doc>
         <cmn>
-            <p>Gets the type of P code macro variable which is used by <a href="ncdata/cnc_rdpmacro.htm" target="_parent">cnc_rdpmacro</a>, <a href="ncdata/cnc_wrpmacro.htm" target="_parent">cnc_wrpmacro</a>, <a href="ncdata/cnc_rdpmacror.htm" target="_parent">cnc_rdpmacror</a>, <a href="ncdata/cnc_wrpmacror.htm" target="_parent">cnc_wrpmacror</a> functions.</p>
+            <p>Gets the type of P code macro variable which is used by <a href="../ncdata/cnc_rdpmacro.xml" target="_parent">cnc_rdpmacro</a>, <a href="../ncdata/cnc_wrpmacro.xml" target="_parent">cnc_wrpmacro</a>, <a href="../ncdata/cnc_rdpmacror.xml" target="_parent">cnc_rdpmacror</a>, <a href="../ncdata/cnc_wrpmacror.xml" target="_parent">cnc_wrpmacror</a> functions.</p>
         </cmn>
     </doc>
 

@@ -25,7 +25,7 @@
             </p>
             <p>
                 After this function is executed, the written data is set in the I/F buffer in CNC by using the 
-                <a href="Servo/cnc_svdtrddata.htm" target="_parent">cnc_svdtrddata</a> function.
+                <a href="../servo/cnc_svdtrddata.xml" target="_parent">cnc_svdtrddata</a> function.
             </p>
             <p><span class="xis">In 30i/31i/32i, </span>same I/F as the uploading and downloading is used. So, this function cannot be executed during the uploading and downloading.</p>
             <img src="Servo/svdtwr1_e.gif"/>

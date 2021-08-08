@@ -21,11 +21,11 @@
             <p>
                 When the data processing on the CNC side is delayed and the next data
                 cannot be transferred, error(EW_BUFFER) is returned.<br/>
-                If an application will wait the data transferring, use the <a href="Program/cnc_verify.htm" target="_parent">cnc_verify</a> function.
+                If an application will wait the data transferring, use the <a href="../program/cnc_verify.xml" target="_parent">cnc_verify</a> function.
             </p>
             <p>
                 Except the above-mentioned difference, function is the same as "Verify NC program
-                (<a href="Program/cnc_verify.htm" target="_parent">cnc_verify</a>)",
+                (<a href="../program/cnc_verify.xml" target="_parent">cnc_verify</a>)",
                 so refer to "cnc_verify" function for
             other description.
             </p>
@@ -80,13 +80,13 @@
                     Reset or stop request<br/>
                     CNC required to stop verification.<br/>
                     'RESET or STOP' was pushed.(Series 15/15i)<br/>
-                    Call the <a href="Program/cnc_vrfend.htm" target="_parent">cnc_vrfend</a> function.
+                    Call the <a href="../program/cnc_vrfend.xml" target="_parent">cnc_vrfend</a> function.
                 </ul>
                 Ethernet<br/>
                 <ul style="margin-top:0">
                     Reset or stop request<br/>
                     CNC required to stop verification.<br/>
-                    Call the <a href="Program/cnc_vrfend.htm" target="_parent">cnc_vrfend</a> function. 
+                    Call the <a href="../program/cnc_vrfend.xml" target="_parent">cnc_vrfend</a> function. 
                 </ul>
             </content>
         </item>
@@ -100,7 +100,7 @@
         <item>
             <name>EW_FUNC</name>
             <content>
-                <a href="Program/cnc_vrfstart.htm" target="_parent">cnc_vrfstart</a> function has not been executed.
+                <a href="../program/cnc_vrfstart.xml" target="_parent">cnc_vrfstart</a> function has not been executed.
             </content>
         </item>
         <item>
@@ -129,7 +129,7 @@
                 <content>
                         Reset or stop request<br/>
                         CNC required to stop verification.<br/>
-                        Call the <a href="Program/cnc_vrfend.htm" target="_parent">cnc_vrfend</a> function.
+                        Call the <a href="../program/cnc_vrfend.xml" target="_parent">cnc_vrfend</a> function.
                 </content>
             </item>
             <item>
@@ -142,7 +142,7 @@
             <item>
                 <name>EW_FUNC</name>
                 <content>
-                    <a href="Program/cnc_vrfstart.htm" target="_parent">cnc_vrfstart</a> function has not been executed.
+                    <a href="../program/cnc_vrfstart.xml" target="_parent">cnc_vrfstart</a> function has not been executed.
                 </content>
             </item>
             <item>

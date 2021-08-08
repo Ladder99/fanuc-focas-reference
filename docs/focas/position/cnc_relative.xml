@@ -24,7 +24,7 @@
             array of ODBAXIS.</p>
 
             <p>The decimal point position of the relative position can be acquired in
-            the <a href="misc/cnc_getfigure.htm" target="_parent">cnc_getfigure</a> function.</p>
+            the <a href="../misc/cnc_getfigure.xml" target="_parent">cnc_getfigure</a> function.</p>
             <ul>
                 <li>Series 15/15i</li>
                 The relation to the read relative position, amount
@@ -65,7 +65,7 @@
                 </p>
                 <p>
                     The decimal point position of the relative position can be acquired in
-                    the <a href="misc/cnc_getfigure.htm" target="_parent">cnc_getfigure</a> function.
+                    the <a href="../misc/cnc_getfigure.xml" target="_parent">cnc_getfigure</a> function.
                 </p>
             </cmn>
         </is>

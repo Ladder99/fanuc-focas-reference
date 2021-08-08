@@ -58,7 +58,7 @@
                         <p>
                             Specify the pointer to IODBTLMNG_F2 structure including the Tool management data to be written. 
                             As for the IODBTLMNG_F2 structure, 
-                            refer to the explanation of arguments of <a href="ToolMng/cnc_regtool_f2.htm" target="_parent">cnc_regtool_f2</a> function.
+                            refer to the explanation of arguments of <a href="../toolMng/cnc_regtool_f2.xml" target="_parent">cnc_regtool_f2</a> function.
                         </p>
                     </content>
                 </item>
@@ -87,7 +87,7 @@
             <content>
                 The member in the IODBTLMNG_F2 structure is invalid.<br/>
                 In order to get more information for this err_no return value,
-                execute <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.
+                execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.
                 The following detail status will be set onto the member, err_no of OBDERR structure.
                 <table border="0">
                     <tr><td>0</td><td>:</td><td>error except EW_DATA</td></tr>

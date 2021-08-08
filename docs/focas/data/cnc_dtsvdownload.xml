@@ -21,28 +21,28 @@
         <cmn>
 Orders the CNC to download the file from the DATA SERVER.<br/>
 Therefore, normal termination of this function shows that downloading the file from the DATA SERVER has been started.<br/>
-The result of downloading file must be got by <a href="Data/cnc_dtsvupdnstat.htm" target="_parent">cnc_dtsvupdnstat</a>.<br/>
+The result of downloading file must be got by <a href="../data/cnc_dtsvupdnstat.xml" target="_parent">cnc_dtsvupdnstat</a>.<br/>
 <p/>
-Don't use the data sever function(except DNC operation) at the CNC side until either EW_OK or EW_DTSRVR as the completion status is got by <a href="Data/cnc_dtsvupdnstat.htm" target="_parent">cnc_dtsvupdnstat</a> after this function was finished.
+Don't use the data sever function(except DNC operation) at the CNC side until either EW_OK or EW_DTSRVR as the completion status is got by <a href="../data/cnc_dtsvupdnstat.xml" target="_parent">cnc_dtsvupdnstat</a> after this function was finished.
             <p class="dd"><img src="Data/dtsv_dwn_dis.gif"/></p>
 <ul>
             <p> * "Req." shows start request for download by this function.<br/>
-                * "ret=" is the completion status when <a href="Data/cnc_dtsvupdnstat.htm" target="_parent">cnc_dtsvupdnstat</a> is done. </p>
+                * "ret=" is the completion status when <a href="../data/cnc_dtsvupdnstat.xml" target="_parent">cnc_dtsvupdnstat</a> is done. </p>
 
 
 </ul>
             <p class="dd">
                 Throughout the prohibition term, the completion status of the following function is EW_BUSY.<br/>
-                    <span class="dd"><a href="Program/cnc_dwnstart.htm" target="_parent">cnc_dwnstart</a></span><br/>
-                    <span class="dd"><a href="Program/cnc_vrfstart.htm" target="_parent">cnc_vrfstart</a></span><br/>
-                    <span class="dd"><a href="Program/cnc_dncstart.htm" target="_parent">cnc_dncstart</a></span><br/>
-                    <span class="dd"><a href="Program/cnc_delete.htm" target="_parent">cnc_delete</a></span><br/>
-                    <span class="dd"><a href="Program/cnc_delall.htm" target="_parent">cnc_delall</a></span><br/>
-                    <span class="dd"><a href="Program/cnc_search.htm" target="_parent">cnc_search</a></span><br/>
+                    <span class="dd"><a href="../program/cnc_dwnstart.xml" target="_parent">cnc_dwnstart</a></span><br/>
+                    <span class="dd"><a href="../program/cnc_vrfstart.xml" target="_parent">cnc_vrfstart</a></span><br/>
+                    <span class="dd"><a href="../program/cnc_dncstart.xml" target="_parent">cnc_dncstart</a></span><br/>
+                    <span class="dd"><a href="../program/cnc_delete.xml" target="_parent">cnc_delete</a></span><br/>
+                    <span class="dd"><a href="../program/cnc_delall.xml" target="_parent">cnc_delall</a></span><br/>
+                    <span class="dd"><a href="../program/cnc_search.xml" target="_parent">cnc_search</a></span><br/>
                     <span class="dd">cnc_dtsvdownload</span><br/>
-                    <span class="dd"><a href="Data/cnc_dtsvupload.htm" target="_parent">cnc_dtsvupload</a></span><br/>
+                    <span class="dd"><a href="../data/cnc_dtsvupload.xml" target="_parent">cnc_dtsvupload</a></span><br/>
                 <br/>
-                Therefore, it is necessary to get either EW_OK or EW_DTSRVR as the completion status by <a href="Data/cnc_dtsvupdnstat.htm" target="_parent">cnc_dtsvupdnstat</a> when this function was executed successfully.
+                Therefore, it is necessary to get either EW_OK or EW_DTSRVR as the completion status by <a href="../data/cnc_dtsvupdnstat.xml" target="_parent">cnc_dtsvupdnstat</a> when this function was executed successfully.
             </p>
         </cmn>
     </doc>
@@ -83,7 +83,7 @@ Don't use the data sever function(except DNC operation) at the CNC side until ei
             <content>
                 Busy<br/>
                     <dt>- download/upload function has been executed on CNC side.  Try again.</dt>
-                        <dd>(The unexecution of <a href="Data/cnc_dtsvupdnstat.htm" targeT="_parent">cnc_dtsvupdnstat</a> is included.)</dd>
+                        <dd>(The unexecution of <a href="../data/cnc_dtsvupdnstat.xml" targeT="_parent">cnc_dtsvupdnstat</a> is included.)</dd>
                     <dt>- alarm(PS000, PS101) in CNC side (only Series 16/18, 16i/18i/21i, 0i)</dt>
                         <dd>Reset the alarm on CNC.</dd>
                     <dt>- I/O channel number of CNC doesn't indicate the DATA SERVER.</dt>
@@ -125,7 +125,7 @@ No option
             <name>EW_DTSRVR</name>
             <content>
                  DATA SERVER error<br/>
-                 In order to get more information for this err_no return value, execute <a href="misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.  The following details status will be set onto the member, err_no of ODBERR structure.
+                 In order to get more information for this err_no return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.  The following details status will be set onto the member, err_no of ODBERR structure.
                 <table class="dd">
                     <tr><td>1 <![CDATA[<-->]]>  498</td><td>:</td><td>DATA SERVER error</td></tr>
                     <tr><td>499</td><td>:</td> <td>DATA SERVER system error</td></tr>

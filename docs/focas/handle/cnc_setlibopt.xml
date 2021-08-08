@@ -29,7 +29,7 @@
                    <table border="1">
                        <tr> <td>Value(optname)</td> <td>Type</td> <td>Default</td> <td>Meaning</td> </tr>
                        <tr> <td>LIB_MODE(0)</td> <td>long</td> <td>0</td> <td>Changes the advanced mode(0) or the traditional mode(1).</td> </tr>
-                       <tr> <td>MOVE_RDPRGPTR(1)</td> <td>long</td> <td>1</td> <td>Changes if the execution pointer would be moved(1) or not moved(0) after invoking <a href="program/cnc_rdpdf_line.htm" target="_parent">cnc_rdpdf_line</a> function.</td> </tr>
+                       <tr> <td>MOVE_RDPRGPTR(1)</td> <td>long</td> <td>1</td> <td>Changes if the execution pointer would be moved(1) or not moved(0) after invoking <a href="../program/cnc_rdpdf_line.xml" target="_parent">cnc_rdpdf_line</a> function.</td> </tr>
                    </table>
                 </p>
                 <p>

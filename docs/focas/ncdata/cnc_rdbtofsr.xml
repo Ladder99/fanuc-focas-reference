@@ -22,7 +22,7 @@
         <cmn>
             <p>Reads the tool offset value for B axis specified by "s_number", "e_number", "type". The offset value is stored in "IODBBTO" with signed binary format.</p>
 
-            <p>The unit of offset value is the same as <a href="ncdata/cnc_rdtofs.htm" target="_parent">cnc_rdtofs</a> function. See the description of <a href="ncdata/cnc_rdtofs.htm" target="_parent">cnc_rdtofs</a> function. </p>
+            <p>The unit of offset value is the same as <a href="../ncdata/cnc_rdtofs.xml" target="_parent">cnc_rdtofs</a> function. See the description of <a href="../ncdata/cnc_rdtofs.xml" target="_parent">cnc_rdtofs</a> function. </p>
         </cmn>
     </doc>
 
@@ -45,7 +45,7 @@
                     <type>in</type>
                     <content>
                         <p>Specify the start tool offset number. The available number is 1,...,9.</p>
-                        <p>'This number + aux. function number which can be got by <a href="ncdata/cnc_rdbtofsinfo.htm" target="_parent">cnc_rdbtofsinfo</a> function + 1' means the tool offset number for B axis which is used by NC command or display.</p>
+                        <p>'This number + aux. function number which can be got by <a href="../ncdata/cnc_rdbtofsinfo.xml" target="_parent">cnc_rdbtofsinfo</a> function + 1' means the tool offset number for B axis which is used by NC command or display.</p>
                     </content>
                 </item>
                 <item>

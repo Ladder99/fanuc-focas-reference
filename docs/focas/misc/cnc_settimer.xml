@@ -148,7 +148,7 @@ typedef struct iodbtimer {
             </dl>
                 </p>
 
-For Series 16i/18i/21i, 0i-A/B/C, and Power Mate i, this function doesn't check the validity of date format (buf.data.date.*) strictly. For example, "Feb. 31" can be set. In this case, "Feb. 31" is read by <a href="Misc/cnc_gettimer.htm" target="_parent">cnc_gettimer</a> function, and "Feb. 31" is displayed on the setting screen of CNC. <p/>
+For Series 16i/18i/21i, 0i-A/B/C, and Power Mate i, this function doesn't check the validity of date format (buf.data.date.*) strictly. For example, "Feb. 31" can be set. In this case, "Feb. 31" is read by <a href="../misc/cnc_gettimer.xml" target="_parent">cnc_gettimer</a> function, and "Feb. 31" is displayed on the setting screen of CNC. <p/>
 
 For Series 15/15i, 30i/31i/32i, 0i-D/F and PMi-A, this function check the validity of date format (buf.data.date.*) strictly. When you try setting "Apr. 31" or "Feb. 29 (not in a leap year)", this function returns EW_DATA. <p/>
 

@@ -21,8 +21,8 @@
     <doc>
         <cmn>
     Reads the currently arising CNC alarm messages. All alarm messages can be read at once.<p/>
-    Differing from <a href="misc/cnc_rdalminfo.htm" target="_parent">cnc_rdalminfo</a> fucntion, the axis name is inserted in the axis-type alarm message.<p/>
-    The number of characters which can be acquired in this function is up to 32 characters. So, Plese use <a href="misc/cnc_rdalmmsg2.htm" target="_parent">cnc_rdalmmsg2</a> fucntion for Series 30i/31i/32i, 0i-D/F and PMi-A.<p/>
+    Differing from <a href="../misc/cnc_rdalminfo.xml" target="_parent">cnc_rdalminfo</a> fucntion, the axis name is inserted in the axis-type alarm message.<p/>
+    The number of characters which can be acquired in this function is up to 32 characters. So, Plese use <a href="../misc/cnc_rdalmmsg2.xml" target="_parent">cnc_rdalmmsg2</a> fucntion for Series 30i/31i/32i, 0i-D/F and PMi-A.<p/>
         </cmn>
     </doc>
 

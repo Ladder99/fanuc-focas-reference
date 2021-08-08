@@ -18,7 +18,7 @@
 
     <doc>
         <cmn><p>Reads the number of operation history data.</p>
-             <p>It is necessary to stop sampling the operation history data by using <a href="History/cnc_stopophis.htm" target="_parent">cnc_stopophis</a> function before this function is used. </p>
+             <p>It is necessary to stop sampling the operation history data by using <a href="../history/cnc_stopophis.xml" target="_parent">cnc_stopophis</a> function before this function is used. </p>
              <p><b>(Example)</b></p>
              <ul>
                  <li>Series 15, 16i/18i/21i, 0i-A/B/C, Power Mate i</li>
@@ -61,7 +61,7 @@
         </cmn>
         <is>
         <cmn><p>Reads the number of operation history data.</p>
-             <p>It is necessary to stop sampling the operation history data by using <a href="History/cnc_stopophis.htm" target="_parent">cnc_stopophis</a> function before this function is used. </p>
+             <p>It is necessary to stop sampling the operation history data by using <a href="../history/cnc_stopophis.xml" target="_parent">cnc_stopophis</a> function before this function is used. </p>
              <p><b>(Example)</b></p>
              <ul>
                     When the operation history screen of CNC displays the following data, this function reads that the number of operation history data equals 3.<br/>
@@ -119,7 +119,7 @@
         <item>
             <name>EW_FUNC</name>
             <content>
-                <a href="History/cnc_stopophis.htm" target="_parent">cnc_stopophis</a> function has not been executed. <br/>
+                <a href="../history/cnc_stopophis.xml" target="_parent">cnc_stopophis</a> function has not been executed. <br/>
             </content>
         </item>
         <item>

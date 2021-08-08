@@ -19,11 +19,11 @@
 
     <doc>
         <cmn>
-            <p>Differences between functions of cnc_absolute2 and functions of <a href="position/cnc_absolute.htm" target="_parent">cnc_absolute</a> are described.</p>
+            <p>Differences between functions of cnc_absolute2 and functions of <a href="../position/cnc_absolute.xml" target="_parent">cnc_absolute</a> are described.</p>
 
-            <p>The interface of function is similar to <a href="position/cnc_absolute.htm" target="_parent">cnc_absolute</a> function.</p>
+            <p>The interface of function is similar to <a href="../position/cnc_absolute.xml" target="_parent">cnc_absolute</a> function.</p>
 
-            <p>The <a href="position/cnc_absolute.htm" target="_parent">cnc_absolute</a> function reads an absolute actual position where the
+            <p>The <a href="../position/cnc_absolute.xml" target="_parent">cnc_absolute</a> function reads an absolute actual position where the
             amount of all the tool offset was added to the command value.
             Therefore, the coodinates values called by cnc_absolute and absolute
             position displayed on the position display on CNC screen might be
@@ -42,7 +42,7 @@
                     the same value as the absolute position diaplayed on the
                     position display on CNC screen.
                     If CNC control software does not support this function,
-                    cnc_absolute2 reads the same value returned by <a href="position/cnc_absolute.htm" target="_parent">cnc_absolute</a>.
+                    cnc_absolute2 reads the same value returned by <a href="../position/cnc_absolute.xml" target="_parent">cnc_absolute</a>.
                         </td>
                     </tr>
                 </table>
@@ -58,7 +58,7 @@
         <is>
             <cmn>
                 <p>
-                    In Series 30i, cnc_absolute2 function has the same speficication <a href="position/cnc_absolute.htm" target="_parent">cnc_absolute</a> has.
+                    In Series 30i, cnc_absolute2 function has the same speficication <a href="../position/cnc_absolute.xml" target="_parent">cnc_absolute</a> has.
                 </p>
                 <p>
                     Reads the absolute position data of axis specified with "axis". 
@@ -70,7 +70,7 @@
                 </p>
                 <p>
                     The decimal point position of the absolute position can be acquired in the 
-                    <a href="misc/cnc_getfigure.htm" target="_parent">cnc_getfigure</a> function.
+                    <a href="../misc/cnc_getfigure.xml" target="_parent">cnc_getfigure</a> function.
                 </p>
             </cmn>
         </is>

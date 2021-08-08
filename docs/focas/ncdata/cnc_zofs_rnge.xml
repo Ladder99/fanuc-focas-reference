@@ -284,7 +284,7 @@ typedef struct odbdatrng {
         <item>
             <name>EW_DATA</name>
             <content>Effective setting range cannot be acquired<br/>
-                    In order to get more information for this return value, execute <a href="misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.  The following detail status will be set onto the member, err_no of ODBERR structure.
+                    In order to get more information for this return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.  The following detail status will be set onto the member, err_no of ODBERR structure.
                     <br/>
                     <table class="dd">
                         <colgroup align="left" valign="top"/>

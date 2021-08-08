@@ -68,7 +68,7 @@ Therefore, it is necessary to take mediation between the application of FOCAS1/2
                     <p>
                     Pointer to the data length to be read.<br/>
                     Actual data length being read is stored after this function call.<br/>
-                    Maximum data length which can be read at a time is the size acquired in the <a href="Misc/cnc_cexesramsize.htm" target="_parent">cnc_cexesramsize</a> function. 
+                    Maximum data length which can be read at a time is the size acquired in the <a href="../misc/cnc_cexesramsize.xml" target="_parent">cnc_cexesramsize</a> function. 
                     </p>
                     </content>
                 </item>

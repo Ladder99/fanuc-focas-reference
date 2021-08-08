@@ -21,31 +21,31 @@
         <cmn>
 Orders the DATA SERVER to get file from the host computer.<br/>
 Therefore, normal termination of this function shows that getting the file from the host computer has been started.<br/>
-The result of getting file must be got by <a href="data/cnc_dtsvftpstat.htm" target="_parent">cnc_dtsvftpstat</a>.
+The result of getting file must be got by <a href="../data/cnc_dtsvftpstat.xml" target="_parent">cnc_dtsvftpstat</a>.
 <p/>
-Don't use the data sever function(except DNC operation) at the CNC side until either EW_OK or EW_DTSRVR as the completion status is got by <a href="data/cnc_dtsvftpstat.htm" target="_parent">cnc_dtsvftpstat</a> after this function was finished.
+Don't use the data sever function(except DNC operation) at the CNC side until either EW_OK or EW_DTSRVR as the completion status is got by <a href="../data/cnc_dtsvftpstat.xml" target="_parent">cnc_dtsvftpstat</a> after this function was finished.
 
             <ul>
 
                 <p><img src="data/cnc_dtsvftpget.gif"/></p>
 
                 <p>* "Req." shows the start request for getting file by this function.<br/>
-                * "ret=" is the completion status when <a href="data/cnc_dtsvftpstat.htm" target="_parent">cnc_dtsvftpstat</a> is done.</p>
+                * "ret=" is the completion status when <a href="../data/cnc_dtsvftpstat.xml" target="_parent">cnc_dtsvftpstat</a> is done.</p>
             </ul>
 
             <p>Throughout the prohibition term, the completion status of the following function is EW_BUSY.</p>
                 <ul>
                     cnc_dtsvftpget<br/>
-                    <a href="data/cnc_dtsvftpput.htm" target="_parent">cnc_dtsvftpput</a><br/>
-                    <a href="data/cnc_dtsvdelete.htm" target="_parent">cnc_dtsvdelete</a><br/>
-                    <a href="data/cnc_dtsvrdpgdir.htm" target="_parent">cnc_dtsvrdpgdir</a><br/>
-                    <a href="data/cnc_dtsvrdset.htm" target="_parent">cnc_dtsvrdset</a><br/>
-                    <a href="data/cnc_dtsvwrset.htm" target="_parent">cnc_dtsvwrset</a><br/>
-                    <a href="data/cnc_dtsvchkdsk.htm" target="_parent">cnc_dtsvchkdsk</a><br/>
-                    <a href="data/cnc_dtsvhdformat.htm" target="_parent">cnc_dtsvhdformat</a><br/>
+                    <a href="../data/cnc_dtsvftpput.xml" target="_parent">cnc_dtsvftpput</a><br/>
+                    <a href="../data/cnc_dtsvdelete.xml" target="_parent">cnc_dtsvdelete</a><br/>
+                    <a href="../data/cnc_dtsvrdpgdir.xml" target="_parent">cnc_dtsvrdpgdir</a><br/>
+                    <a href="../data/cnc_dtsvrdset.xml" target="_parent">cnc_dtsvrdset</a><br/>
+                    <a href="../data/cnc_dtsvwrset.xml" target="_parent">cnc_dtsvwrset</a><br/>
+                    <a href="../data/cnc_dtsvchkdsk.xml" target="_parent">cnc_dtsvchkdsk</a><br/>
+                    <a href="../data/cnc_dtsvhdformat.xml" target="_parent">cnc_dtsvhdformat</a><br/>
                 </ul>
 
-            <p>Therefore, it is necessary to get either EW_OK or EW_DTSRVR as the completion status by <a href="data/cnc_dtsvftpstat.htm" target="_parent">cnc_dtsvftpstat</a> when this function was executed successfully.</p>
+            <p>Therefore, it is necessary to get either EW_OK or EW_DTSRVR as the completion status by <a href="../data/cnc_dtsvftpstat.xml" target="_parent">cnc_dtsvftpstat</a> when this function was executed successfully.</p>
 
         </cmn>
     </doc>
@@ -75,7 +75,7 @@ Don't use the data sever function(except DNC operation) at the CNC side until ei
                             <li>The last character of the file name must be 'NULL'.</li>
                             <li>The maximum length of the file name is 256 including 'NULL'.</li>
                             <li>It is impossible to specify the path.</li>
-                            (Specify the path by using <a href="data/cnc_dtsvwrset.htm" target="_parent">cnc_dtsvwrset</a>.)
+                            (Specify the path by using <a href="../data/cnc_dtsvwrset.xml" target="_parent">cnc_dtsvwrset</a>.)
                             <li>The lowercase can be used.</li>
                             <li>The wild-card('*','?') cannot be used.</li>
                         </ul>
@@ -112,7 +112,7 @@ Don't use the data sever function(except DNC operation) at the CNC side until ei
             <name>EW_BUSY</name>
             <content>
                 Busy<br/>
-                Try again because DATA SERVER is processing. (There is a possibility of forgetting to call <a href="data/cnc_dtsvftpstat.htm" target="_parent">cnc_dtsvftpstat</a> function.)
+                Try again because DATA SERVER is processing. (There is a possibility of forgetting to call <a href="../data/cnc_dtsvftpstat.xml" target="_parent">cnc_dtsvftpstat</a> function.)
             </content>
         </item>
         <item>
@@ -131,7 +131,7 @@ No option
             <name>EW_DTSRVR</name>
             <content>
                  DATA SERVER error<br/>
-                 In order to get more information for this err_no return value, execute <a href="misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.  The following details status will be set onto the member, err_no of ODBERR structure.
+                 In order to get more information for this err_no return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.  The following details status will be set onto the member, err_no of ODBERR structure.
                 <table class="dd">
                     <tr><td>1 <![CDATA[<-->]]>  498</td><td>:</td><td>DATA SERVER error</td></tr>
                     <tr><td>499</td><td>:</td> <td>DATA SERVER system error</td></tr>

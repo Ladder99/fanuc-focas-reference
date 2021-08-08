@@ -98,7 +98,7 @@ typedef struct iodblegpr {
                 Data error<br/>
                 The laser power for contouring is wrong.
                 In order to get more information for this err_no return value, 
-                execute <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a>function.
+                execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a>function.
                 The following details status will be set onto the member, err_no of ODBERR structure.
                 <table border="0">
                     <tr><td>1</td><td>:</td><td>Error of peak power</td></tr>

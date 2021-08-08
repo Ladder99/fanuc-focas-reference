@@ -22,12 +22,12 @@
                 This function returns EW_OK in case that DNC operation or M198 operation are started.
                 If a return value is EW_OK at M198 operation, this function returns a program number/program name demanded from CNC, instead at DNC operation, NULL is returned for the program number/program name.<br/>
                 Also, if a return value is EW_OK, it become possible to output the
-                program of DNC operation or M198 operation by a function <a href="Program/cnc_dnc2.htm" target="_parent">cnc_dnc2</a>
+                program of DNC operation or M198 operation by a function <a href="../program/cnc_dnc2.xml" target="_parent">cnc_dnc2</a>
             </p>
             <p>This function returns EW_REJECT in case that DNC operation or M198 operation has not been started.</p>
             <p>The following functions will return EW_FUNC in case that cnc_dncstart2 function is not executed.<br/>
-                <span class="dd"><a href="Program/cnc_dnc2.htm" target="_parent">cnc_dnc2</a></span><br/>
-                <span class="dd"><a href="Program/cnc_dncend2.htm" target="_parent">cnc_dncend2</a></span>
+                <span class="dd"><a href="../program/cnc_dnc2.xml" target="_parent">cnc_dnc2</a></span><br/>
+                <span class="dd"><a href="../program/cnc_dncend2.xml" target="_parent">cnc_dncend2</a></span>
             </p>
             <p>A basic procedure for DNC operation or M198 operation is shown below.</p>
             <p><img src="Program/dnc.gif"/></p>
@@ -118,7 +118,7 @@
             <content>
                 Busy<br/>
                 cnc_dncstart2 function has been executed.<br/>
-                Terminate DNC operation by using <a href="Program/cnc_dncend2.htm" target="_parent">cnc_dncend2</a> function.
+                Terminate DNC operation by using <a href="../program/cnc_dncend2.xml" target="_parent">cnc_dncend2</a> function.
             </content>
         </item>
         <item>
@@ -152,7 +152,7 @@
                 <content>
                     Busy<br/>
                     cnc_dncstart2 function has been executed.<br/>
-                    Terminate DNC operation by using <a href="Program/cnc_dncend2.htm" target="_parent">cnc_dncend2</a> function.
+                    Terminate DNC operation by using <a href="../program/cnc_dncend2.xml" target="_parent">cnc_dncend2</a> function.
                 </content>
             </item>
             <item>

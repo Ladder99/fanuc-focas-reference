@@ -27,7 +27,7 @@
             All value can be written at a time by specifying ALL_AXES for "type".
 
             <p>The unit of coordinate value is the same as "Read work zero offset
-            value( <a href="ncdata/cnc_rdzofs.htm" target="_parent">cnc_rdzofs</a> )".  See the description of <a href="ncdata/cnc_rdzofs.htm" target="_parent">cnc_rdzofs</a> function.</p>
+            value( <a href="../ncdata/cnc_rdzofs.xml" target="_parent">cnc_rdzofs</a> )".  See the description of <a href="../ncdata/cnc_rdzofs.xml" target="_parent">cnc_rdzofs</a> function.</p>
 
         </cmn>
     </doc>
@@ -114,7 +114,7 @@ typedef struct  iodbint {
                             <dt>datano_s</dt>
                             <dd>Specify the start interference check data number.<br/>
                                 The available number of interference check data can be
-                            got by <a href="ncdata/cnc_rdintinfo.htm" target="_parent">cnc_rdintinfo</a> function.</dd>
+                            got by <a href="../ncdata/cnc_rdintinfo.xml" target="_parent">cnc_rdintinfo</a> function.</dd>
                             <br/>
                             <dt>datano_e</dt>
                             <dd>Specify the end interference check data number.</dd>
@@ -254,7 +254,7 @@ typedef struct  iodbint {
                 Data error<br/>
                     Coordinate value of interference check area (data) is out of range.<br/>
                     In order to get more information for this err_no return value, execute
-                    <a href="misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr
+                    <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr
                     </a> function.  Data number will be set onto the member of err_no of 
                     ODBERR structure and type of coordinate will be set onto the member of
                     err_dtno of ODBERR structure.

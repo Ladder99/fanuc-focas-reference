@@ -24,7 +24,7 @@
 
             <p>Writes the setting data for all axes once by specifying 'ALL_AXES' in 'type'. The setting data for each axis must be stored in each array of "IODBPSD".</p>
 
-            <p>The attribute of setting data depends on the type and axis, and it is different for each setting data. It is as follows, and can be got by <a href="ncdata/cnc_rdsetinfo.htm" target="_parent">cnc_rdsetinfo</a> function.</p>
+            <p>The attribute of setting data depends on the type and axis, and it is different for each setting data. It is as follows, and can be got by <a href="../ncdata/cnc_rdsetinfo.xml" target="_parent">cnc_rdsetinfo</a> function.</p>
 
             <table class="dd" border="1">
                 <colgroup valign="top"/>
@@ -89,7 +89,7 @@
 
             <p>It is impossible to write any bit setting data bit by bit. 8 bits(i.e. 1 byte) which belong to the same setting data number are written at the same time.</p>
 
-            <p>This function is the same as <a href="ncdata/cnc_wrparam.htm" target="_parent">cnc_wrparam</a> function except that it cannot write the parameter without setting attribute.</p>
+            <p>This function is the same as <a href="../ncdata/cnc_wrparam.xml" target="_parent">cnc_wrparam</a> function except that it cannot write the parameter without setting attribute.</p>
 
             <p>See the "PARAMETER MANUAL" of CNC for details of each setting data.</p>
         </cmn>
@@ -211,7 +211,7 @@ typedef struct  iodbpsd {
                             <dd>Specify the setting data number.<br/>
                             See the "PARAMETER MANUAL" of CNC about available
                             setting data number.
-                            It can be got by <a href="ncdata/cnc_rdsetnum.htm" target="_parent">cnc_rdsetnum</a> function and <a href="ncdata/cnc_rdsetinfo.htm" target="_parent">cnc_rdsetinfo</a> function.</dd>
+                            It can be got by <a href="../ncdata/cnc_rdsetnum.xml" target="_parent">cnc_rdsetnum</a> function and <a href="../ncdata/cnc_rdsetinfo.xml" target="_parent">cnc_rdsetinfo</a> function.</dd>
                             <br/>
                             <dt>type</dt>
                             <dd>Specify the attribute of setting data.
@@ -393,8 +393,8 @@ typedef struct  iodbpsd {
                                     Specify the setting data number.<br/>
                                     See the "PARAMETER MANUAL" of CNC about available
                                     setting data number.
-                                    It can be got by <a href="ncdata/cnc_rdsetnum.htm" target="_parent">cnc_rdsetnum</a> function 
-                                    and <a href="ncdata/cnc_rdsetinfo.htm" target="_parent">cnc_rdsetinfo</a> function.
+                                    It can be got by <a href="../ncdata/cnc_rdsetnum.xml" target="_parent">cnc_rdsetnum</a> function 
+                                    and <a href="../ncdata/cnc_rdsetinfo.xml" target="_parent">cnc_rdsetinfo</a> function.
                                 </dd>
                                 <br/>
                                 <dt>type</dt>

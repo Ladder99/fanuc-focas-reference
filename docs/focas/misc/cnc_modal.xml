@@ -26,10 +26,10 @@ The readable modal data are modal G code or commanded data such as M,S,T,F.
 <p/>
  <p>The union type which stores the data depends on the type of modal data (type). Therefore, in case of accessing data, use the union corresponding to the type.
  </p>
-This function cannot be used for Series 15i, so use <a href="Misc/cnc_rdgcode.htm" target="_parent">cnc_rdgcode</a> function and <a href="Misc/cnc_rdcommand.htm" target="_parent">cnc_rdcommand</a> function instead of cnc_modal function. 
+This function cannot be used for Series 15i, so use <a href="../misc/cnc_rdgcode.xml" target="_parent">cnc_rdgcode</a> function and <a href="../misc/cnc_rdcommand.xml" target="_parent">cnc_rdcommand</a> function instead of cnc_modal function. 
 <p/>
 In Series 30i, 0i-D/F and PMi-A, the modal data that were assigned for Series 16i can be got by this function.<br/>
-As for the data that are added at Series 30i, 0i-D/F and PMi-A, please use <a href="misc/cnc_rdgcode.htm" target="_parent">cnc_rdgcode</a> and <a href="misc/cnc_rdcommand.htm" target="_parent">cnc_rdcommand</a> functions. 
+As for the data that are added at Series 30i, 0i-D/F and PMi-A, please use <a href="../misc/cnc_rdgcode.xml" target="_parent">cnc_rdgcode</a> and <a href="../misc/cnc_rdcommand.xml" target="_parent">cnc_rdcommand</a> functions. 
 
 </cmn>
 
@@ -43,7 +43,7 @@ As for the data that are added at Series 30i, 0i-D/F and PMi-A, please use <a hr
          The union type which stores the data depends on the type of modal data (type). Therefore, in case of accessing data, use the union corresponding to the type.
          <p/>
         The modal data that were assgined for Series 16i can be got by this function.<br/>
-        As for the data that are added at Series 30i, please use <a href="misc/cnc_rdgcode.htm" target="_parent">cnc_rdgcode</a> and <a href="misc/cnc_rdcommand.htm" target="_parent">cnc_rdcommand</a> functions. 
+        As for the data that are added at Series 30i, please use <a href="../misc/cnc_rdgcode.xml" target="_parent">cnc_rdgcode</a> and <a href="../misc/cnc_rdcommand.xml" target="_parent">cnc_rdcommand</a> functions. 
 
         </cmn>
     </is>

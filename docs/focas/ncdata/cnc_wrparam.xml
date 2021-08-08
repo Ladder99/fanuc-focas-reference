@@ -24,7 +24,7 @@
 
             <p>Writes the parameter for all axes once by specifying 'ALL_AXES' in 'type'. The parameter for each axis must be stored in each array of "IODBPSD".</p>
 
-            <p>The attribute of CNC parameter depends on the type and axis, and it is different for each parameter. It is as follows, and can be got by <a href="ncdata/cnc_rdparainfo.htm" target="_parent">cnc_rdparainfo</a> function.</p>
+            <p>The attribute of CNC parameter depends on the type and axis, and it is different for each parameter. It is as follows, and can be got by <a href="../ncdata/cnc_rdparainfo.xml" target="_parent">cnc_rdparainfo</a> function.</p>
 
             <table class="dd" border="1">
                 <colgroup valign="top"/>
@@ -209,7 +209,7 @@ typedef struct  iodbpsd {
                             <dt>datano</dt>
                             <dd>Specify the parameter number.</dd>
                             <dd>See the "PARAMETER MANUAL" of CNC about available
-                            parameter number.  It can be got by <a href="ncdata/cnc_rdparanum.htm" target="_parent">cnc_rdparanum</a> function and <a href="ncdata/cnc_rdparainfo.htm" target="_parent">cnc_rdparainfo</a> function.</dd>
+                            parameter number.  It can be got by <a href="../ncdata/cnc_rdparanum.xml" target="_parent">cnc_rdparanum</a> function and <a href="../ncdata/cnc_rdparainfo.xml" target="_parent">cnc_rdparainfo</a> function.</dd>
                             <br/>
                             <dt>type</dt>
                             <dd>Specify the attribute of parameter.
@@ -378,7 +378,7 @@ typedef struct  iodbpsd {
                                 <dt>datano</dt>
                                 <dd>Specify the parameter number.</dd>
                                 <dd>See the "PARAMETER MANUAL" of CNC about available
-                                parameter number.  It can be got by <a href="ncdata/cnc_rdparanum.htm" target="_parent">cnc_rdparanum</a> function and <a href="ncdata/cnc_rdparainfo.htm" target="_parent">cnc_rdparainfo</a> function.</dd>
+                                parameter number.  It can be got by <a href="../ncdata/cnc_rdparanum.xml" target="_parent">cnc_rdparanum</a> function and <a href="../ncdata/cnc_rdparainfo.xml" target="_parent">cnc_rdparainfo</a> function.</dd>
                                 <br/>
                                 <dt>type</dt>
                                 <dd>Specify the attribute of parameter.

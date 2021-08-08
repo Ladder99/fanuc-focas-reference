@@ -26,7 +26,7 @@
                In case of Series 16/18/21, 16i/18i/21i, 0i, Power Mate i, "DMMC" signal(DI) &#60;G042#7&#62;must be on.<br/>
                Even if this setting is not done, this function does not return error.
             </p>
-            <p>Start the data transferring by using the <a href="Program/cnc_dnc.htm" target="_parent">cnc_dnc</a> function or the <a href="Program/cnc_cdnc.htm" target="_parent">cnc_cdnc</a> function after executing this function and checking that the "STL" signal(DO) is on.
+            <p>Start the data transferring by using the <a href="../program/cnc_dnc.xml" target="_parent">cnc_dnc</a> function or the <a href="../program/cnc_cdnc.xml" target="_parent">cnc_cdnc</a> function after executing this function and checking that the "STL" signal(DO) is on.
             </p>
         </cmn>
     </doc>
@@ -58,7 +58,7 @@
             <content>
                 Busy<br/>
                 <li>cnc_dncstart function has been executed.</li>
-                    Terminate DNC operation by using <a href="Program/cnc_dncend.htm" target="_parent">cnc_dncend</a> function.<br/>
+                    Terminate DNC operation by using <a href="../program/cnc_dncend.xml" target="_parent">cnc_dncend</a> function.<br/>
                 <br/>
                 <li>alarm in CNC side(Series 16/18/21, 16i/18i/21i, 0i, Power Mate i)</li>
                     Reset the alarm on CNC.

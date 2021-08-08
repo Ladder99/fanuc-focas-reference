@@ -23,19 +23,19 @@
             It directs to MGET a file from a host computer to DATA SERVER.<br/>
             A wild card can be used for a file name and the file transfer of two or more files whose file names correspond can be carryed out continuously.<br/>
             When this function carries out a normal end, it is shown that MGET of the file from a host computer was started.<br/>
-            Please take out with <a href="Data/cnc_dsftpstat.htm" target="_parent">cnc_dsftpstat()</a> about the result which MGET the file.<br/><br/>
+            Please take out with <a href="../data/cnc_dsftpstat.xml" target="_parent">cnc_dsftpstat()</a> about the result which MGET the file.<br/><br/>
 
-            Don't use DATA SERVER function (expect for DNC operetion) by the CNC side after this function carries out a normal end until it takes out EW_OK of completion status, or EW_DTSRVR with <a href="Data/cnc_dsftpstat.htm" target="_parent">cnc_dsftpstat()</a>.<br/>
+            Don't use DATA SERVER function (expect for DNC operetion) by the CNC side after this function carries out a normal end until it takes out EW_OK of completion status, or EW_DTSRVR with <a href="../data/cnc_dsftpstat.xml" target="_parent">cnc_dsftpstat()</a>.<br/>
 
             <img src="Data/cnc_dsmget_req.gif"></img>
 
             <dl>
             <table border="0" class = "dd">
             <tr> <td width = "40"> </td><td>*</td><td>"Req." is declare start demand the file MGET.</td> </tr>
-            <tr> <td width = "40"> </td><td> </td><td>"ret=" is declare the completion status when perfoming <a href="Data/cnc_dsftpstat.htm" target="_parent">cnc_dsftpstat()</a> function.</td> </tr>
+            <tr> <td width = "40"> </td><td> </td><td>"ret=" is declare the completion status when perfoming <a href="../data/cnc_dsftpstat.xml" target="_parent">cnc_dsftpstat()</a> function.</td> </tr>
             </table></dl>
 
-            Therefore, it is necessary to get either EW_OK or EW_DTSRVR as the completion status by <a href="Data/cnc_dsftpstat.htm" target="_parent">cnc_dsftpstat()</a> when this function was executed successfully. <br/>
+            Therefore, it is necessary to get either EW_OK or EW_DTSRVR as the completion status by <a href="../data/cnc_dsftpstat.xml" target="_parent">cnc_dsftpstat()</a> when this function was executed successfully. <br/>
         </cmn>
     </doc>
 
@@ -77,7 +77,7 @@
         <item>
             <name>EW_NOOPT</name>
             <content>No option<br/>
-                In order to get more information for this err_no return value, execute <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr()</a> function.<br/>
+                In order to get more information for this err_no return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr()</a> function.<br/>
                 The following details status will be set onto the member, err_no of ODBERR structure.<br/>
                      22   : The option board is nothing.<br/>
                      24   : The DATA SERVER function is nothing.<br/>

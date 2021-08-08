@@ -25,7 +25,7 @@ The format of Byte/Word/2-Word diagnosis data is generally signed binary.<p/>
 
 Reads the diagnosis data for all axes specified range by specifying 'ALL_AXES' in 'axis'.<p/>
 
-The attribute of CNC diagnosis data depends on the type and axis, and it is different for each diagnosis data.  It is as follows, and can be got by <a href="misc/cnc_rddiaginfo.htm" target="_parent">cnc_rddiaginfo</a> function.
+The attribute of CNC diagnosis data depends on the type and axis, and it is different for each diagnosis data.  It is as follows, and can be got by <a href="../misc/cnc_rddiaginfo.xml" target="_parent">cnc_rddiaginfo</a> function.
                 <table class="dd" border="1">
                     <colgroup width="190" valign="top">
                     <colgroup valign="top">
@@ -120,7 +120,7 @@ The attribute of CNC diagnosis data depends on the type and axis, and it is diff
                             Specify the start diagnosis data number. The first diagnosis data number which was read actually is returned.
                         </p>
                         <p>
-                            See the "MAINTENANCE MANUAL" of CNC about available diagnosis data number. It can be got by <a href="misc/cnc_rddiagnum.htm" target="_parent">cnc_rddiagnum</a> function and <a href="misc/cnc_rddiaginfo.htm" target="_parent">cnc_rddiaginfo</a> function.
+                            See the "MAINTENANCE MANUAL" of CNC about available diagnosis data number. It can be got by <a href="../misc/cnc_rddiagnum.xml" target="_parent">cnc_rddiagnum</a> function and <a href="../misc/cnc_rddiaginfo.xml" target="_parent">cnc_rddiaginfo</a> function.
                         </p>
                     </content>
                 </item>
@@ -338,7 +338,7 @@ typedef struct odbdgn {
                             Specify the start diagnosis data number. The first diagnosis data number which was read actually is returned.
                         </p>
                         <p>
-                            See the "MAINTENANCE MANUAL" of CNC about available diagnosis data number. It can be got by <a href="misc/cnc_rddiagnum.htm" target="_parent">cnc_rddiagnum</a> function and <a href="misc/cnc_rddiaginfo.htm" target="_parent">cnc_rddiaginfo</a> function.
+                            See the "MAINTENANCE MANUAL" of CNC about available diagnosis data number. It can be got by <a href="../misc/cnc_rddiagnum.xml" target="_parent">cnc_rddiagnum</a> function and <a href="../misc/cnc_rddiaginfo.xml" target="_parent">cnc_rddiaginfo</a> function.
                         </p>
                     </content>
                 </item>

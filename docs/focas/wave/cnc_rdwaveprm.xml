@@ -22,9 +22,9 @@
         <cmn>
          Reads the waveform diagnosis parameter setting.<br/>
          <BR/>
-         <a href="Wave/Cnc_rdwaveprm2.htm" target="_parent">Cnc_rdwaveprm2</a> supports Series 15i
+         <a href="../wave/Cnc_rdwaveprm2.xml" target="_parent">Cnc_rdwaveprm2</a> supports Series 15i
          and expanded the function.<br/>
-         Please use <a href="Wave/cnc_rdwaveprm2.htm" target="_parent">cnc_rdwaveprm2</a> better than cnc_rdwaveprm.<br/>
+         Please use <a href="../wave/cnc_rdwaveprm2.xml" target="_parent">cnc_rdwaveprm2</a> better than cnc_rdwaveprm.<br/>
         <BR/>
         In case of using this function, the waveform diagnosis screen of CNC must not be used.<br/>
         If used, the behavior of this function is not guaranteed.
@@ -91,27 +91,27 @@ typedef struct iodbwave {
                                 <colgroup valign="top">
                                 <tr>
                                     <td>0   </td>
-                                    <td>The sampling of the data is started by <a href="Wave/cnc_wavestart.htm" target="_parent">cnc_wavestart</a> function, and stopped after the specified sampling time.</td>
+                                    <td>The sampling of the data is started by <a href="../wave/cnc_wavestart.xml" target="_parent">cnc_wavestart</a> function, and stopped after the specified sampling time.</td>
                                 </tr>
                                 <tr>
                                     <td>1   </td>
-                                    <td>The sampling of the data is started when the trigger specified by the next item rises after calling <a href="Wave/cnc_wavestart.htm" target="_parent">cnc_wavestart</a> function, and stopped after the specified sampling time.</td>
+                                    <td>The sampling of the data is started when the trigger specified by the next item rises after calling <a href="../wave/cnc_wavestart.xml" target="_parent">cnc_wavestart</a> function, and stopped after the specified sampling time.</td>
                                 </tr>
                                 <tr>
                                     <td>2   </td>
-                                    <td>The sampling of the data is started when the trigger specified by the next item falls after calling <a href="Wave/cnc_wavestart.htm" target="_parent">cnc_wavestart</a> function, and stopped after the specified sampling time.</td>
+                                    <td>The sampling of the data is started when the trigger specified by the next item falls after calling <a href="../wave/cnc_wavestart.xml" target="_parent">cnc_wavestart</a> function, and stopped after the specified sampling time.</td>
                                 </tr>
                                 <tr>
                                     <td>100 </td>
-                                    <td>The sampling of the data is started by <a href="Wave/cnc_wavestart.htm" target="_parent">cnc_wavestart</a> function, and stopped when a servo alarm occurrs.</td>
+                                    <td>The sampling of the data is started by <a href="../wave/cnc_wavestart.xml" target="_parent">cnc_wavestart</a> function, and stopped when a servo alarm occurrs.</td>
                                 </tr>
                                 <tr>
                                     <td>101 </td>
-                                    <td>The sampling of the data is started by <a href="Wave/cnc_wavestart.htm" target="_parent">cnc_wavestart</a> function, and stopped when a servo alarm occurrs or the trigger rises.</td>
+                                    <td>The sampling of the data is started by <a href="../wave/cnc_wavestart.xml" target="_parent">cnc_wavestart</a> function, and stopped when a servo alarm occurrs or the trigger rises.</td>
                                 </tr>
                                 <tr>
                                     <td>102 </td>
-                                    <td>The sampling of the data is started by <a href="Wave/cnc_wavestart.htm" target="_parent">cnc_wavestart</a> function, and stopped when a servo alarm occurrs or the trigger falls.</td>
+                                    <td>The sampling of the data is started by <a href="../wave/cnc_wavestart.xml" target="_parent">cnc_wavestart</a> function, and stopped when a servo alarm occurrs or the trigger falls.</td>
                                 </tr>
                                 </colgroup>
                                 </colgroup>
@@ -142,7 +142,7 @@ typedef struct iodbwave {
                             <dd>trigger number</dd>
                             <dd>The PMC address number which corresponds to machine signal for a trigger is stored.<br/>
                                 It is valid when condition is 1/2/101/102.<br/>
-                                Range of stored number is shown in <a href="Pmc/pmc_rdpmcrng.htm" target="_parent">pmc_rdpmcrng</a> function reference.</dd>
+                                Range of stored number is shown in <a href="../pmc/pmc_rdpmcrng.xml" target="_parent">pmc_rdpmcrng</a> function reference.</dd>
 
                         <dt>delay</dt>
                             <dd>delay time</dd>
@@ -468,7 +468,7 @@ typedef struct iodbwave {
                             <dd>number of PMC address of machine signal</dd>
                             <dd>The PMC address number which corresponds to machine signal to trace is stored.<br/>
                                 It is valid only when condition is 0/1/2 and the kind of waveform data is 13.<br/>
-                                Range of stored number is shown in <a href="Pmc/pmc_rdpmcrng.htm" target="_parent">pmc_rdpmcrng</a> function reference.</dd>
+                                Range of stored number is shown in <a href="../pmc/pmc_rdpmcrng.xml" target="_parent">pmc_rdpmcrng</a> function reference.</dd>
                         </dl>
                     </content>
                 </item>

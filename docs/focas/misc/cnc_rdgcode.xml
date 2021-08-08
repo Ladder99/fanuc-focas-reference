@@ -24,7 +24,7 @@
         <cmn>
 Reads the information of CNC about the commanded G code. Various information is stored in each member of ODBGCD.<p/>
 The readable data are modal G code and one shot G code. <p/>
-This function cannot be used for Series 16/18/21, 15, 16i/18i/21i, 0i-A/B/C, and Power Mate i, so use <a href="misc/cnc_modal.htm" target="_parent">cnc_modal</a> function instead of cnc_rdgcode function. <p/>
+This function cannot be used for Series 16/18/21, 15, 16i/18i/21i, 0i-A/B/C, and Power Mate i, so use <a href="../misc/cnc_modal.xml" target="_parent">cnc_modal</a> function instead of cnc_rdgcode function. <p/>
         </cmn>
     <is>
         <cmn>

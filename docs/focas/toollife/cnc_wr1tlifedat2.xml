@@ -39,11 +39,11 @@
              </p>
              <p>This function is not available for T/TT system. (except 30i series, 0i-D/F)</p>
              <span class="xis">
-             <p>Please use this function because the <a href="Toollife/cnc_wr1tlifedata.htm" target="_parent">cnc_wr1tlifedata</a>
+             <p>Please use this function because the <a href="../toollife/cnc_wr1tlifedata.xml" target="_parent">cnc_wr1tlifedata</a>
                 function cannot be used when the option, "Tool life management B" function is used with Series 16i, 18i, 0i-F and 30i/31i/32i.</p>
              </span>
              <span class="ois">
-             <p>Please use this function because the <a href="Toollife/cnc_wr1tlifedata.htm" target="_parent">cnc_wr1tlifedata</a>
+             <p>Please use this function because the <a href="../toollife/cnc_wr1tlifedata.xml" target="_parent">cnc_wr1tlifedata</a>
                 function cannot be used when the option, "Tool life management B" function is used.</p>
              </span>
 <!--
@@ -52,9 +52,9 @@
                 In case of calling this function with Series 30i, display calling and usual calling exist.<br/>
                 It is usual calling that cnc_wr1tlifedat2 function calls direct, however display calling has to proceed as follows.<br/>
                 <table border="0" class="dd">
-                    <tr><td>1</td><td>.</td><td>First, it calls <a href="Handle/cnc_setlibopt.htm" target="_parent">cnc_setlibopt</a> function which sets the option kind to TLIFE_OPTION and sets the value to 1.</td></tr>
+                    <tr><td>1</td><td>.</td><td>First, it calls <a href="../handle/cnc_setlibopt.xml" target="_parent">cnc_setlibopt</a> function which sets the option kind to TLIFE_OPTION and sets the value to 1.</td></tr>
                     <tr><td>2</td><td>.</td><td>Next, it calls cnc_wr1tlifedat2 function.</td></tr>
-                    <tr><td>3</td><td>.</td><td>Last, it calls <a href="Handle/cnc_setlibopt.htm" target="_parent">cnc_setlibopt</a> function which sets the option kind to TLIFE_OPTION and sets the value to 0.</td></tr>
+                    <tr><td>3</td><td>.</td><td>Last, it calls <a href="../handle/cnc_setlibopt.xml" target="_parent">cnc_setlibopt</a> function which sets the option kind to TLIFE_OPTION and sets the value to 0.</td></tr>
                 </table>
                 <br/>
                 In usual calling, if entire terms is as follows, return value becomes EW_REJECT(13).
@@ -163,7 +163,7 @@ typedef struct iodbtd2 {
             <content>
                 data error<br/>
                 In order to get more information for this err_no return value,
-                execute  <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.
+                execute  <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.
                 The following details status will be set onto the member, err_no of ODBERR structure.
                 <table border="0">
                     <tr><td>0</td><td>:</td><td>Completion status other than EW_DATA</td></tr>

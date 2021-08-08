@@ -34,11 +34,11 @@
                 may refrect the result caused by the previously executed cnc_verify4 callings.<br/>
                 And the error status for some cnc_vreify4
                 callings just before the finish of downloading is returned by
-                <a href="Program/cnc_vrfend4.htm" target="_parent">cnc_vrfend4</a> function.
+                <a href="../program/cnc_vrfend4.xml" target="_parent">cnc_vrfend4</a> function.
             </p>
 
             <br/>
-               Refer to the description of <a href="Program/cnc_download4.htm" target="_parent">cnc_download4</a> function for the format of output data.
+               Refer to the description of <a href="../program/cnc_download4.xml" target="_parent">cnc_download4</a> function for the format of output data.
         </cmn>
     </doc>
 
@@ -88,13 +88,13 @@
             <content>
                 Reset or stop request<br/>
                 CNC required to stop verifiing.<br/>
-                Call the <a href="Program/cnc_vrfend4.htm" target="_parent">cnc_vrfend4</a> function.<br/>
+                Call the <a href="../program/cnc_vrfend4.xml" target="_parent">cnc_vrfend4</a> function.<br/>
             </content>
         </item>
         <item>
             <name>EW_FUNC</name>
             <content>
-                <a href="Program/cnc_vrfstart4.htm" target="_parent">cnc_vrfstart4</a> function has not been executed.
+                <a href="../program/cnc_vrfstart4.xml" target="_parent">cnc_vrfstart4</a> function has not been executed.
             </content>
         </item>
         <item>
@@ -108,7 +108,7 @@
             <content>
                 Data error<br/>
                 In order to get more information for this err_no return value, execute
-                <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.<br/>
+                <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.<br/>
                 The following detail status will be set onto the member, err_no of ODBERR structure.
                 <table>
                     <colgroup align="center" valign="top">

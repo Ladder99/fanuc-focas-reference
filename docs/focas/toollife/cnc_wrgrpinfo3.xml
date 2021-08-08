@@ -110,7 +110,7 @@ typedef struct iodbtgi {
             <content>
                 data error<br/>
                 In order to get more information for this err_no return value,
-                execute <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.
+                execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.
                 The following detail status will be set onto the member, err_no of ODBERR structure.
                 <table border="0">
                     <tr><td>0</td><td>:</td><td>Completion status other than EW_DATA</td></tr>

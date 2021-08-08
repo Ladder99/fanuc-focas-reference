@@ -20,10 +20,10 @@
     <doc>
         <cmn>
 Reads the parameter for unsolicited messaging from CNC. This function is available only for Series Series 30i/31i/32i, 0i-D/F and PMi-A. This function cannot be used with Visual Basic. Please use Visual C++ for making your application.<br/>
-Please refer to <a href="./Unsolic.htm" target="_parent">"Unsolicited Messaging Function"</a> for the detail information of unsolicited messaging function.
+Please refer to <a href=".././Unsolic.xml" target="_parent">"Unsolicited Messaging Function"</a> for the detail information of unsolicited messaging function.
 <p/>
 
-It is necessary to execute <a href="UnSolic/cnc_wrunsolicprm2.htm" target="_parent">cnc_wrunsolicprm2</a> and make the parameter effective before reading the parameters by this function. 
+It is necessary to execute <a href="../unSolic/cnc_wrunsolicprm2.xml" target="_parent">cnc_wrunsolicprm2</a> and make the parameter effective before reading the parameters by this function. 
 
         </cmn>
     </doc>

@@ -21,11 +21,11 @@
     <doc>
         <cmn>
             Notifies the end of downloading data to CNC.<br/>
-            (This function must be executed after <a href="Data/ds_download.htm" target="_parent">ds_download</a>)<br/>
+            (This function must be executed after <a href="../data/ds_download.xml" target="_parent">ds_download</a>)<br/>
             This function is only for "Fast Ethernet board". This function is not supported at "Embedded Ethernet" and "Ethernet board".<br/>
             <br/>
             There are cases where errors during execution of downloading data returned by this function.<br/>
-            Further, this function does not return until the registration of the output data by <a href="Data/ds_download.htm" target="_parent">ds_download</a> is completed.
+            Further, this function does not return until the registration of the output data by <a href="../data/ds_download.xml" target="_parent">ds_download</a> is completed.
         </cmn>
     </doc>
 
@@ -53,7 +53,7 @@
        <item>
             <name>EW_FUNC</name>
             <content>
-                <a href="Data/ds_dwnstart.htm" target="_parent">ds_dwnstart</a> function has not been executed.
+                <a href="../data/ds_dwnstart.xml" target="_parent">ds_dwnstart</a> function has not been executed.
             </content>
         </item>
         <item>
@@ -77,7 +77,7 @@
             <name>EW_DTSRVR</name>
             <content>
                 DATA SERVER error<br/>
-                In order to get more information for this err_no return value, execute <a href="misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.<br/>
+                In order to get more information for this err_no return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.<br/>
                 The following details status will be set onto the member, err_no of ODBERR structure.As for the details, see "Ethernet Board/DATA SERVER Board OPERATOR'S MANUAL".
                 <table class="dd">
                     <tr><td>0xf000, 0xfe00-</td><td>:</td><td>Error code from DATA SERVER</td></tr>

@@ -23,7 +23,7 @@
 Reads the mode and data of the coordinate rotation.
     <p>These are stored in each member of ODBROT structure.</p>
 
-The places of decimal points can be got by <a href="misc/cnc_getfigure.htm" target="_parent">cnc_getfigure</a> function.<p/>
+The places of decimal points can be got by <a href="../misc/cnc_getfigure.xml" target="_parent">cnc_getfigure</a> function.<p/>
 
 The unit of angle follows CNC parameter 6400#2.<p/>
 <table class="dd">

@@ -22,7 +22,7 @@
                The offset value is stored in "data[0]" of "IODBZOFS" with signed binary format.<br/>Reads the offset value for all axes once by specifying 'ALL_AXES' in 'axis'.  The offset value for each axis is stored in "data" array of "IODBZOFS".
             </p>
 
-            <p>The place of decimal point can be got by <a href="misc/cnc_getfigure.htm" target="_parent">cnc_getfigure</a> function.</p>
+            <p>The place of decimal point can be got by <a href="../misc/cnc_getfigure.xml" target="_parent">cnc_getfigure</a> function.</p>
 
             <p>The unit of offset value is as follows.</p>
 
@@ -338,7 +338,7 @@
                 The offset value for each axis is stored in "data" array of "IODBZOFS".
             </p>
             <p>
-                The place of decimal point can be got by <a href="misc/cnc_getfigure.htm" target="_parent">cnc_getfigure</a> function.
+                The place of decimal point can be got by <a href="../misc/cnc_getfigure.xml" target="_parent">cnc_getfigure</a> function.
             </p>
             <p>The unit of offset value is as follows.</p>
                 <table class="dd" border="1">

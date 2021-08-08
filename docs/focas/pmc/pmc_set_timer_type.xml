@@ -104,7 +104,7 @@
             PMC timer type(type) is wrong.<br/>
 
                 In order to get more information for this err_no return value, execute
-                    <a href="Pmc/pmc_getdtailerr.htm" target="_parent">pmc_getdtailerr</a>function.<br/>
+                    <a href="../pmc/pmc_getdtailerr.xml" target="_parent">pmc_getdtailerr</a>function.<br/>
                     The timer number in which includ an incorrect data will be set onto the err_dtno of ODBPMCERR.
                 </content>
             </item>

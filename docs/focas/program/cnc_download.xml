@@ -21,7 +21,7 @@
             <p>
                 When the data processing on the CNC side is delayed and the data cannot be transferred,
                 this function waits until it can be transferred.<br/>
-                If an application cannot wait, use the <a href="Program/cnc_cdownload.htm" target="_parent">cnc_cdownload</a> function.
+                If an application cannot wait, use the <a href="../program/cnc_cdownload.xml" target="_parent">cnc_cdownload</a> function.
             </p>
             <p>
                 The procedure of downloading is as follows.<br/>
@@ -125,13 +125,13 @@
                 Reset or stop request<br/>
                 CNC required to stop downloading.<br/>
                 'RESET or STOP' was pushed.(Series 15/15i)<br/>
-                Call the <a href="Program/cnc_dwnend.htm" target="_parent">cnc_dwnend</a> function.
+                Call the <a href="../program/cnc_dwnend.xml" target="_parent">cnc_dwnend</a> function.
             </content>
         </item>
         <item>
             <name>EW_FUNC</name>
             <content>
-                <a href="Program/cnc_dwnstart.htm" target="_parent">cnc_dwnstart</a> function has not been executed.
+                <a href="../program/cnc_dwnstart.xml" target="_parent">cnc_dwnstart</a> function has not been executed.
             </content>
         </item>
         <item>

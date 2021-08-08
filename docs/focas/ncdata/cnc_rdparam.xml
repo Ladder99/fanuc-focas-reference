@@ -26,7 +26,7 @@
 
             <p>The attribute of CNC parameter depends on the type and axis, and it is
             different for each parameter.  It is as follows, and can be got by
-            <a href="ncdata/cnc_rdparainfo.htm" target="_parent">cnc_rdparainfo</a> function.</p>
+            <a href="../ncdata/cnc_rdparainfo.xml" target="_parent">cnc_rdparainfo</a> function.</p>
 
             <table class="dd" border="1">
                 <colgroup valign="top"/>
@@ -117,7 +117,7 @@
                         <p>
                             Specify the parameter number.<br/>
                             See the "PARAMETER MANUAL" of CNC about available parameter number.
-                            It can be got by <a href="ncdata/cnc_rdparanum.htm" target="_parent">cnc_rdparanum</a> function and <a href="ncdata/cnc_rdparainfo.htm" target="_parent">cnc_rdparainfo</a> function.
+                            It can be got by <a href="../ncdata/cnc_rdparanum.xml" target="_parent">cnc_rdparanum</a> function and <a href="../ncdata/cnc_rdparainfo.xml" target="_parent">cnc_rdparainfo</a> function.
                         </p>
                     </content>
                 </item>
@@ -323,8 +323,8 @@ typedef struct  iodbpsd {
                             <p>
                                 Specify the parameter number.<br/>
                                 See the "PARAMETER MANUAL" of CNC about available parameter number.
-                                It can be got by <a href="ncdata/cnc_rdparanum.htm" target="_parent">cnc_rdparanum</a> function 
-                                and <a href="ncdata/cnc_rdparainfo.htm" target="_parent">cnc_rdparainfo</a> function.
+                                It can be got by <a href="../ncdata/cnc_rdparanum.xml" target="_parent">cnc_rdparanum</a> function 
+                                and <a href="../ncdata/cnc_rdparainfo.xml" target="_parent">cnc_rdparainfo</a> function.
                             </p>
                         </content>
                     </item>

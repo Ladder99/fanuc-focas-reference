@@ -84,7 +84,7 @@ The starting item index to be written (start_num) is invalid.
             <name>EW_DATA</name>
             <content>
 data error<br/>
-In order to get more information for this return value, execute <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr</a> function.  The following details status will be set onto the member, err_no of ODBERR structure. <br/>
+In order to get more information for this return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr</a> function.  The following details status will be set onto the member, err_no of ODBERR structure. <br/>
 0 : Completion status other than EW_DATA<br/>
 1 : Name of item relating machine error<br/>
 Item index corresponding error data is acquired at err_dtno. 

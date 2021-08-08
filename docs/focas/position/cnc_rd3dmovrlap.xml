@@ -21,7 +21,7 @@
             axis, 5 + 5 = 10 axes) about 3-dimensional handle feed.</p>
 
             <p>The number of each axis and the movement amount are stored respectively in "axes" and "data" of "ODB3DHDL".</p>
-            <p>The places of decimal points can be got by <a href="misc/cnc_getfigure.htm" target="_parent">cnc_getfigure</a> function.</p>
+            <p>The places of decimal points can be got by <a href="../misc/cnc_getfigure.xml" target="_parent">cnc_getfigure</a> function.</p>
         </cmn>
     </doc>
 

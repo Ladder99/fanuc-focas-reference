@@ -22,9 +22,9 @@
         <cmn>
 Reads the series/version of CNC system software. These information are stored in each member of ODBSYSS2. <p/>
 
-This function can read data which <a href="misc/cnc_rdsyssoft.htm" target="_parent">cnc_rdsyssoft</a> cannot read. <p/>
+This function can read data which <a href="../misc/cnc_rdsyssoft.xml" target="_parent">cnc_rdsyssoft</a> cannot read. <p/>
 
-Reading the data which depends on the path needs exchanging the path using <a href="misc/cnc_setpath.htm" target="_parent">cnc_setpath</a> function. 
+Reading the data which depends on the path needs exchanging the path using <a href="../misc/cnc_setpath.xml" target="_parent">cnc_setpath</a> function. 
         </cmn>
     </doc>
 
@@ -116,7 +116,7 @@ typedef struct odbsyss2 {
 } ODBSYSS2 ;
 ]]></pre>
 
-slot_no_p,...,reserve are the same as what cnc_rdsyssoft can read. See the explanation about <a href="misc/cnc_rdsyssoft.htm" target="_parent">cnc_rdsyssoft</a> in detail.
+slot_no_p,...,reserve are the same as what cnc_rdsyssoft can read. See the explanation about <a href="../misc/cnc_rdsyssoft.xml" target="_parent">cnc_rdsyssoft</a> in detail.
 <p/>
 However, you may not read the data after "reserve" according to the series/version of CNC control software.
 <dl>

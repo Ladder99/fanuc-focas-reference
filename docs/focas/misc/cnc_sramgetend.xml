@@ -49,12 +49,12 @@
     <errcode>
         <item>
             <name>EW_FUNC</name>
-            <content>Unavailable or <a href="Misc/cnc_sramgetstart.htm" target="_parent">cnc_sramgetstart</a> function has not been executed</content>
+            <content>Unavailable or <a href="../misc/cnc_sramgetstart.xml" target="_parent">cnc_sramgetstart</a> function has not been executed</content>
         </item>
         <item>
             <name>EW_DATA</name>
             <content>All the S-RAM data is not read.<br/>
-           The <a href="Misc/cnc_sramgetend.htm" target="_parent">cnc_sramgetend</a> function was called in the state of argument stat=1, at <a href="Misc/cnc_sramget.htm" target="_parent">cnc_sramget</a> function. </content>
+           The <a href="../misc/cnc_sramgetend.xml" target="_parent">cnc_sramgetend</a> function was called in the state of argument stat=1, at <a href="../misc/cnc_sramget.xml" target="_parent">cnc_sramget</a> function. </content>
         </item>
         <item>
             <name>EW_REJECT</name>

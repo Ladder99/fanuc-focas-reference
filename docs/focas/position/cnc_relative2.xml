@@ -17,11 +17,11 @@
 
     <doc>
         <cmn>
-            <p>Differences between functions of cnc_relative2 and functions of <a href="position/cnc_relative.htm" target="_parent">cnc_relative</a> are described.</p>
+            <p>Differences between functions of cnc_relative2 and functions of <a href="../position/cnc_relative.xml" target="_parent">cnc_relative</a> are described.</p>
 
-            <p>The interface of function is similar to <a href="position/cnc_relative.htm" target="_parent">cnc_relative</a> function.</p>
+            <p>The interface of function is similar to <a href="../position/cnc_relative.xml" target="_parent">cnc_relative</a> function.</p>
 
-            <p>The cnc_relative function reads an relative actual position where the amount of all the tool offset was added to the command value. Therefore, the coodinates values called by <a href="position/cnc_relative.htm" target="_parent">cnc_relative</a> and relative position displayed on the position display on CNC screen might be different by the setting of CNC parameter.</p>
+            <p>The cnc_relative function reads an relative actual position where the amount of all the tool offset was added to the command value. Therefore, the coodinates values called by <a href="../position/cnc_relative.xml" target="_parent">cnc_relative</a> and relative position displayed on the position display on CNC screen might be different by the setting of CNC parameter.</p>
 
             <p>The cnc_relative2 function reads the same value as the relative position diaplayed on the position display on CNC screen.</p>
 
@@ -49,7 +49,7 @@
         <is>
             <cmn>
                 <p>
-                    In Series 30i, cnc_relative2 function has the same speficication <a href="position/cnc_relative.htm" target="_parent">cnc_relative</a> has.
+                    In Series 30i, cnc_relative2 function has the same speficication <a href="../position/cnc_relative.xml" target="_parent">cnc_relative</a> has.
                 </p>
                 <p>
                     Reads the relative position data of axis specified with "axis". 
@@ -62,7 +62,7 @@
                 </p>
                 <p>
                     The decimal point position of the relative position can be acquired in
-                    the <a href="misc/cnc_getfigure.htm" target="_parent">cnc_getfigure</a> function.
+                    the <a href="../misc/cnc_getfigure.xml" target="_parent">cnc_getfigure</a> function.
                 </p>
             </cmn>
         </is>

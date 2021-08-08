@@ -21,13 +21,13 @@
     <doc>
         <cmn>
             The execution result(EW_OK/EW_DTSRVR) of the following function can be taken out only at once.<br/>
-            <a href="Data/cnc_dsget_req.htm" target="_parent">cnc_dsget_req()</a><br/>
-            <a href="Data/cnc_dsput_req.htm" target="_parent">cnc_dsput_req()</a><br/>
-            <a href="Data/cnc_dsmget_req.htm" target="_parent">cnc_dsmget_req()</a><br/>
-            <a href="Data/cnc_dsmput_req.htm" target="_parent">cnc_dsmput_req()</a><br/>
-            <a href="Data/cnc_dslistget_req.htm" target="_parent">cnc_dslistget_req()</a><br/>
-            <a href="Data/cnc_dslistput_req.htm" target="_parent">cnc_dslistput_req()</a><br/>
-            <a href="Data/cnc_dslistdel_req.htm" target="_parent">cnc_dslistdel_req()</a><br/>
+            <a href="../data/cnc_dsget_req.xml" target="_parent">cnc_dsget_req()</a><br/>
+            <a href="../data/cnc_dsput_req.xml" target="_parent">cnc_dsput_req()</a><br/>
+            <a href="../data/cnc_dsmget_req.xml" target="_parent">cnc_dsmget_req()</a><br/>
+            <a href="../data/cnc_dsmput_req.xml" target="_parent">cnc_dsmput_req()</a><br/>
+            <a href="../data/cnc_dslistget_req.xml" target="_parent">cnc_dslistget_req()</a><br/>
+            <a href="../data/cnc_dslistput_req.xml" target="_parent">cnc_dslistput_req()</a><br/>
+            <a href="../data/cnc_dslistdel_req.xml" target="_parent">cnc_dslistdel_req()</a><br/>
             In addition, according to the state at the time of this function execution, completion status is as follows.<br/><br/>
 
             <img src="Data/cnc_dsftpstat.gif"></img>
@@ -62,7 +62,7 @@
         <item>
             <name>EW_NOOPT</name>
             <content>No option<br/>
-                In order to get more information for this err_no return value, execute <a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr()</a> function.<br/>
+                In order to get more information for this err_no return value, execute <a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr()</a> function.<br/>
                 The following details status will be set onto the member, err_no of ODBERR structure.<br/>
                 <table class="dd">
                     <tr> <td>22</td><td>:</td><td>The option board is nothing</td> </tr>
@@ -93,7 +93,7 @@
         <item>
             <name>EW_DTSRVR</name>
             <content>DATA SERVER error<br/>
-                     In order to get more information for this err_no return value,In order to get more information for this err_no return value,<a href="Misc/cnc_getdtailerr.htm" target="_parent">cnc_getdtailerr()</a> function.<br/>
+                     In order to get more information for this err_no return value,In order to get more information for this err_no return value,<a href="../misc/cnc_getdtailerr.xml" target="_parent">cnc_getdtailerr()</a> function.<br/>
                      The following details status will be set onto the member, err_no of ODBERR structure.<br/>
                      <table class="dd">
                          <tr> <td>464</td><td>:</td><td>The ATA card is not formated.</td> </tr>
