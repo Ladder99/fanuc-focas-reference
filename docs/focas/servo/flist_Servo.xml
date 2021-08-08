@@ -7,7 +7,7 @@
       <tag>Servo</tag>
       <item>
         <fname>cnc_svdtstartrd</fname>
-        <fpage>./cnc_svdtstartrd.htm</fpage>
+        <fpage>./cnc_svdtstartrd.xml</fpage>
         <explanation>Start of reading servo learning data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -58,7 +58,7 @@
       </item>
       <item>
         <fname>cnc_svdtrddata</fname>
-        <fpage>./cnc_svdtrddata.htm</fpage>
+        <fpage>./cnc_svdtrddata.xml</fpage>
         <explanation>Reading of the data from I/F buffer for the servo learning data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -109,7 +109,7 @@
       </item>
       <item>
         <fname>cnc_svdtendrd</fname>
-        <fpage>./cnc_svdtendrd.htm</fpage>
+        <fpage>./cnc_svdtendrd.xml</fpage>
         <explanation>End of reading servo learning data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -160,7 +160,7 @@
       </item>
       <item>
         <fname>cnc_svdtstartwr</fname>
-        <fpage>./cnc_svdtstartwr.htm</fpage>
+        <fpage>./cnc_svdtstartwr.xml</fpage>
         <explanation>Start of writing servo learning data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -211,7 +211,7 @@
       </item>
       <item>
         <fname>cnc_svdtwrdata</fname>
-        <fpage>./cnc_svdtwrdata.htm</fpage>
+        <fpage>./cnc_svdtwrdata.xml</fpage>
         <explanation>Writing of the data to I/F buffer for the servo learning data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -262,7 +262,7 @@
       </item>
       <item>
         <fname>cnc_svdtendwr</fname>
-        <fpage>./cnc_svdtendwr.htm</fpage>
+        <fpage>./cnc_svdtendwr.xml</fpage>
         <explanation>End of writing servo learning data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -313,7 +313,7 @@
       </item>
       <item>
         <fname>cnc_svdtstopexec</fname>
-        <fpage>./cnc_svdtstopexec.htm</fpage>
+        <fpage>./cnc_svdtstopexec.xml</fpage>
         <explanation>Stop of reading/writing of the servo learning data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>

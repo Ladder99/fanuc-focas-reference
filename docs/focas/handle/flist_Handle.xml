@@ -7,7 +7,7 @@
       <tag>Handle</tag>
       <item>
         <fname>cnc_rdnodenum</fname>
-        <fpage>./cnc_rdnodenum.htm</fpage>
+        <fpage>./cnc_rdnodenum.xml</fpage>
         <explanation>Read the number of node</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -58,7 +58,7 @@
       </item>
       <item>
         <fname>cnc_rdnodeinfo</fname>
-        <fpage>./cnc_rdnodeinfo.htm</fpage>
+        <fpage>./cnc_rdnodeinfo.xml</fpage>
         <explanation>Read the information of node</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -109,7 +109,7 @@
       </item>
       <item>
         <fname>cnc_setdefnode</fname>
-        <fpage>./cnc_setdefnode.htm</fpage>
+        <fpage>./cnc_setdefnode.xml</fpage>
         <explanation>Set the default node number</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -160,7 +160,7 @@
       </item>
       <item>
         <fname>cnc_allclibhndl</fname>
-        <fpage>./cnc_allclibhndl.htm</fpage>
+        <fpage>./cnc_allclibhndl.xml</fpage>
         <explanation>Allocate library handle</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -211,7 +211,7 @@
       </item>
       <item>
         <fname>cnc_allclibhndl2</fname>
-        <fpage>./cnc_allclibhndl2.htm</fpage>
+        <fpage>./cnc_allclibhndl2.xml</fpage>
         <explanation>Allocate the library handle(for multi-connection)</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -262,7 +262,7 @@
       </item>
       <item>
         <fname>cnc_allclibhndl3</fname>
-        <fpage>./cnc_allclibhndl3.htm</fpage>
+        <fpage>./cnc_allclibhndl3.xml</fpage>
         <explanation>Get the library handle(for Ethernet)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -313,7 +313,7 @@
       </item>
       <item>
         <fname>cnc_allclibhndls</fname>
-        <fpage>./cnc_allclibhndls.htm</fpage>
+        <fpage>./cnc_allclibhndls.xml</fpage>
         <explanation>Get the library handle(for Ethernet/Security support)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -364,7 +364,7 @@
       </item>
       <item>
         <fname>cnc_freelibhndl</fname>
-        <fpage>./cnc_freelibhndl.htm</fpage>
+        <fpage>./cnc_freelibhndl.xml</fpage>
         <explanation>Free library handle</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -415,7 +415,7 @@
       </item>
       <item>
         <fname>cnc_settimeout</fname>
-        <fpage>./cnc_settimeout.htm</fpage>
+        <fpage>./cnc_settimeout.xml</fpage>
         <explanation>Set timeout interval </explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -466,7 +466,7 @@
       </item>
       <item>
         <fname>cnc_getlibopt</fname>
-        <fpage>./cnc_getlibopt.htm</fpage>
+        <fpage>./cnc_getlibopt.xml</fpage>
         <explanation>Get a library option</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -517,7 +517,7 @@
       </item>
       <item>
         <fname>cnc_setlibopt</fname>
-        <fpage>./cnc_setlibopt.htm</fpage>
+        <fpage>./cnc_setlibopt.xml</fpage>
         <explanation>Set a library option</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>

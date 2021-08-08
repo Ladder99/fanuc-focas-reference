@@ -7,7 +7,7 @@
       <tag>History</tag>
       <item>
         <fname>cnc_stopophis</fname>
-        <fpage>./cnc_stopophis.htm</fpage>
+        <fpage>./cnc_stopophis.xml</fpage>
         <explanation>Stop logging operation history data</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -58,7 +58,7 @@
       </item>
       <item>
         <fname>cnc_startophis</fname>
-        <fpage>./cnc_startophis.htm</fpage>
+        <fpage>./cnc_startophis.xml</fpage>
         <explanation>Restart logging operation history data</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -109,7 +109,7 @@
       </item>
       <item>
         <fname>cnc_rdophisno</fname>
-        <fpage>./cnc_rdophisno.htm</fpage>
+        <fpage>./cnc_rdophisno.xml</fpage>
         <explanation>Read number of operation history data</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -160,7 +160,7 @@
       </item>
       <item>
         <fname>cnc_rdophistry</fname>
-        <fpage>./cnc_rdophistry.htm</fpage>
+        <fpage>./cnc_rdophistry.xml</fpage>
         <explanation>Read operation history data</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -211,7 +211,7 @@
       </item>
       <item>
         <fname>cnc_rdophistry2</fname>
-        <fpage>./cnc_rdophistry2.htm</fpage>
+        <fpage>./cnc_rdophistry2.xml</fpage>
         <explanation>Read operation history data (2)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -262,7 +262,7 @@
       </item>
       <item>
         <fname>cnc_rdophistry4</fname>
-        <fpage>./cnc_rdophistry4.htm</fpage>
+        <fpage>./cnc_rdophistry4.xml</fpage>
         <explanation>Read operation history data (4)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -313,7 +313,7 @@
       </item>
       <item>
         <fname>cnc_clearophis</fname>
-        <fpage>./cnc_clearophis.htm</fpage>
+        <fpage>./cnc_clearophis.xml</fpage>
         <explanation>Clear operation history data</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -364,7 +364,7 @@
       </item>
       <item>
         <fname>cnc_rdhissgnl</fname>
-        <fpage>./cnc_rdhissgnl.htm</fpage>
+        <fpage>./cnc_rdhissgnl.xml</fpage>
         <explanation>Read signals related operation history</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -415,7 +415,7 @@
       </item>
       <item>
         <fname>cnc_wrhissgnl</fname>
-        <fpage>./cnc_wrhissgnl.htm</fpage>
+        <fpage>./cnc_wrhissgnl.xml</fpage>
         <explanation>Write signals related operation history</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -466,7 +466,7 @@
       </item>
       <item>
         <fname>cnc_rdhissgnl2</fname>
-        <fpage>./cnc_rdhissgnl2.htm</fpage>
+        <fpage>./cnc_rdhissgnl2.xml</fpage>
         <explanation>Read signals related operation history(2)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -517,7 +517,7 @@
       </item>
       <item>
         <fname>cnc_wrhissgnl2</fname>
-        <fpage>./cnc_wrhissgnl2.htm</fpage>
+        <fpage>./cnc_wrhissgnl2.xml</fpage>
         <explanation>Write signals related operation history(2)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -568,7 +568,7 @@
       </item>
       <item>
         <fname>cnc_rdhissgnl3</fname>
-        <fpage>./cnc_rdhissgnl3.htm</fpage>
+        <fpage>./cnc_rdhissgnl3.xml</fpage>
         <explanation>Read signals related operation history(3)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -619,7 +619,7 @@
       </item>
       <item>
         <fname>cnc_wrhissgnl3</fname>
-        <fpage>./cnc_wrhissgnl3.htm</fpage>
+        <fpage>./cnc_wrhissgnl3.xml</fpage>
         <explanation>Write signals related operation history(3)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -670,7 +670,7 @@
       </item>
       <item>
         <fname>cnc_wrkeyhistry</fname>
-        <fpage>./cnc_wrkeyhistry.htm</fpage>
+        <fpage>./cnc_wrkeyhistry.xml</fpage>
         <explanation>Record of key stroke</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -721,7 +721,7 @@
       </item>
       <item>
         <fname>cnc_rdalmhisno</fname>
-        <fpage>./cnc_rdalmhisno.htm</fpage>
+        <fpage>./cnc_rdalmhisno.xml</fpage>
         <explanation>Read number of alarm history data</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -772,7 +772,7 @@
       </item>
       <item>
         <fname>cnc_rdalmhistry</fname>
-        <fpage>./cnc_rdalmhistry.htm</fpage>
+        <fpage>./cnc_rdalmhistry.xml</fpage>
         <explanation>Read alarm history data</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -823,7 +823,7 @@
       </item>
       <item>
         <fname>cnc_rdalmhistry2</fname>
-        <fpage>./cnc_rdalmhistry2.htm</fpage>
+        <fpage>./cnc_rdalmhistry2.xml</fpage>
         <explanation>Read alarm history data (2)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -874,7 +874,7 @@
       </item>
       <item>
         <fname>cnc_rdalmhistry5</fname>
-        <fpage>./cnc_rdalmhistry5.htm</fpage>
+        <fpage>./cnc_rdalmhistry5.xml</fpage>
         <explanation>Read alarm history data (5)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -925,7 +925,7 @@
       </item>
       <item>
         <fname>cnc_stopomhis</fname>
-        <fpage>./cnc_stopomhis.htm</fpage>
+        <fpage>./cnc_stopomhis.xml</fpage>
         <explanation>Stop logging external operator's message history data</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -976,7 +976,7 @@
       </item>
       <item>
         <fname>cnc_startomhis</fname>
-        <fpage>./cnc_startomhis.htm</fpage>
+        <fpage>./cnc_startomhis.xml</fpage>
         <explanation>Restart logging external operator's message history data</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -1027,7 +1027,7 @@
       </item>
       <item>
         <fname>cnc_rdomhisinfo</fname>
-        <fpage>./cnc_rdomhisinfo.htm</fpage>
+        <fpage>./cnc_rdomhisinfo.xml</fpage>
         <explanation>Read external operator's message history data information</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -1078,7 +1078,7 @@
       </item>
       <item>
         <fname>cnc_rdomhisno</fname>
-        <fpage>./cnc_rdomhisno.htm</fpage>
+        <fpage>./cnc_rdomhisno.xml</fpage>
         <explanation>Read number of external operator's message history data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1129,7 +1129,7 @@
       </item>
       <item>
         <fname>cnc_rdomhistry</fname>
-        <fpage>./cnc_rdomhistry.htm</fpage>
+        <fpage>./cnc_rdomhistry.xml</fpage>
         <explanation>Read external operator's message history data</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -1180,7 +1180,7 @@
       </item>
       <item>
         <fname>cnc_rdomhistry2</fname>
-        <fpage>./cnc_rdomhistry2.htm</fpage>
+        <fpage>./cnc_rdomhistry2.xml</fpage>
         <explanation>Read external operator's message history data (2)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1231,7 +1231,7 @@
       </item>
       <item>
         <fname>cnc_clearomhis</fname>
-        <fpage>./cnc_clearomhis.htm</fpage>
+        <fpage>./cnc_clearomhis.xml</fpage>
         <explanation>Clear external operator's message history data</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>

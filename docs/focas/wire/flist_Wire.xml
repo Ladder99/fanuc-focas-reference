@@ -7,7 +7,7 @@
       <tag>Wire</tag>
       <item>
         <fname>cnc_setvrtclpos</fname>
-        <fpage>./cnc_setvrtclpos.htm</fpage>
+        <fpage>./cnc_setvrtclpos.xml</fpage>
         <explanation>Set wire vertical position</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -58,7 +58,7 @@
       </item>
       <item>
         <fname>cnc_rdmsptype</fname>
-        <fpage>./cnc_rdmsptype.htm</fpage>
+        <fpage>./cnc_rdmsptype.xml</fpage>
         <explanation>Read the measured point type data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -109,7 +109,7 @@
       </item>
       <item>
         <fname>cnc_wrmsptype</fname>
-        <fpage>./cnc_wrmsptype.htm</fpage>
+        <fpage>./cnc_wrmsptype.xml</fpage>
         <explanation>Write the measured point type data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>

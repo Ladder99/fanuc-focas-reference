@@ -7,7 +7,7 @@
       <tag>ToolGeom</tag>
       <item>
         <fname>cnc_rdtlgeomsize_ext</fname>
-        <fpage>./cnc_rdtlgeomsize_ext.htm</fpage>
+        <fpage>./cnc_rdtlgeomsize_ext.xml</fpage>
         <explanation>Read the tool geometry size data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -58,7 +58,7 @@
       </item>
       <item>
         <fname>cnc_wrtlgeomsize_ext</fname>
-        <fpage>./cnc_wrtlgeomsize_ext.htm</fpage>
+        <fpage>./cnc_wrtlgeomsize_ext.xml</fpage>
         <explanation>Write the tool geometry size data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>

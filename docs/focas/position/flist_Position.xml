@@ -7,7 +7,7 @@
       <tag>Position</tag>
       <item>
         <fname>cnc_actf</fname>
-        <fpage>./cnc_actf.htm</fpage>
+        <fpage>./cnc_actf.xml</fpage>
         <explanation>Read actual axis feedrate(F)</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -58,7 +58,7 @@
       </item>
       <item>
         <fname>cnc_absolute</fname>
-        <fpage>./cnc_absolute.htm</fpage>
+        <fpage>./cnc_absolute.xml</fpage>
         <explanation>Read absolute axis position</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -109,7 +109,7 @@
       </item>
       <item>
         <fname>cnc_absolute2</fname>
-        <fpage>./cnc_absolute2.htm</fpage>
+        <fpage>./cnc_absolute2.xml</fpage>
         <explanation>Read absolute axis position 2</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -160,7 +160,7 @@
       </item>
       <item>
         <fname>cnc_machine</fname>
-        <fpage>./cnc_machine.htm</fpage>
+        <fpage>./cnc_machine.xml</fpage>
         <explanation>Read machine axis position</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -211,7 +211,7 @@
       </item>
       <item>
         <fname>cnc_relative</fname>
-        <fpage>./cnc_relative.htm</fpage>
+        <fpage>./cnc_relative.xml</fpage>
         <explanation>Read relative axis position</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -262,7 +262,7 @@
       </item>
       <item>
         <fname>cnc_relative2</fname>
-        <fpage>./cnc_relative2.htm</fpage>
+        <fpage>./cnc_relative2.xml</fpage>
         <explanation>Read relative axis position 2</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -313,7 +313,7 @@
       </item>
       <item>
         <fname>cnc_distance</fname>
-        <fpage>./cnc_distance.htm</fpage>
+        <fpage>./cnc_distance.xml</fpage>
         <explanation>Read distance to go</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -364,7 +364,7 @@
       </item>
       <item>
         <fname>cnc_rdposition</fname>
-        <fpage>./cnc_rdposition.htm</fpage>
+        <fpage>./cnc_rdposition.xml</fpage>
         <explanation>Read position information</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -415,7 +415,7 @@
       </item>
       <item>
         <fname>cnc_rdaxisdata</fname>
-        <fpage>./cnc_rdaxisdata.htm</fpage>
+        <fpage>./cnc_rdaxisdata.xml</fpage>
         <explanation>Read various data relating servo axis or spindle axis</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -466,7 +466,7 @@
       </item>
       <item>
         <fname>cnc_skip</fname>
-        <fpage>./cnc_skip.htm</fpage>
+        <fpage>./cnc_skip.xml</fpage>
         <explanation>Read skip position</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -517,7 +517,7 @@
       </item>
       <item>
         <fname>cnc_srvdelay</fname>
-        <fpage>./cnc_srvdelay.htm</fpage>
+        <fpage>./cnc_srvdelay.xml</fpage>
         <explanation>Read servo delay value</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -568,7 +568,7 @@
       </item>
       <item>
         <fname>cnc_accdecdly</fname>
-        <fpage>./cnc_accdecdly.htm</fpage>
+        <fpage>./cnc_accdecdly.xml</fpage>
         <explanation>Read acceleration/deceleration delay value</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -619,7 +619,7 @@
       </item>
       <item>
         <fname>cnc_rddynamic</fname>
-        <fpage>./cnc_rddynamic.htm</fpage>
+        <fpage>./cnc_rddynamic.xml</fpage>
         <explanation>Read all dynamic data</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -670,7 +670,7 @@
       </item>
       <item>
         <fname>cnc_rddynamic2</fname>
-        <fpage>./cnc_rddynamic2.htm</fpage>
+        <fpage>./cnc_rddynamic2.xml</fpage>
         <explanation>Read all dynamic data (2)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -721,7 +721,7 @@
       </item>
       <item>
         <fname>cnc_acts</fname>
-        <fpage>./cnc_acts.htm</fpage>
+        <fpage>./cnc_acts.xml</fpage>
         <explanation>Read actual spindle speed(S)</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -772,7 +772,7 @@
       </item>
       <item>
         <fname>cnc_acts2</fname>
-        <fpage>./cnc_acts2.htm</fpage>
+        <fpage>./cnc_acts2.xml</fpage>
         <explanation>Read actual spindle speed(S) (2)</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -823,7 +823,7 @@
       </item>
       <item>
         <fname>cnc_rdspcss</fname>
-        <fpage>./cnc_rdspcss.htm</fpage>
+        <fpage>./cnc_rdspcss.xml</fpage>
         <explanation>Read constant surface speed data</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -874,7 +874,7 @@
       </item>
       <item>
         <fname>cnc_rdspeed</fname>
-        <fpage>./cnc_rdspeed.htm</fpage>
+        <fpage>./cnc_rdspeed.xml</fpage>
         <explanation>Read speed information</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -925,7 +925,7 @@
       </item>
       <item>
         <fname>cnc_wrrelpos</fname>
-        <fpage>./cnc_wrrelpos.htm</fpage>
+        <fpage>./cnc_wrrelpos.xml</fpage>
         <explanation>Set origin/preset relative axis position</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -976,7 +976,7 @@
       </item>
       <item>
         <fname>cnc_prstwkcd</fname>
-        <fpage>./cnc_prstwkcd.htm</fpage>
+        <fpage>./cnc_prstwkcd.xml</fpage>
         <explanation>Preset work coordinate</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -1027,7 +1027,7 @@
       </item>
       <item>
         <fname>cnc_rdmovrlap</fname>
-        <fpage>./cnc_rdmovrlap.htm</fpage>
+        <fpage>./cnc_rdmovrlap.xml</fpage>
         <explanation>Read manual overlapped motion value</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -1078,7 +1078,7 @@
       </item>
       <item>
         <fname>cnc_canmovrlap</fname>
-        <fpage>./cnc_canmovrlap.htm</fpage>
+        <fpage>./cnc_canmovrlap.xml</fpage>
         <explanation>Cancel manual overlapped motion value</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -1129,7 +1129,7 @@
       </item>
       <item>
         <fname>cnc_rdhndintrpt</fname>
-        <fpage>./cnc_rdhndintrpt.htm</fpage>
+        <fpage>./cnc_rdhndintrpt.xml</fpage>
         <explanation>Read manual overlapped motion information </explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1180,7 +1180,7 @@
       </item>
       <item>
         <fname>cnc_rdspload</fname>
-        <fpage>./cnc_rdspload.htm</fpage>
+        <fpage>./cnc_rdspload.xml</fpage>
         <explanation>Read load information of serial spindle</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -1231,7 +1231,7 @@
       </item>
       <item>
         <fname>cnc_rdspmaxrpm</fname>
-        <fpage>./cnc_rdspmaxrpm.htm</fpage>
+        <fpage>./cnc_rdspmaxrpm.xml</fpage>
         <explanation>Read maximum r.p.m. ratio of serial spindle</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -1282,7 +1282,7 @@
       </item>
       <item>
         <fname>cnc_rdspgear</fname>
-        <fpage>./cnc_rdspgear.htm</fpage>
+        <fpage>./cnc_rdspgear.xml</fpage>
         <explanation>Read gear ratio of serial spindle</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -1333,7 +1333,7 @@
       </item>
       <item>
         <fname>cnc_rdsvmeter</fname>
-        <fpage>./cnc_rdsvmeter.htm</fpage>
+        <fpage>./cnc_rdsvmeter.xml</fpage>
         <explanation>Read servo load meter</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1384,7 +1384,7 @@
       </item>
       <item>
         <fname>cnc_rdspmeter</fname>
-        <fpage>./cnc_rdspmeter.htm</fpage>
+        <fpage>./cnc_rdspmeter.xml</fpage>
         <explanation>Read spindle load meter</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -1435,7 +1435,7 @@
       </item>
       <item>
         <fname>cnc_rd3dtooltip</fname>
-        <fpage>./cnc_rd3dtooltip.htm</fpage>
+        <fpage>./cnc_rd3dtooltip.xml</fpage>
         <explanation>Read tool tip coordinates for 3-dimensional handle feed</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1486,7 +1486,7 @@
       </item>
       <item>
         <fname>cnc_rd3dpulse</fname>
-        <fpage>./cnc_rd3dpulse.htm</fpage>
+        <fpage>./cnc_rd3dpulse.xml</fpage>
         <explanation>Read handle interrupt pulse amount for 3-dimensional handle feed</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1537,7 +1537,7 @@
       </item>
       <item>
         <fname>cnc_rd3dmovrlap</fname>
-        <fpage>./cnc_rd3dmovrlap.htm</fpage>
+        <fpage>./cnc_rd3dmovrlap.xml</fpage>
         <explanation>Read handle interrupt move amount for 3-dimensional handle feed</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1588,7 +1588,7 @@
       </item>
       <item>
         <fname>cnc_rd3dofschg</fname>
-        <fpage>./cnc_rd3dofschg.htm</fpage>
+        <fpage>./cnc_rd3dofschg.xml</fpage>
         <explanation>Read the modification of tool length compensation amount in tool axis dir. for 3-dimensional handle feed</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1639,7 +1639,7 @@
       </item>
       <item>
         <fname>cnc_clr3dplsmov</fname>
-        <fpage>./cnc_clr3dplsmov.htm</fpage>
+        <fpage>./cnc_clr3dplsmov.xml</fpage>
         <explanation>Clear handle interrupt pulse and move amount for 3-dimensional handle feed</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1690,7 +1690,7 @@
       </item>
       <item>
         <fname>cnc_rdaxisname</fname>
-        <fpage>./cnc_rdaxisname.htm</fpage>
+        <fpage>./cnc_rdaxisname.xml</fpage>
         <explanation>Read axis name</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -1741,7 +1741,7 @@
       </item>
       <item>
         <fname>cnc_exaxisname</fname>
-        <fpage>./cnc_exaxisname.htm</fpage>
+        <fpage>./cnc_exaxisname.xml</fpage>
         <explanation>Read the name of controlled axis and spindle name</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1792,7 +1792,7 @@
       </item>
       <item>
         <fname>cnc_exaxisname2</fname>
-        <fpage>./cnc_exaxisname2.htm</fpage>
+        <fpage>./cnc_exaxisname2.xml</fpage>
         <explanation>Read the name of controlled axis and spindle name(2)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1843,7 +1843,7 @@
       </item>
       <item>
         <fname>cnc_rdspdlname</fname>
-        <fpage>./cnc_rdspdlname.htm</fpage>
+        <fpage>./cnc_rdspdlname.xml</fpage>
         <explanation>Read spindle name</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -1894,7 +1894,7 @@
       </item>
       <item>
         <fname>cnc_rd5axmandt</fname>
-        <fpage>./cnc_rd5axmandt.htm</fpage>
+        <fpage>./cnc_rd5axmandt.xml</fpage>
         <explanation>Read the data for the manual feed for 5-axis machining</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1945,7 +1945,7 @@
       </item>
       <item>
         <fname>cnc_rd5axovrlap</fname>
-        <fpage>./cnc_rd5axovrlap.htm</fpage>
+        <fpage>./cnc_rd5axovrlap.xml</fpage>
         <explanation>Read the machine axis movement for the manual feed for 5-axis machining</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1996,7 +1996,7 @@
       </item>
       <item>
         <fname>cnc_clr5axpls</fname>
-        <fpage>./cnc_clr5axpls.htm</fpage>
+        <fpage>./cnc_clr5axpls.xml</fpage>
         <explanation>Clear the pulse amount for manual feed for 5-axis machining</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>

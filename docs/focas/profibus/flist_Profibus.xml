@@ -7,7 +7,7 @@
       <tag>Profibus</tag>
       <item>
         <fname>pmc_prfrdconfig</fname>
-        <fpage>./pmc_prfrdconfig.htm</fpage>
+        <fpage>./pmc_prfrdconfig.xml</fpage>
         <explanation>Read series/version of PROFIBUS software</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -58,7 +58,7 @@
       </item>
       <item>
         <fname>pmc_prfrdbusprm</fname>
-        <fpage>./pmc_prfrdbusprm.htm</fpage>
+        <fpage>./pmc_prfrdbusprm.xml</fpage>
         <explanation>Read bus parameter of master function</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -109,7 +109,7 @@
       </item>
       <item>
         <fname>pmc_prfwrbusprm</fname>
-        <fpage>./pmc_prfwrbusprm.htm</fpage>
+        <fpage>./pmc_prfwrbusprm.xml</fpage>
         <explanation>Write bus parameter of master function</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -160,7 +160,7 @@
       </item>
       <item>
         <fname>pmc_prfrdslvprm</fname>
-        <fpage>./pmc_prfrdslvprm.htm</fpage>
+        <fpage>./pmc_prfrdslvprm.xml</fpage>
         <explanation>Read slave parameter of master function</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -211,7 +211,7 @@
       </item>
       <item>
         <fname>pmc_prfwrslvprm</fname>
-        <fpage>./pmc_prfwrslvprm.htm</fpage>
+        <fpage>./pmc_prfwrslvprm.xml</fpage>
         <explanation>Write slave parameter of master function</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -262,7 +262,7 @@
       </item>
       <item>
         <fname>pmc_prfrdallcadr</fname>
-        <fpage>./pmc_prfrdallcadr.htm</fpage>
+        <fpage>./pmc_prfrdallcadr.xml</fpage>
         <explanation>Read address allocation of master function</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -313,7 +313,7 @@
       </item>
       <item>
         <fname>pmc_prfwrallcadr</fname>
-        <fpage>./pmc_prfwrallcadr.htm</fpage>
+        <fpage>./pmc_prfwrallcadr.xml</fpage>
         <explanation>Set address allocation of master function</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -364,7 +364,7 @@
       </item>
       <item>
         <fname>pmc_prfrdslvaddr</fname>
-        <fpage>./pmc_prfrdslvaddr.htm</fpage>
+        <fpage>./pmc_prfrdslvaddr.xml</fpage>
         <explanation>Read address allocation of slave function</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -415,7 +415,7 @@
       </item>
       <item>
         <fname>pmc_prfwrslvaddr</fname>
-        <fpage>./pmc_prfwrslvaddr.htm</fpage>
+        <fpage>./pmc_prfwrslvaddr.xml</fpage>
         <explanation>Set address allocation of slave function</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -466,7 +466,7 @@
       </item>
       <item>
         <fname>pmc_prfrdslvstat</fname>
-        <fpage>./pmc_prfrdslvstat.htm</fpage>
+        <fpage>./pmc_prfrdslvstat.xml</fpage>
         <explanation>Read state of slave function</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -517,7 +517,7 @@
       </item>
       <item>
         <fname>pmc_prfrdslvid</fname>
-        <fpage>./pmc_prfrdslvid.htm</fpage>
+        <fpage>./pmc_prfrdslvid.xml</fpage>
         <explanation>Reads slave index data of master function</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -568,7 +568,7 @@
       </item>
       <item>
         <fname>pmc_prfwrslvid</fname>
-        <fpage>./pmc_prfwrslvid.htm</fpage>
+        <fpage>./pmc_prfwrslvid.xml</fpage>
         <explanation>Writes slave index data of master function</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -619,7 +619,7 @@
       </item>
       <item>
         <fname>pmc_prfrdslvprm2</fname>
-        <fpage>./pmc_prfrdslvprm2.htm</fpage>
+        <fpage>./pmc_prfrdslvprm2.xml</fpage>
         <explanation>Reads slave parameter of master function(2)</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -670,7 +670,7 @@
       </item>
       <item>
         <fname>pmc_prfwrslvprm2</fname>
-        <fpage>./pmc_prfwrslvprm2.htm</fpage>
+        <fpage>./pmc_prfwrslvprm2.xml</fpage>
         <explanation>Writes slave parameter of master function(2)</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -721,7 +721,7 @@
       </item>
       <item>
         <fname>pmc_prfrddido</fname>
-        <fpage>./pmc_prfrddido.htm</fpage>
+        <fpage>./pmc_prfrddido.xml</fpage>
         <explanation>Reads DI/DO address data of master function</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -772,7 +772,7 @@
       </item>
       <item>
         <fname>pmc_prfwrdido</fname>
-        <fpage>./pmc_prfwrdido.htm</fpage>
+        <fpage>./pmc_prfwrdido.xml</fpage>
         <explanation>Writes DI/DO address data of master function</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -823,7 +823,7 @@
       </item>
       <item>
         <fname>pmc_prfrdindiadr</fname>
-        <fpage>./pmc_prfrdindiadr.htm</fpage>
+        <fpage>./pmc_prfrdindiadr.xml</fpage>
         <explanation>Reads indication address for communication mode of master function</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -874,7 +874,7 @@
       </item>
       <item>
         <fname>pmc_prfwrindiadr</fname>
-        <fpage>./pmc_prfwrindiadr.htm</fpage>
+        <fpage>./pmc_prfwrindiadr.xml</fpage>
         <explanation>Writes indication address for communication mode of master function</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -925,7 +925,7 @@
       </item>
       <item>
         <fname>pmc_prfrdopmode</fname>
-        <fpage>./pmc_prfrdopmode.htm</fpage>
+        <fpage>./pmc_prfrdopmode.xml</fpage>
         <explanation>Reads operation mode of master function</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -976,7 +976,7 @@
       </item>
       <item>
         <fname>pmc_prfwropmode</fname>
-        <fpage>./pmc_prfwropmode.htm</fpage>
+        <fpage>./pmc_prfwropmode.xml</fpage>
         <explanation>Writes operation mode of master function</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -1027,7 +1027,7 @@
       </item>
       <item>
         <fname>pbm_rd_param</fname>
-        <fpage>./pbm_rd_param.htm</fpage>
+        <fpage>./pbm_rd_param.xml</fpage>
         <explanation>Reading of the parameters of the PROFIBUS master function</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1078,7 +1078,7 @@
       </item>
       <item>
         <fname>pbm_wr_param</fname>
-        <fpage>./pbm_wr_param.htm</fpage>
+        <fpage>./pbm_wr_param.xml</fpage>
         <explanation>Setting the parameters of the PROFIBUS master function</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1129,7 +1129,7 @@
       </item>
       <item>
         <fname>pbm_ini_prm</fname>
-        <fpage>./pbm_ini_prm.htm</fpage>
+        <fpage>./pbm_ini_prm.xml</fpage>
         <explanation>Initialization of the specified parameters of the PROFIBUS master function</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1180,7 +1180,7 @@
       </item>
       <item>
         <fname>pbm_rd_allslvtbl</fname>
-        <fpage>./pbm_rd_allslvtbl.htm</fpage>
+        <fpage>./pbm_rd_allslvtbl.xml</fpage>
         <explanation>Reading of all slave table</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1231,7 +1231,7 @@
       </item>
       <item>
         <fname>pbm_exe_subfunc</fname>
-        <fpage>./pbm_exe_subfunc.htm</fpage>
+        <fpage>./pbm_exe_subfunc.xml</fpage>
         <explanation>Execution of sub-function</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1282,7 +1282,7 @@
       </item>
       <item>
         <fname>pbm_rd_subprm</fname>
-        <fpage>./pbm_rd_subprm.htm</fpage>
+        <fpage>./pbm_rd_subprm.xml</fpage>
         <explanation>Reading of the setting assistant parameters</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1333,7 +1333,7 @@
       </item>
       <item>
         <fname>pbm_rd_errcode</fname>
-        <fpage>./pbm_rd_errcode.htm</fpage>
+        <fpage>./pbm_rd_errcode.xml</fpage>
         <explanation>Reading of an error code</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1384,7 +1384,7 @@
       </item>
       <item>
         <fname>pbm_chg_mode</fname>
-        <fpage>./pbm_chg_mode.htm</fpage>
+        <fpage>./pbm_chg_mode.xml</fpage>
         <explanation>Change of the operation mode</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1435,7 +1435,7 @@
       </item>
       <item>
         <fname>pbm_rd_cominfo</fname>
-        <fpage>./pbm_rd_cominfo.htm</fpage>
+        <fpage>./pbm_rd_cominfo.xml</fpage>
         <explanation>Reading of the communicating information</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1486,7 +1486,7 @@
       </item>
       <item>
         <fname>pbm_rd_nodetable</fname>
-        <fpage>./pbm_rd_nodetable.htm</fpage>
+        <fpage>./pbm_rd_nodetable.xml</fpage>
         <explanation>Reading of status of connected slave</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1537,7 +1537,7 @@
       </item>
       <item>
         <fname>pbm_rd_nodeinfo</fname>
-        <fpage>./pbm_rd_nodeinfo.htm</fpage>
+        <fpage>./pbm_rd_nodeinfo.xml</fpage>
         <explanation>Reading of the information of slave station</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1588,7 +1588,7 @@
       </item>
       <item>
         <fname>pbm_rd_slot</fname>
-        <fpage>./pbm_rd_slot.htm</fpage>
+        <fpage>./pbm_rd_slot.xml</fpage>
         <explanation>Reading of the number of slot on master function</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1639,7 +1639,7 @@
       </item>
       <item>
         <fname>pbm_rd_slotinfo</fname>
-        <fpage>./pbm_rd_slotinfo.htm</fpage>
+        <fpage>./pbm_rd_slotinfo.xml</fpage>
         <explanation>Reading of the slot information on master function</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1690,7 +1690,7 @@
       </item>
       <item>
         <fname>pbs_rd_param</fname>
-        <fpage>./pbs_rd_param.htm</fpage>
+        <fpage>./pbs_rd_param.xml</fpage>
         <explanation>Reading of the parameters of the PROFIBUS slave function</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1741,7 +1741,7 @@
       </item>
       <item>
         <fname>pbs_wr_param</fname>
-        <fpage>./pbs_wr_param.htm</fpage>
+        <fpage>./pbs_wr_param.xml</fpage>
         <explanation>Setting of the parameters of the PROFIBUS slave function</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1792,7 +1792,7 @@
       </item>
       <item>
         <fname>pbs_ini_prm</fname>
-        <fpage>./pbs_ini_prm.htm</fpage>
+        <fpage>./pbs_ini_prm.xml</fpage>
         <explanation>Initialization of the parameters of the PROFIBUS slave function</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1843,7 +1843,7 @@
       </item>
       <item>
         <fname>pbs_rd_cominfo</fname>
-        <fpage>./pbs_rd_cominfo.htm</fpage>
+        <fpage>./pbs_rd_cominfo.xml</fpage>
         <explanation>Reading of the communication state of the PROFIBUS slave function</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1894,7 +1894,7 @@
       </item>
       <item>
         <fname>pbs_rd_param2</fname>
-        <fpage>./pbs_rd_param2.htm</fpage>
+        <fpage>./pbs_rd_param2.xml</fpage>
         <explanation>Reading of the parameters of the PROFIBUS slave function(2)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1945,7 +1945,7 @@
       </item>
       <item>
         <fname>pbs_wr_param2</fname>
-        <fpage>./pbs_wr_param2.htm</fpage>
+        <fpage>./pbs_wr_param2.xml</fpage>
         <explanation>Setting of the parameters of the PROFIBUS slave function(2)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1996,7 +1996,7 @@
       </item>
       <item>
         <fname>pbs_rd_cominfo2</fname>
-        <fpage>./pbs_rd_cominfo2.htm</fpage>
+        <fpage>./pbs_rd_cominfo2.xml</fpage>
         <explanation>Reading of the communication state of the PROFIBUS slave function(2)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>

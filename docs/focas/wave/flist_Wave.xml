@@ -7,7 +7,7 @@
       <tag>Wave</tag>
       <item>
         <fname>cnc_rdwaveprm</fname>
-        <fpage>./cnc_rdwaveprm.htm</fpage>
+        <fpage>./cnc_rdwaveprm.xml</fpage>
         <explanation>Read waveform diagnosis parameter</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -58,7 +58,7 @@
       </item>
       <item>
         <fname>cnc_rdwaveprm2</fname>
-        <fpage>./cnc_rdwaveprm2.htm</fpage>
+        <fpage>./cnc_rdwaveprm2.xml</fpage>
         <explanation>Read waveform diagnosis parameter (2)</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -109,7 +109,7 @@
       </item>
       <item>
         <fname>cnc_wrwaveprm</fname>
-        <fpage>./cnc_wrwaveprm.htm</fpage>
+        <fpage>./cnc_wrwaveprm.xml</fpage>
         <explanation>Write waveform diagnosis parameter</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -160,7 +160,7 @@
       </item>
       <item>
         <fname>cnc_wrwaveprm2</fname>
-        <fpage>./cnc_wrwaveprm2.htm</fpage>
+        <fpage>./cnc_wrwaveprm2.xml</fpage>
         <explanation>Write waveform diagnosis parameter (2)</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -211,7 +211,7 @@
       </item>
       <item>
         <fname>cnc_wavestart</fname>
-        <fpage>./cnc_wavestart.htm</fpage>
+        <fpage>./cnc_wavestart.xml</fpage>
         <explanation>Start sampling waveform diagnosis data</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -262,7 +262,7 @@
       </item>
       <item>
         <fname>cnc_wavestop</fname>
-        <fpage>./cnc_wavestop.htm</fpage>
+        <fpage>./cnc_wavestop.xml</fpage>
         <explanation>Stop sampling waveform diagnosis data</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -313,7 +313,7 @@
       </item>
       <item>
         <fname>cnc_wavestat</fname>
-        <fpage>./cnc_wavestat.htm</fpage>
+        <fpage>./cnc_wavestat.xml</fpage>
         <explanation>Read sampling status of waveform diagnosis data</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -364,7 +364,7 @@
       </item>
       <item>
         <fname>cnc_rdwavedata</fname>
-        <fpage>./cnc_rdwavedata.htm</fpage>
+        <fpage>./cnc_rdwavedata.xml</fpage>
         <explanation>Read waveform diagnosis data</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>

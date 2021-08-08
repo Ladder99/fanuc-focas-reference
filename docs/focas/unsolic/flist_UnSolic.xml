@@ -7,7 +7,7 @@
       <tag>UnSolic</tag>
       <item>
         <fname>cnc_wrunsolicprm</fname>
-        <fpage>./cnc_wrunsolicprm.htm</fpage>
+        <fpage>./cnc_wrunsolicprm.xml</fpage>
         <explanation>Set the unsolicited messaging parameters</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -58,7 +58,7 @@
       </item>
       <item>
         <fname>cnc_wrunsolicprm2</fname>
-        <fpage>./cnc_wrunsolicprm2.htm</fpage>
+        <fpage>./cnc_wrunsolicprm2.xml</fpage>
         <explanation>Set the unsolicited messaging parameters (2)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -109,7 +109,7 @@
       </item>
       <item>
         <fname>cnc_rdunsolicprm</fname>
-        <fpage>./cnc_rdunsolicprm.htm</fpage>
+        <fpage>./cnc_rdunsolicprm.xml</fpage>
         <explanation>Get the unsolicited messaging parameters </explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -160,7 +160,7 @@
       </item>
       <item>
         <fname>cnc_rdunsolicprm2</fname>
-        <fpage>./cnc_rdunsolicprm2.htm</fpage>
+        <fpage>./cnc_rdunsolicprm2.xml</fpage>
         <explanation>Get the unsolicited messaging parameters (2)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -211,7 +211,7 @@
       </item>
       <item>
         <fname>cnc_unsolicstart</fname>
-        <fpage>./cnc_unsolicstart.htm</fpage>
+        <fpage>./cnc_unsolicstart.xml</fpage>
         <explanation>Initiate the unsolicited messaging session</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -262,7 +262,7 @@
       </item>
       <item>
         <fname>cnc_unsolicstop</fname>
-        <fpage>./cnc_unsolicstop.htm</fpage>
+        <fpage>./cnc_unsolicstop.xml</fpage>
         <explanation>Terminate the unsolicited messaging session </explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -313,7 +313,7 @@
       </item>
       <item>
         <fname>cnc_rdunsolicmsg</fname>
-        <fpage>./cnc_rdunsolicmsg.htm</fpage>
+        <fpage>./cnc_rdunsolicmsg.xml</fpage>
         <explanation>Read the unsolicited messaging data </explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -364,7 +364,7 @@
       </item>
       <item>
         <fname>cnc_rdunsolicmsg2</fname>
-        <fpage>./cnc_rdunsolicmsg2.htm</fpage>
+        <fpage>./cnc_rdunsolicmsg2.xml</fpage>
         <explanation>Read the unsolicited messaging data (2)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>

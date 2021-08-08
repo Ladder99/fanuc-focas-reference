@@ -7,7 +7,7 @@
       <tag>Pmc</tag>
       <item>
         <fname>pmc_rdmsg</fname>
-        <fpage>./pmc_rdmsg.htm</fpage>
+        <fpage>./pmc_rdmsg.xml</fpage>
         <explanation>Read message from PMC to MMC</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -58,7 +58,7 @@
       </item>
       <item>
         <fname>pmc_wrmsg</fname>
-        <fpage>./pmc_wrmsg.htm</fpage>
+        <fpage>./pmc_wrmsg.xml</fpage>
         <explanation>Write message from MMC to PMC</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -109,7 +109,7 @@
       </item>
       <item>
         <fname>pmc_crdmsg</fname>
-        <fpage>./pmc_crdmsg.htm</fpage>
+        <fpage>./pmc_crdmsg.xml</fpage>
         <explanation>Read message from PMC to MMC (conditional)</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -160,7 +160,7 @@
       </item>
       <item>
         <fname>pmc_cwrmsg</fname>
-        <fpage>./pmc_cwrmsg.htm</fpage>
+        <fpage>./pmc_cwrmsg.xml</fpage>
         <explanation>Write message from MMC to PMC (conditional)</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -211,7 +211,7 @@
       </item>
       <item>
         <fname>pmc_rdpmcrng</fname>
-        <fpage>./pmc_rdpmcrng.htm</fpage>
+        <fpage>./pmc_rdpmcrng.xml</fpage>
         <explanation>Read PMC data(area specified)</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -262,7 +262,7 @@
       </item>
       <item>
         <fname>pmc_wrpmcrng</fname>
-        <fpage>./pmc_wrpmcrng.htm</fpage>
+        <fpage>./pmc_wrpmcrng.xml</fpage>
         <explanation>Write PMC data(area specified)</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -313,7 +313,7 @@
       </item>
       <item>
         <fname>pmc_rdkpm</fname>
-        <fpage>./pmc_rdkpm.htm</fpage>
+        <fpage>./pmc_rdkpm.xml</fpage>
         <explanation>Read data from extended backup memory</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -364,7 +364,7 @@
       </item>
       <item>
         <fname>pmc_wrkpm</fname>
-        <fpage>./pmc_wrkpm.htm</fpage>
+        <fpage>./pmc_wrkpm.xml</fpage>
         <explanation>Write data to extended backup memory</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -415,7 +415,7 @@
       </item>
       <item>
         <fname>pmc_rdkpm2</fname>
-        <fpage>./pmc_rdkpm2.htm</fpage>
+        <fpage>./pmc_rdkpm2.xml</fpage>
         <explanation>Read data from extended backup memory(2)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -466,7 +466,7 @@
       </item>
       <item>
         <fname>pmc_wrkpm2</fname>
-        <fpage>./pmc_wrkpm2.htm</fpage>
+        <fpage>./pmc_wrkpm2.xml</fpage>
         <explanation>Write data to extended backup memory(2)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -517,7 +517,7 @@
       </item>
       <item>
         <fname>pmc_kpmsiz</fname>
-        <fpage>./pmc_kpmsiz.htm</fpage>
+        <fpage>./pmc_kpmsiz.xml</fpage>
         <explanation>Read maximum size of extended backup memory</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -568,7 +568,7 @@
       </item>
       <item>
         <fname>pmc_rdpmcinfo</fname>
-        <fpage>./pmc_rdpmcinfo.htm</fpage>
+        <fpage>./pmc_rdpmcinfo.xml</fpage>
         <explanation>Read PMC data information</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -619,7 +619,7 @@
       </item>
       <item>
         <fname>pmc_rdcntldata</fname>
-        <fpage>./pmc_rdcntldata.htm</fpage>
+        <fpage>./pmc_rdcntldata.xml</fpage>
         <explanation>Read control data of PMC data table</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -670,7 +670,7 @@
       </item>
       <item>
         <fname>pmc_wrcntldata</fname>
-        <fpage>./pmc_wrcntldata.htm</fpage>
+        <fpage>./pmc_wrcntldata.xml</fpage>
         <explanation>Write control data of PMC data table</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -721,7 +721,7 @@
       </item>
       <item>
         <fname>pmc_rdcntlgrp</fname>
-        <fpage>./pmc_rdcntlgrp.htm</fpage>
+        <fpage>./pmc_rdcntlgrp.xml</fpage>
         <explanation>Read the sum total group of control data</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -772,7 +772,7 @@
       </item>
       <item>
         <fname>pmc_wrcntlgrp</fname>
-        <fpage>./pmc_wrcntlgrp.htm</fpage>
+        <fpage>./pmc_wrcntlgrp.xml</fpage>
         <explanation>Write the sum total group of control data</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -823,7 +823,7 @@
       </item>
       <item>
         <fname>pmc_set_timer_type</fname>
-        <fpage>./pmc_set_timer_type.htm</fpage>
+        <fpage>./pmc_set_timer_type.xml</fpage>
         <explanation>Set the PMC timer accuracy</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -874,7 +874,7 @@
       </item>
       <item>
         <fname>pmc_get_timer_type</fname>
-        <fpage>./pmc_get_timer_type.htm</fpage>
+        <fpage>./pmc_get_timer_type.xml</fpage>
         <explanation>Get the PMC timer accuracy</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -925,7 +925,7 @@
       </item>
       <item>
         <fname>pmc_getdtailerr</fname>
-        <fpage>./pmc_getdtailerr.htm</fpage>
+        <fpage>./pmc_getdtailerr.xml</fpage>
         <explanation>Get detail error for PMC</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -976,7 +976,7 @@
       </item>
       <item>
         <fname>pmc_rdalmmsg</fname>
-        <fpage>./pmc_rdalmmsg.htm</fpage>
+        <fpage>./pmc_rdalmmsg.xml</fpage>
         <explanation>Read PMC alarm messages</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -1027,7 +1027,7 @@
       </item>
       <item>
         <fname>pmc_rdpmctitle</fname>
-        <fpage>./pmc_rdpmctitle.htm</fpage>
+        <fpage>./pmc_rdpmctitle.xml</fpage>
         <explanation>Read PMC title data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1078,7 +1078,7 @@
       </item>
       <item>
         <fname>pmc_rdprmstart</fname>
-        <fpage>./pmc_rdprmstart.htm</fpage>
+        <fpage>./pmc_rdprmstart.xml</fpage>
         <explanation>Start uploading PMC parameter</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1129,7 +1129,7 @@
       </item>
       <item>
         <fname>pmc_rdpmcparam</fname>
-        <fpage>./pmc_rdpmcparam.htm</fpage>
+        <fpage>./pmc_rdpmcparam.xml</fpage>
         <explanation>Upload PMC parameter</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1180,7 +1180,7 @@
       </item>
       <item>
         <fname>pmc_rdprmend</fname>
-        <fpage>./pmc_rdprmend.htm</fpage>
+        <fpage>./pmc_rdprmend.xml</fpage>
         <explanation>End of uploading PMC parameter</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1231,7 +1231,7 @@
       </item>
       <item>
         <fname>pmc_wrprmstart</fname>
-        <fpage>./pmc_wrprmstart.htm</fpage>
+        <fpage>./pmc_wrprmstart.xml</fpage>
         <explanation>Start downloading PMC parameter</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1282,7 +1282,7 @@
       </item>
       <item>
         <fname>pmc_wrpmcparam</fname>
-        <fpage>./pmc_wrpmcparam.htm</fpage>
+        <fpage>./pmc_wrpmcparam.xml</fpage>
         <explanation>Download PMC parameter</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1333,7 +1333,7 @@
       </item>
       <item>
         <fname>pmc_wrprmend</fname>
-        <fpage>./pmc_wrprmend.htm</fpage>
+        <fpage>./pmc_wrprmend.xml</fpage>
         <explanation>End of downloading PMC parameter</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1384,7 +1384,7 @@
       </item>
       <item>
         <fname>pmc_select_pmc_unit</fname>
-        <fpage>./pmc_select_pmc_unit.htm</fpage>
+        <fpage>./pmc_select_pmc_unit.xml</fpage>
         <explanation>Select the PMC</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1435,7 +1435,7 @@
       </item>
       <item>
         <fname>pmc_get_current_pmc_unit</fname>
-        <fpage>./pmc_get_current_pmc_unit.htm</fpage>
+        <fpage>./pmc_get_current_pmc_unit.xml</fpage>
         <explanation>Get the current PMC unit type</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1486,7 +1486,7 @@
       </item>
       <item>
         <fname>pmc_get_number_of_pmc</fname>
-        <fpage>./pmc_get_number_of_pmc.htm</fpage>
+        <fpage>./pmc_get_number_of_pmc.xml</fpage>
         <explanation>Read the number of existing PMC paths</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1537,7 +1537,7 @@
       </item>
       <item>
         <fname>pmc_get_pmc_unit_types</fname>
-        <fpage>./pmc_get_pmc_unit_types.htm</fpage>
+        <fpage>./pmc_get_pmc_unit_types.xml</fpage>
         <explanation>Read the PMC system information</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>

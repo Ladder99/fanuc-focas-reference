@@ -7,7 +7,7 @@
       <tag>Punch</tag>
       <item>
         <fname>cnc_rdtlctldata</fname>
-        <fpage>./cnc_rdtlctldata.htm</fpage>
+        <fpage>./cnc_rdtlctldata.xml</fpage>
         <explanation>Read tool control data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -58,7 +58,7 @@
       </item>
       <item>
         <fname>cnc_wrtlctldata</fname>
-        <fpage>./cnc_wrtlctldata.htm</fpage>
+        <fpage>./cnc_wrtlctldata.xml</fpage>
         <explanation>Write tool control data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -109,7 +109,7 @@
       </item>
       <item>
         <fname>cnc_rdtoolinfo</fname>
-        <fpage>./cnc_rdtoolinfo.htm</fpage>
+        <fpage>./cnc_rdtoolinfo.xml</fpage>
         <explanation>Read tool information data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -160,7 +160,7 @@
       </item>
       <item>
         <fname>cnc_rdtooldata</fname>
-        <fpage>./cnc_rdtooldata.htm</fpage>
+        <fpage>./cnc_rdtooldata.xml</fpage>
         <explanation>Read tool data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -211,7 +211,7 @@
       </item>
       <item>
         <fname>cnc_wrtooldata</fname>
-        <fpage>./cnc_wrtooldata.htm</fpage>
+        <fpage>./cnc_wrtooldata.xml</fpage>
         <explanation>Write tool data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -262,7 +262,7 @@
       </item>
       <item>
         <fname>cnc_rdmultitldt</fname>
-        <fpage>./cnc_rdmultitldt.htm</fpage>
+        <fpage>./cnc_rdmultitldt.xml</fpage>
         <explanation>Read multiple tool data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -313,7 +313,7 @@
       </item>
       <item>
         <fname>cnc_wrmultitldt</fname>
-        <fpage>./cnc_wrmultitldt.htm</fpage>
+        <fpage>./cnc_wrmultitldt.xml</fpage>
         <explanation>Write multiple tool data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -364,7 +364,7 @@
       </item>
       <item>
         <fname>cnc_rdsafetyzone</fname>
-        <fpage>./cnc_rdsafetyzone.htm</fpage>
+        <fpage>./cnc_rdsafetyzone.xml</fpage>
         <explanation>Read safety zone data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -415,7 +415,7 @@
       </item>
       <item>
         <fname>cnc_wrsafetyzone</fname>
-        <fpage>./cnc_wrsafetyzone.htm</fpage>
+        <fpage>./cnc_wrsafetyzone.xml</fpage>
         <explanation>Write safety zone data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -466,7 +466,7 @@
       </item>
       <item>
         <fname>cnc_rdtoolzone</fname>
-        <fpage>./cnc_rdtoolzone.htm</fpage>
+        <fpage>./cnc_rdtoolzone.xml</fpage>
         <explanation>Read tool zone data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -517,7 +517,7 @@
       </item>
       <item>
         <fname>cnc_wrtoolzone</fname>
-        <fpage>./cnc_wrtoolzone.htm</fpage>
+        <fpage>./cnc_wrtoolzone.xml</fpage>
         <explanation>Write tool zone data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -568,7 +568,7 @@
       </item>
       <item>
         <fname>cnc_rdacttlzone</fname>
-        <fpage>./cnc_rdacttlzone.htm</fpage>
+        <fpage>./cnc_rdacttlzone.xml</fpage>
         <explanation>Read actual tool zone data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -619,7 +619,7 @@
       </item>
       <item>
         <fname>cnc_rdsetzone</fname>
-        <fpage>./cnc_rdsetzone.htm</fpage>
+        <fpage>./cnc_rdsetzone.xml</fpage>
         <explanation>Read number of automatic setting zone</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -670,7 +670,7 @@
       </item>
       <item>
         <fname>cnc_wrsetzone</fname>
-        <fpage>./cnc_wrsetzone.htm</fpage>
+        <fpage>./cnc_wrsetzone.xml</fpage>
         <explanation>Write number of automatic setting zone</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -721,7 +721,7 @@
       </item>
       <item>
         <fname>cnc_rd1punchtl_ex</fname>
-        <fpage>./cnc_rd1punchtl_ex.htm</fpage>
+        <fpage>./cnc_rd1punchtl_ex.xml</fpage>
         <explanation>Get tool data(Registration number specification)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -772,7 +772,7 @@
       </item>
       <item>
         <fname>cnc_rd2punchtl_ex</fname>
-        <fpage>./cnc_rd2punchtl_ex.htm</fpage>
+        <fpage>./cnc_rd2punchtl_ex.xml</fpage>
         <explanation>Get tool data(Tool number specification)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -823,7 +823,7 @@
       </item>
       <item>
         <fname>cnc_wrpunchtl_ex</fname>
-        <fpage>./cnc_wrpunchtl_ex.htm</fpage>
+        <fpage>./cnc_wrpunchtl_ex.xml</fpage>
         <explanation>Get tool data(Registration number specification)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>

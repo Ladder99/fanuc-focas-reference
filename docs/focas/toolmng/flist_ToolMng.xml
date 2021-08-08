@@ -7,7 +7,7 @@
       <tag>ToolMng</tag>
       <item>
         <fname>cnc_regtool</fname>
-        <fpage>./cnc_regtool.htm</fpage>
+        <fpage>./cnc_regtool.xml</fpage>
         <explanation>New registration of Tool management data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -58,7 +58,7 @@
       </item>
       <item>
         <fname>cnc_regtool_f2</fname>
-        <fpage>./cnc_regtool_f2.htm</fpage>
+        <fpage>./cnc_regtool_f2.xml</fpage>
         <explanation>New registration of Tool management data (2)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -109,7 +109,7 @@
       </item>
       <item>
         <fname>cnc_deltool</fname>
-        <fpage>./cnc_deltool.htm</fpage>
+        <fpage>./cnc_deltool.xml</fpage>
         <explanation>Delete Tool management data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -160,7 +160,7 @@
       </item>
       <item>
         <fname>cnc_rdtool</fname>
-        <fpage>./cnc_rdtool.htm</fpage>
+        <fpage>./cnc_rdtool.xml</fpage>
         <explanation>Read Tool management data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -211,7 +211,7 @@
       </item>
       <item>
         <fname>cnc_rdtool_f2</fname>
-        <fpage>./cnc_rdtool_f2.htm</fpage>
+        <fpage>./cnc_rdtool_f2.xml</fpage>
         <explanation>Read Tool management data (2)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -262,7 +262,7 @@
       </item>
       <item>
         <fname>cnc_wrtool</fname>
-        <fpage>./cnc_wrtool.htm</fpage>
+        <fpage>./cnc_wrtool.xml</fpage>
         <explanation>Write Tool management data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -313,7 +313,7 @@
       </item>
       <item>
         <fname>cnc_wrtool_f2</fname>
-        <fpage>./cnc_wrtool_f2.htm</fpage>
+        <fpage>./cnc_wrtool_f2.xml</fpage>
         <explanation>Write Tool management data (2)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -364,7 +364,7 @@
       </item>
       <item>
         <fname>cnc_wrtool2</fname>
-        <fpage>./cnc_wrtool2.htm</fpage>
+        <fpage>./cnc_wrtool2.xml</fpage>
         <explanation>Write individual data of Tool management data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -415,7 +415,7 @@
       </item>
       <item>
         <fname>cnc_regmagazine</fname>
-        <fpage>./cnc_regmagazine.htm</fpage>
+        <fpage>./cnc_regmagazine.xml</fpage>
         <explanation>New registration of Magazine management data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -466,7 +466,7 @@
       </item>
       <item>
         <fname>cnc_delmagazine</fname>
-        <fpage>./cnc_delmagazine.htm</fpage>
+        <fpage>./cnc_delmagazine.xml</fpage>
         <explanation>Delete Magazine management data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -517,7 +517,7 @@
       </item>
       <item>
         <fname>cnc_rdmagazine</fname>
-        <fpage>./cnc_rdmagazine.htm</fpage>
+        <fpage>./cnc_rdmagazine.xml</fpage>
         <explanation>Read Magazine management data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -568,7 +568,7 @@
       </item>
       <item>
         <fname>cnc_wrmagazine</fname>
-        <fpage>./cnc_wrmagazine.htm</fpage>
+        <fpage>./cnc_wrmagazine.xml</fpage>
         <explanation>Write individual data of Magazine management data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -619,7 +619,7 @@
       </item>
       <item>
         <fname>cnc_wrtoolgeom_tlm</fname>
-        <fpage>./cnc_wrtoolgeom_tlm.htm</fpage>
+        <fpage>./cnc_wrtoolgeom_tlm.xml</fpage>
         <explanation>Write tool geometry data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -670,7 +670,7 @@
       </item>
       <item>
         <fname>cnc_rdtoolgeom_tlm</fname>
-        <fpage>./cnc_rdtoolgeom_tlm.htm</fpage>
+        <fpage>./cnc_rdtoolgeom_tlm.xml</fpage>
         <explanation>Read tool geometry data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -721,7 +721,7 @@
       </item>
       <item>
         <fname>cnc_btlfpotsrh</fname>
-        <fpage>./cnc_btlfpotsrh.htm</fpage>
+        <fpage>./cnc_btlfpotsrh.xml</fpage>
         <explanation>Search empty pot for oversize tool</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -772,7 +772,7 @@
       </item>
       <item>
         <fname>cnc_rdmag_property</fname>
-        <fpage>./cnc_rdmag_property.htm</fpage>
+        <fpage>./cnc_rdmag_property.xml</fpage>
         <explanation>Read the magazine property data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -823,7 +823,7 @@
       </item>
       <item>
         <fname>cnc_wrmag_property</fname>
-        <fpage>./cnc_wrmag_property.htm</fpage>
+        <fpage>./cnc_wrmag_property.xml</fpage>
         <explanation>Write the magazine property data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -874,7 +874,7 @@
       </item>
       <item>
         <fname>cnc_delmag_property</fname>
-        <fpage>./cnc_delmag_property.htm</fpage>
+        <fpage>./cnc_delmag_property.xml</fpage>
         <explanation>Delete the magazine property data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -925,7 +925,7 @@
       </item>
       <item>
         <fname>cnc_rdpot_property</fname>
-        <fpage>./cnc_rdpot_property.htm</fpage>
+        <fpage>./cnc_rdpot_property.xml</fpage>
         <explanation>Read the pot property data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -976,7 +976,7 @@
       </item>
       <item>
         <fname>cnc_wrpot_property</fname>
-        <fpage>./cnc_wrpot_property.htm</fpage>
+        <fpage>./cnc_wrpot_property.xml</fpage>
         <explanation>Write the pot property data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1027,7 +1027,7 @@
       </item>
       <item>
         <fname>cnc_delpot_property</fname>
-        <fpage>./cnc_delpot_property.htm</fpage>
+        <fpage>./cnc_delpot_property.xml</fpage>
         <explanation>Delete the pot property data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1078,7 +1078,7 @@
       </item>
       <item>
         <fname>cnc_tool_move</fname>
-        <fpage>./cnc_tool_move.htm</fpage>
+        <fpage>./cnc_tool_move.xml</fpage>
         <explanation>Move of tool management data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1129,7 +1129,7 @@
       </item>
       <item>
         <fname>cnc_reg_toolstrage</fname>
-        <fpage>./cnc_reg_toolstrage.htm</fpage>
+        <fpage>./cnc_reg_toolstrage.xml</fpage>
         <explanation>Registration and release of Tool storage position</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>

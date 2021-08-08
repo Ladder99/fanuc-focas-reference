@@ -7,7 +7,7 @@
       <tag>Data</tag>
       <item>
         <fname>cnc_dtsvftpget</fname>
-        <fpage>./cnc_dtsvftpget.htm</fpage>
+        <fpage>./cnc_dtsvftpget.xml</fpage>
         <explanation>Transfer file from host to DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -58,7 +58,7 @@
       </item>
       <item>
         <fname>cnc_dtsvftpput</fname>
-        <fpage>./cnc_dtsvftpput.htm</fpage>
+        <fpage>./cnc_dtsvftpput.xml</fpage>
         <explanation>Transfer file from DATA SERVER to host</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -109,7 +109,7 @@
       </item>
       <item>
         <fname>cnc_dtsvftpstat</fname>
-        <fpage>./cnc_dtsvftpstat.htm</fpage>
+        <fpage>./cnc_dtsvftpstat.xml</fpage>
         <explanation>Read status of file transfer between host and DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -160,7 +160,7 @@
       </item>
       <item>
         <fname>cnc_dtsvrdpgdir</fname>
-        <fpage>./cnc_dtsvrdpgdir.htm</fpage>
+        <fpage>./cnc_dtsvrdpgdir.xml</fpage>
         <explanation>Read directory in DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -211,7 +211,7 @@
       </item>
       <item>
         <fname>cnc_dtsvdelete</fname>
-        <fpage>./cnc_dtsvdelete.htm</fpage>
+        <fpage>./cnc_dtsvdelete.xml</fpage>
         <explanation>Delete file in DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -262,7 +262,7 @@
       </item>
       <item>
         <fname>cnc_dtsvdownload</fname>
-        <fpage>./cnc_dtsvdownload.htm</fpage>
+        <fpage>./cnc_dtsvdownload.xml</fpage>
         <explanation>Download from DATA SERVER to CNC</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -313,7 +313,7 @@
       </item>
       <item>
         <fname>cnc_dtsvupload</fname>
-        <fpage>./cnc_dtsvupload.htm</fpage>
+        <fpage>./cnc_dtsvupload.xml</fpage>
         <explanation>Upload from CNC to DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -364,7 +364,7 @@
       </item>
       <item>
         <fname>cnc_dtsvcnclupdn</fname>
-        <fpage>./cnc_dtsvcnclupdn.htm</fpage>
+        <fpage>./cnc_dtsvcnclupdn.xml</fpage>
         <explanation>Cancel upload/download between DATA SERVER and CNC</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -415,7 +415,7 @@
       </item>
       <item>
         <fname>cnc_dtsvupdnstat</fname>
-        <fpage>./cnc_dtsvupdnstat.htm</fpage>
+        <fpage>./cnc_dtsvupdnstat.xml</fpage>
         <explanation>Read upload/download status between DATA SERVER and CNC</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -466,7 +466,7 @@
       </item>
       <item>
         <fname>cnc_dtsvgetdncpg</fname>
-        <fpage>./cnc_dtsvgetdncpg.htm</fpage>
+        <fpage>./cnc_dtsvgetdncpg.xml</fpage>
         <explanation>Get DNC operation file name in DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -517,7 +517,7 @@
       </item>
       <item>
         <fname>cnc_dtsvsetdncpg</fname>
-        <fpage>./cnc_dtsvsetdncpg.htm</fpage>
+        <fpage>./cnc_dtsvsetdncpg.xml</fpage>
         <explanation>Set DNC operation file name in DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -568,7 +568,7 @@
       </item>
       <item>
         <fname>cnc_dtsvrdset</fname>
-        <fpage>./cnc_dtsvrdset.htm</fpage>
+        <fpage>./cnc_dtsvrdset.xml</fpage>
         <explanation>Read setting data for DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -619,7 +619,7 @@
       </item>
       <item>
         <fname>cnc_dtsvwrset</fname>
-        <fpage>./cnc_dtsvwrset.htm</fpage>
+        <fpage>./cnc_dtsvwrset.xml</fpage>
         <explanation>Write setting data for DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -670,7 +670,7 @@
       </item>
       <item>
         <fname>cnc_dtsvchkdsk</fname>
-        <fpage>./cnc_dtsvchkdsk.htm</fpage>
+        <fpage>./cnc_dtsvchkdsk.xml</fpage>
         <explanation>Check hard disk on DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -721,7 +721,7 @@
       </item>
       <item>
         <fname>cnc_dtsvhdformat</fname>
-        <fpage>./cnc_dtsvhdformat.htm</fpage>
+        <fpage>./cnc_dtsvhdformat.xml</fpage>
         <explanation>Format hard disk on DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -772,7 +772,7 @@
       </item>
       <item>
         <fname>cnc_dtsvsavecram</fname>
-        <fpage>./cnc_dtsvsavecram.htm</fpage>
+        <fpage>./cnc_dtsvsavecram.xml</fpage>
         <explanation>Save I/F buffer for DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -823,7 +823,7 @@
       </item>
       <item>
         <fname>cnc_dtsvrdcram</fname>
-        <fpage>./cnc_dtsvrdcram.htm</fpage>
+        <fpage>./cnc_dtsvrdcram.xml</fpage>
         <explanation>Read I/F buffer for DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -874,7 +874,7 @@
       </item>
       <item>
         <fname>cnc_dtsvmntinfo</fname>
-        <fpage>./cnc_dtsvmntinfo.htm</fpage>
+        <fpage>./cnc_dtsvmntinfo.xml</fpage>
         <explanation>Read maintenance information for DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -925,7 +925,7 @@
       </item>
       <item>
         <fname>cnc_dtsvgetmode</fname>
-        <fpage>./cnc_dtsvgetmode.htm</fpage>
+        <fpage>./cnc_dtsvgetmode.xml</fpage>
         <explanation>Get mode of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -976,7 +976,7 @@
       </item>
       <item>
         <fname>cnc_dtsvsetmode</fname>
-        <fpage>./cnc_dtsvsetmode.htm</fpage>
+        <fpage>./cnc_dtsvsetmode.xml</fpage>
         <explanation>Set mode of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1027,7 +1027,7 @@
       </item>
       <item>
         <fname>cnc_dtsvrderrmsg</fname>
-        <fpage>./cnc_dtsvrderrmsg.htm</fpage>
+        <fpage>./cnc_dtsvrderrmsg.xml</fpage>
         <explanation>Read error message for DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1078,7 +1078,7 @@
       </item>
       <item>
         <fname>cnc_dtsvwrfile</fname>
-        <fpage>./cnc_dtsvwrfile.htm</fpage>
+        <fpage>./cnc_dtsvwrfile.xml</fpage>
         <explanation>Transfer file from personal computer to DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -1129,7 +1129,7 @@
       </item>
       <item>
         <fname>cnc_dtsvrdfile</fname>
-        <fpage>./cnc_dtsvrdfile.htm</fpage>
+        <fpage>./cnc_dtsvrdfile.xml</fpage>
         <explanation>Transfer file from DATA SERVER to personal computer</explanation>
         <h0ia>X</h0ia>
         <h0ib>O</h0ib>
@@ -1180,7 +1180,7 @@
       </item>
       <item>
         <fname>cnc_rddncfname</fname>
-        <fpage>./cnc_rddncfname.htm</fpage>
+        <fpage>./cnc_rddncfname.xml</fpage>
         <explanation>Read DNC file name for DNC1, DNC2, OSI-Ethernet</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1231,7 +1231,7 @@
       </item>
       <item>
         <fname>cnc_wrdncfname</fname>
-        <fpage>./cnc_wrdncfname.htm</fpage>
+        <fpage>./cnc_wrdncfname.xml</fpage>
         <explanation>Write DNC file name for DNC1, DNC2 ,OSI-Ethernet</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1282,7 +1282,7 @@
       </item>
       <item>
         <fname>cnc_rdcomparam</fname>
-        <fpage>./cnc_rdcomparam.htm</fpage>
+        <fpage>./cnc_rdcomparam.xml</fpage>
         <explanation>Read communication parameter for DNC1, DNC2 , OSI-Ethernet</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1333,7 +1333,7 @@
       </item>
       <item>
         <fname>cnc_wrcomparam</fname>
-        <fpage>./cnc_wrcomparam.htm</fpage>
+        <fpage>./cnc_wrcomparam.xml</fpage>
         <explanation>Write communication parameter for DNC1, DNC2, OSI-Ethernet</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1384,7 +1384,7 @@
       </item>
       <item>
         <fname>cnc_rdcomlogmsg</fname>
-        <fpage>./cnc_rdcomlogmsg.htm</fpage>
+        <fpage>./cnc_rdcomlogmsg.xml</fpage>
         <explanation>Read logging message for DNC2</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1435,7 +1435,7 @@
       </item>
       <item>
         <fname>cnc_rdcomopemsg</fname>
-        <fpage>./cnc_rdcomopemsg.htm</fpage>
+        <fpage>./cnc_rdcomopemsg.xml</fpage>
         <explanation>Read operator's message for DNC1,DNC2</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1486,7 +1486,7 @@
       </item>
       <item>
         <fname>cnc_rdrcvmsg</fname>
-        <fpage>./cnc_rdrcvmsg.htm</fpage>
+        <fpage>./cnc_rdrcvmsg.xml</fpage>
         <explanation>Read receipt message for OSI-Ethernet</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1537,7 +1537,7 @@
       </item>
       <item>
         <fname>cnc_rdsndmsg</fname>
-        <fpage>./cnc_rdsndmsg.htm</fpage>
+        <fpage>./cnc_rdsndmsg.xml</fpage>
         <explanation>Read sending message for OSI-Ethernet</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1588,7 +1588,7 @@
       </item>
       <item>
         <fname>cnc_sendmessage</fname>
-        <fpage>./cnc_sendmessage.htm</fpage>
+        <fpage>./cnc_sendmessage.xml</fpage>
         <explanation>Send message for OSI-Ethernet</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1639,7 +1639,7 @@
       </item>
       <item>
         <fname>cnc_clrmsgbuff</fname>
-        <fpage>./cnc_clrmsgbuff.htm</fpage>
+        <fpage>./cnc_clrmsgbuff.xml</fpage>
         <explanation>Clear message buffer for OSI-Ethernet</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1690,7 +1690,7 @@
       </item>
       <item>
         <fname>cnc_rdrcvstat</fname>
-        <fpage>./cnc_rdrcvstat.htm</fpage>
+        <fpage>./cnc_rdrcvstat.xml</fpage>
         <explanation>Read receipt status of message for OSI-Ethernet</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1741,7 +1741,7 @@
       </item>
       <item>
         <fname>etb_rdparam</fname>
-        <fpage>./etb_rdparam.htm</fpage>
+        <fpage>./etb_rdparam.xml</fpage>
         <explanation>Get Ethernet board parameter</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1792,7 +1792,7 @@
       </item>
       <item>
         <fname>etb_wrparam</fname>
-        <fpage>./etb_wrparam.htm</fpage>
+        <fpage>./etb_wrparam.xml</fpage>
         <explanation>Set Ethernet board parameter</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1843,7 +1843,7 @@
       </item>
       <item>
         <fname>etb_rderrmsg</fname>
-        <fpage>./etb_rderrmsg.htm</fpage>
+        <fpage>./etb_rderrmsg.xml</fpage>
         <explanation>Get error message of Ethernet board</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1894,7 +1894,7 @@
       </item>
       <item>
         <fname>ds_rdmode</fname>
-        <fpage>./ds_rdmode.htm</fpage>
+        <fpage>./ds_rdmode.xml</fpage>
         <explanation>Get DATA SERVER mode</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1945,7 +1945,7 @@
       </item>
       <item>
         <fname>ds_wrmode</fname>
-        <fpage>./ds_wrmode.htm</fpage>
+        <fpage>./ds_wrmode.xml</fpage>
         <explanation>Set DATA SERVER mode</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -1996,7 +1996,7 @@
       </item>
       <item>
         <fname>ds_rdhddinfo</fname>
-        <fpage>./ds_rdhddinfo.htm</fpage>
+        <fpage>./ds_rdhddinfo.xml</fpage>
         <explanation>Get hard disk information of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -2047,7 +2047,7 @@
       </item>
       <item>
         <fname>ds_rdhdddir</fname>
-        <fpage>./ds_rdhdddir.htm</fpage>
+        <fpage>./ds_rdhdddir.xml</fpage>
         <explanation>Get hard disk file list of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -2098,7 +2098,7 @@
       </item>
       <item>
         <fname>ds_delhddfile</fname>
-        <fpage>./ds_delhddfile.htm</fpage>
+        <fpage>./ds_delhddfile.xml</fpage>
         <explanation>Delete hard disk file of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -2149,7 +2149,7 @@
       </item>
       <item>
         <fname>ds_copyhddfile</fname>
-        <fpage>./ds_copyhddfile.htm</fpage>
+        <fpage>./ds_copyhddfile.xml</fpage>
         <explanation>Copy hard disk file of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -2200,7 +2200,7 @@
       </item>
       <item>
         <fname>ds_renhddfile</fname>
-        <fpage>./ds_renhddfile.htm</fpage>
+        <fpage>./ds_renhddfile.xml</fpage>
         <explanation>Change of hard disk file name of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -2251,7 +2251,7 @@
       </item>
       <item>
         <fname>ds_puthddfile</fname>
-        <fpage>./ds_puthddfile.htm</fpage>
+        <fpage>./ds_puthddfile.xml</fpage>
         <explanation>PUT of hard disk file of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -2302,7 +2302,7 @@
       </item>
       <item>
         <fname>ds_mputhddfile</fname>
-        <fpage>./ds_mputhddfile.htm</fpage>
+        <fpage>./ds_mputhddfile.xml</fpage>
         <explanation>MPUT of hard disk file of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -2353,7 +2353,7 @@
       </item>
       <item>
         <fname>ds_rdhostinfo</fname>
-        <fpage>./ds_rdhostinfo.htm</fpage>
+        <fpage>./ds_rdhostinfo.xml</fpage>
         <explanation>Get host login directory information of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -2404,7 +2404,7 @@
       </item>
       <item>
         <fname>ds_rdhostdir</fname>
-        <fpage>./ds_rdhostdir.htm</fpage>
+        <fpage>./ds_rdhostdir.xml</fpage>
         <explanation>Get host file list of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -2455,7 +2455,7 @@
       </item>
       <item>
         <fname>ds_rdhostdir2</fname>
-        <fpage>./ds_rdhostdir2.htm</fpage>
+        <fpage>./ds_rdhostdir2.xml</fpage>
         <explanation>Get host file list of DATA SERVER (2)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -2506,7 +2506,7 @@
       </item>
       <item>
         <fname>ds_delhostfile</fname>
-        <fpage>./ds_delhostfile.htm</fpage>
+        <fpage>./ds_delhostfile.xml</fpage>
         <explanation>Delete host file of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -2557,7 +2557,7 @@
       </item>
       <item>
         <fname>ds_gethostfile</fname>
-        <fpage>./ds_gethostfile.htm</fpage>
+        <fpage>./ds_gethostfile.xml</fpage>
         <explanation>GET of host file of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -2608,7 +2608,7 @@
       </item>
       <item>
         <fname>ds_mgethostfile</fname>
-        <fpage>./ds_mgethostfile.htm</fpage>
+        <fpage>./ds_mgethostfile.xml</fpage>
         <explanation>MGET of host file of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -2659,7 +2659,7 @@
       </item>
       <item>
         <fname>ds_rdresult</fname>
-        <fpage>./ds_rdresult.htm</fpage>
+        <fpage>./ds_rdresult.xml</fpage>
         <explanation>Get execution result of function of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -2710,7 +2710,7 @@
       </item>
       <item>
         <fname>ds_cancel</fname>
-        <fpage>./ds_cancel.htm</fpage>
+        <fpage>./ds_cancel.xml</fpage>
         <explanation>Stop function for DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -2761,7 +2761,7 @@
       </item>
       <item>
         <fname>ds_rdncfile</fname>
-        <fpage>./ds_rdncfile.htm</fpage>
+        <fpage>./ds_rdncfile.xml</fpage>
         <explanation>Input of NC file in DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -2812,7 +2812,7 @@
       </item>
       <item>
         <fname>ds_rdncfile2</fname>
-        <fpage>./ds_rdncfile2.htm</fpage>
+        <fpage>./ds_rdncfile2.xml</fpage>
         <explanation>Input of NC file in DATA SERVER (2)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -2863,7 +2863,7 @@
       </item>
       <item>
         <fname>ds_wrncfile</fname>
-        <fpage>./ds_wrncfile.htm</fpage>
+        <fpage>./ds_wrncfile.xml</fpage>
         <explanation>Output of NC file in DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -2914,7 +2914,7 @@
       </item>
       <item>
         <fname>ds_rdfile</fname>
-        <fpage>./ds_rdfile.htm</fpage>
+        <fpage>./ds_rdfile.xml</fpage>
         <explanation>Input of NC file in DATA SERVER (DATA SERVER -> PC)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -2965,7 +2965,7 @@
       </item>
       <item>
         <fname>ds_wrfile</fname>
-        <fpage>./ds_wrfile.htm</fpage>
+        <fpage>./ds_wrfile.xml</fpage>
         <explanation>Output of NC file in DATA SERVER (PC -> DATA SERVER)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -3016,7 +3016,7 @@
       </item>
       <item>
         <fname>ds_rddnchddfile</fname>
-        <fpage>./ds_rddnchddfile.htm</fpage>
+        <fpage>./ds_rddnchddfile.xml</fpage>
         <explanation>Get hard disk file name of DATA SERVER for DNC operation</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -3067,7 +3067,7 @@
       </item>
       <item>
         <fname>ds_wrdnchddfile</fname>
-        <fpage>./ds_wrdnchddfile.htm</fpage>
+        <fpage>./ds_wrdnchddfile.xml</fpage>
         <explanation>Set hard disk file name of DATA SERVER for DNC operation</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -3118,7 +3118,7 @@
       </item>
       <item>
         <fname>ds_rddnchostfile</fname>
-        <fpage>./ds_rddnchostfile.htm</fpage>
+        <fpage>./ds_rddnchostfile.xml</fpage>
         <explanation>Get host file name of DATA SERVER for DNC operation</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -3169,7 +3169,7 @@
       </item>
       <item>
         <fname>ds_wrdnchostfile</fname>
-        <fpage>./ds_wrdnchostfile.htm</fpage>
+        <fpage>./ds_wrdnchostfile.xml</fpage>
         <explanation>Set host file name of DATA SERVER for DNC operation</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -3220,7 +3220,7 @@
       </item>
       <item>
         <fname>ds_rdhostno</fname>
-        <fpage>./ds_rdhostno.htm</fpage>
+        <fpage>./ds_rdhostno.xml</fpage>
         <explanation>Get connected host of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -3271,7 +3271,7 @@
       </item>
       <item>
         <fname>ds_wrhostno</fname>
-        <fpage>./ds_wrhostno.htm</fpage>
+        <fpage>./ds_wrhostno.xml</fpage>
         <explanation>Set connects host of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -3322,7 +3322,7 @@
       </item>
       <item>
         <fname>ds_rdmntinfo</fname>
-        <fpage>./ds_rdmntinfo.htm</fpage>
+        <fpage>./ds_rdmntinfo.xml</fpage>
         <explanation>Get maintenance information of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -3373,7 +3373,7 @@
       </item>
       <item>
         <fname>ds_checkhdd</fname>
-        <fpage>./ds_checkhdd.htm</fpage>
+        <fpage>./ds_checkhdd.xml</fpage>
         <explanation>Check of hard disk of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -3424,7 +3424,7 @@
       </item>
       <item>
         <fname>ds_formathdd</fname>
-        <fpage>./ds_formathdd.htm</fpage>
+        <fpage>./ds_formathdd.xml</fpage>
         <explanation>Format of hard disk of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -3475,7 +3475,7 @@
       </item>
       <item>
         <fname>ds_makehdddir</fname>
-        <fpage>./ds_makehdddir.htm</fpage>
+        <fpage>./ds_makehdddir.xml</fpage>
         <explanation>Make hard disk directory of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -3526,7 +3526,7 @@
       </item>
       <item>
         <fname>ds_delhdddir</fname>
-        <fpage>./ds_delhdddir.htm</fpage>
+        <fpage>./ds_delhdddir.xml</fpage>
         <explanation>Delete hard disk directory of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -3577,7 +3577,7 @@
       </item>
       <item>
         <fname>ds_chghdddir</fname>
-        <fpage>./ds_chghdddir.htm</fpage>
+        <fpage>./ds_chghdddir.xml</fpage>
         <explanation>Change of current directory of hard disk of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -3628,7 +3628,7 @@
       </item>
       <item>
         <fname>ds_lputhddfile</fname>
-        <fpage>./ds_lputhddfile.htm</fpage>
+        <fpage>./ds_lputhddfile.xml</fpage>
         <explanation>LIST-PUT of hard disk file of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -3679,7 +3679,7 @@
       </item>
       <item>
         <fname>ds_ldelhddfile</fname>
-        <fpage>./ds_ldelhddfile.htm</fpage>
+        <fpage>./ds_ldelhddfile.xml</fpage>
         <explanation>LIST-DELETE of hard disk file of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -3730,7 +3730,7 @@
       </item>
       <item>
         <fname>ds_lgethostfile</fname>
-        <fpage>./ds_lgethostfile.htm</fpage>
+        <fpage>./ds_lgethostfile.xml</fpage>
         <explanation>LIST-GET of host file of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -3781,7 +3781,7 @@
       </item>
       <item>
         <fname>ds_rdm198hdddir</fname>
-        <fpage>./ds_rdm198hdddir.htm</fpage>
+        <fpage>./ds_rdm198hdddir.xml</fpage>
         <explanation>Get directory of DATA SERVER for M198 operation</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -3832,7 +3832,7 @@
       </item>
       <item>
         <fname>ds_wrm198hdddir</fname>
-        <fpage>./ds_wrm198hdddir.htm</fpage>
+        <fpage>./ds_wrm198hdddir.xml</fpage>
         <explanation>Set directory of DATA SERVER for M198 operation</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -3883,7 +3883,7 @@
       </item>
       <item>
         <fname>ds_rdm198host</fname>
-        <fpage>./ds_rdm198host.htm</fpage>
+        <fpage>./ds_rdm198host.xml</fpage>
         <explanation>Get connected host of DATA SERVER for M198 operation</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -3934,7 +3934,7 @@
       </item>
       <item>
         <fname>ds_wrm198host</fname>
-        <fpage>./ds_wrm198host.htm</fpage>
+        <fpage>./ds_wrm198host.xml</fpage>
         <explanation>Set connects host of DATA SERVER for M198 operation</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -3985,7 +3985,7 @@
       </item>
       <item>
         <fname>ds_searchword</fname>
-        <fpage>./ds_searchword.htm</fpage>
+        <fpage>./ds_searchword.xml</fpage>
         <explanation>Search string in NC program in DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -4036,7 +4036,7 @@
       </item>
       <item>
         <fname>ds_searchresult</fname>
-        <fpage>./ds_searchresult.htm</fpage>
+        <fpage>./ds_searchresult.xml</fpage>
         <explanation>Get result of string search in NC program in DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -4087,7 +4087,7 @@
       </item>
       <item>
         <fname>ds_dwnstart</fname>
-        <fpage>./ds_dwnstart.htm</fpage>
+        <fpage>./ds_dwnstart.xml</fpage>
         <explanation>Start downloading to DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -4138,7 +4138,7 @@
       </item>
       <item>
         <fname>ds_download</fname>
-        <fpage>./ds_download.htm</fpage>
+        <fpage>./ds_download.xml</fpage>
         <explanation>Download to DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -4189,7 +4189,7 @@
       </item>
       <item>
         <fname>ds_dwnend</fname>
-        <fpage>./ds_dwnend.htm</fpage>
+        <fpage>./ds_dwnend.xml</fpage>
         <explanation>End of downloading to DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -4240,7 +4240,7 @@
       </item>
       <item>
         <fname>eth_rdparam</fname>
-        <fpage>./eth_rdparam.htm</fpage>
+        <fpage>./eth_rdparam.xml</fpage>
         <explanation>Get the parameter of Ethernet</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -4291,7 +4291,7 @@
       </item>
       <item>
         <fname>eth_wrparam</fname>
-        <fpage>./eth_wrparam.htm</fpage>
+        <fpage>./eth_wrparam.xml</fpage>
         <explanation>Set the parameter of Ethernet</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -4342,7 +4342,7 @@
       </item>
       <item>
         <fname>eth_rddsmode</fname>
-        <fpage>./eth_rddsmode.htm</fpage>
+        <fpage>./eth_rddsmode.xml</fpage>
         <explanation>Get the mode of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -4393,7 +4393,7 @@
       </item>
       <item>
         <fname>eth_wrdsmode</fname>
-        <fpage>./eth_wrdsmode.htm</fpage>
+        <fpage>./eth_wrdsmode.xml</fpage>
         <explanation>Set the mode of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -4444,7 +4444,7 @@
       </item>
       <item>
         <fname>eth_rddsstate</fname>
-        <fpage>./eth_rddsstate.htm</fpage>
+        <fpage>./eth_rddsstate.xml</fpage>
         <explanation>Get the maintenance information on DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -4495,7 +4495,7 @@
       </item>
       <item>
         <fname>eth_rdhost</fname>
-        <fpage>./eth_rdhost.htm</fpage>
+        <fpage>./eth_rdhost.xml</fpage>
         <explanation>Get the connection host number of Ethernet</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -4546,7 +4546,7 @@
       </item>
       <item>
         <fname>eth_wrhost</fname>
-        <fpage>./eth_wrhost.htm</fpage>
+        <fpage>./eth_wrhost.xml</fpage>
         <explanation>Set the connection host number of Ethernet</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -4597,7 +4597,7 @@
       </item>
       <item>
         <fname>eth_rddsm198dir</fname>
-        <fpage>./eth_rddsm198dir.htm</fpage>
+        <fpage>./eth_rddsm198dir.xml</fpage>
         <explanation>Get the folder for M198 operation of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -4648,7 +4648,7 @@
       </item>
       <item>
         <fname>eth_wrdsm198dir</fname>
-        <fpage>./eth_wrdsm198dir.htm</fpage>
+        <fpage>./eth_wrdsm198dir.xml</fpage>
         <explanation>Set the folder for M198 operation of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -4699,7 +4699,7 @@
       </item>
       <item>
         <fname>eth_rddsm198host</fname>
-        <fpage>./eth_rddsm198host.htm</fpage>
+        <fpage>./eth_rddsm198host.xml</fpage>
         <explanation>Get the host for M198 operation of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -4750,7 +4750,7 @@
       </item>
       <item>
         <fname>eth_wrdsm198host</fname>
-        <fpage>./eth_wrdsm198host.htm</fpage>
+        <fpage>./eth_wrdsm198host.xml</fpage>
         <explanation>Set the host for M198 operation of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -4801,7 +4801,7 @@
       </item>
       <item>
         <fname>eth_rddsformat</fname>
-        <fpage>./eth_rddsformat.htm</fpage>
+        <fpage>./eth_rddsformat.xml</fpage>
         <explanation>Get the format form of the ATA card of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -4852,7 +4852,7 @@
       </item>
       <item>
         <fname>eth_dsformat</fname>
-        <fpage>./eth_dsformat.htm</fpage>
+        <fpage>./eth_dsformat.xml</fpage>
         <explanation>Format of the ATA card of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -4903,7 +4903,7 @@
       </item>
       <item>
         <fname>eth_dschkdsk</fname>
-        <fpage>./eth_dschkdsk.htm</fpage>
+        <fpage>./eth_dschkdsk.xml</fpage>
         <explanation>Check disk of the ATA card of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -4954,7 +4954,7 @@
       </item>
       <item>
         <fname>cnc_rddsdncfile</fname>
-        <fpage>./cnc_rddsdncfile.htm</fpage>
+        <fpage>./cnc_rddsdncfile.xml</fpage>
         <explanation>Get file for DNC operation</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -5005,7 +5005,7 @@
       </item>
       <item>
         <fname>cnc_wrdsdncfile</fname>
-        <fpage>./cnc_wrdsdncfile.htm</fpage>
+        <fpage>./cnc_wrdsdncfile.xml</fpage>
         <explanation>Set file for DNC operation</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -5056,7 +5056,7 @@
       </item>
       <item>
         <fname>cnc_rddsdevinfo</fname>
-        <fpage>./cnc_rddsdevinfo.htm</fpage>
+        <fpage>./cnc_rddsdevinfo.xml</fpage>
         <explanation>Get memory device information on DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -5107,7 +5107,7 @@
       </item>
       <item>
         <fname>cnc_rddsdir</fname>
-        <fpage>./cnc_rddsdir.htm</fpage>
+        <fpage>./cnc_rddsdir.xml</fpage>
         <explanation>Get current folder</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -5158,7 +5158,7 @@
       </item>
       <item>
         <fname>cnc_rddsfile</fname>
-        <fpage>./cnc_rddsfile.htm</fpage>
+        <fpage>./cnc_rddsfile.xml</fpage>
         <explanation>Get file list information</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -5209,7 +5209,7 @@
       </item>
       <item>
         <fname>cnc_dsmkdir</fname>
-        <fpage>./cnc_dsmkdir.htm</fpage>
+        <fpage>./cnc_dsmkdir.xml</fpage>
         <explanation>Make folder</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -5260,7 +5260,7 @@
       </item>
       <item>
         <fname>cnc_dsrmdir</fname>
-        <fpage>./cnc_dsrmdir.htm</fpage>
+        <fpage>./cnc_dsrmdir.xml</fpage>
         <explanation>Delete folder</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -5311,7 +5311,7 @@
       </item>
       <item>
         <fname>cnc_dsremove</fname>
-        <fpage>./cnc_dsremove.htm</fpage>
+        <fpage>./cnc_dsremove.xml</fpage>
         <explanation>Delete file</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -5362,7 +5362,7 @@
       </item>
       <item>
         <fname>cnc_dschdir</fname>
-        <fpage>./cnc_dschdir.htm</fpage>
+        <fpage>./cnc_dschdir.xml</fpage>
         <explanation>Change current foledr</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -5413,7 +5413,7 @@
       </item>
       <item>
         <fname>cnc_dsrename</fname>
-        <fpage>./cnc_dsrename.htm</fpage>
+        <fpage>./cnc_dsrename.xml</fpage>
         <explanation>Change folder name or file name</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -5464,7 +5464,7 @@
       </item>
       <item>
         <fname>cnc_dscopyfile</fname>
-        <fpage>./cnc_dscopyfile.htm</fpage>
+        <fpage>./cnc_dscopyfile.xml</fpage>
         <explanation>Copy file of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -5515,7 +5515,7 @@
       </item>
       <item>
         <fname>cnc_dsget_req</fname>
-        <fpage>./cnc_dsget_req.htm</fpage>
+        <fpage>./cnc_dsget_req.xml</fpage>
         <explanation>Start GET of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -5566,7 +5566,7 @@
       </item>
       <item>
         <fname>cnc_dsput_req</fname>
-        <fpage>./cnc_dsput_req.htm</fpage>
+        <fpage>./cnc_dsput_req.xml</fpage>
         <explanation>Start PUT of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -5617,7 +5617,7 @@
       </item>
       <item>
         <fname>cnc_dsmget_req</fname>
-        <fpage>./cnc_dsmget_req.htm</fpage>
+        <fpage>./cnc_dsmget_req.xml</fpage>
         <explanation>Start MGET of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -5668,7 +5668,7 @@
       </item>
       <item>
         <fname>cnc_dsmput_req</fname>
-        <fpage>./cnc_dsmput_req.htm</fpage>
+        <fpage>./cnc_dsmput_req.xml</fpage>
         <explanation>Start MPUT of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -5719,7 +5719,7 @@
       </item>
       <item>
         <fname>cnc_dslistget_req</fname>
-        <fpage>./cnc_dslistget_req.htm</fpage>
+        <fpage>./cnc_dslistget_req.xml</fpage>
         <explanation>Start List-GET of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -5770,7 +5770,7 @@
       </item>
       <item>
         <fname>cnc_dslistput_req</fname>
-        <fpage>./cnc_dslistput_req.htm</fpage>
+        <fpage>./cnc_dslistput_req.xml</fpage>
         <explanation>Start List-PUT of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -5821,7 +5821,7 @@
       </item>
       <item>
         <fname>cnc_dslistdel_req</fname>
-        <fpage>./cnc_dslistdel_req.htm</fpage>
+        <fpage>./cnc_dslistdel_req.xml</fpage>
         <explanation>Start List-DEL of DATA SERVER function</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -5872,7 +5872,7 @@
       </item>
       <item>
         <fname>cnc_dsftpstat</fname>
-        <fpage>./cnc_dsftpstat.htm</fpage>
+        <fpage>./cnc_dsftpstat.xml</fpage>
         <explanation>Read file transfer result of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -5923,7 +5923,7 @@
       </item>
       <item>
         <fname>cnc_dsftpcancel</fname>
-        <fpage>./cnc_dsftpcancel.htm</fpage>
+        <fpage>./cnc_dsftpcancel.xml</fpage>
         <explanation>Stop file transfer of DATA SERVER</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>

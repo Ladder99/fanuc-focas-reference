@@ -7,7 +7,7 @@
       <tag>Motor</tag>
       <item>
         <fname>cnc_rdloopgain</fname>
-        <fpage>./cnc_rdloopgain.htm</fpage>
+        <fpage>./cnc_rdloopgain.xml</fpage>
         <explanation>Read loop gain for servo adjustment</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -58,7 +58,7 @@
       </item>
       <item>
         <fname>cnc_rdcurrent</fname>
-        <fpage>./cnc_rdcurrent.htm</fpage>
+        <fpage>./cnc_rdcurrent.xml</fpage>
         <explanation>Read real current for servo adjustment</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -109,7 +109,7 @@
       </item>
       <item>
         <fname>cnc_rdsrvspeed</fname>
-        <fpage>./cnc_rdsrvspeed.htm</fpage>
+        <fpage>./cnc_rdsrvspeed.xml</fpage>
         <explanation>Read real speed for servo adjustment</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -160,7 +160,7 @@
       </item>
       <item>
         <fname>cnc_rdnspdl</fname>
-        <fpage>./cnc_rdnspdl.htm</fpage>
+        <fpage>./cnc_rdnspdl.xml</fpage>
         <explanation>Read number of spindle</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -211,7 +211,7 @@
       </item>
       <item>
         <fname>cnc_rdopmode</fname>
-        <fpage>./cnc_rdopmode.htm</fpage>
+        <fpage>./cnc_rdopmode.xml</fpage>
         <explanation>Read operation mode for spindle setting</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -262,7 +262,7 @@
       </item>
       <item>
         <fname>cnc_rdposerrs</fname>
-        <fpage>./cnc_rdposerrs.htm</fpage>
+        <fpage>./cnc_rdposerrs.xml</fpage>
         <explanation>Read position deflection S for spindle adjustment</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -313,7 +313,7 @@
       </item>
       <item>
         <fname>cnc_rdposerrs2</fname>
-        <fpage>./cnc_rdposerrs2.htm</fpage>
+        <fpage>./cnc_rdposerrs2.xml</fpage>
         <explanation>Read position deflection S1,S2 for spindle adjustment(synchronous control mode)</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -364,7 +364,7 @@
       </item>
       <item>
         <fname>cnc_rdposerrz</fname>
-        <fpage>./cnc_rdposerrz.htm</fpage>
+        <fpage>./cnc_rdposerrz.xml</fpage>
         <explanation>Read position deflection Z of tapping axis for spindle adjustment(rigid tapping mode)</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -415,7 +415,7 @@
       </item>
       <item>
         <fname>cnc_rdsynerrsy</fname>
-        <fpage>./cnc_rdsynerrsy.htm</fpage>
+        <fpage>./cnc_rdsynerrsy.xml</fpage>
         <explanation>Read synchronous error for spindle adjustment(synchronous control mode)</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -466,7 +466,7 @@
       </item>
       <item>
         <fname>cnc_rdsynerrrg</fname>
-        <fpage>./cnc_rdsynerrrg.htm</fpage>
+        <fpage>./cnc_rdsynerrrg.xml</fpage>
         <explanation>Read synchronous error for spindle adjustment(rigid tapping mode)</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -517,7 +517,7 @@
       </item>
       <item>
         <fname>cnc_rdspdlalm</fname>
-        <fpage>./cnc_rdspdlalm.htm</fpage>
+        <fpage>./cnc_rdspdlalm.xml</fpage>
         <explanation>Read spindle alarm for spindle monitor</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -568,7 +568,7 @@
       </item>
       <item>
         <fname>cnc_rdctrldi</fname>
-        <fpage>./cnc_rdctrldi.htm</fpage>
+        <fpage>./cnc_rdctrldi.xml</fpage>
         <explanation>Read control input signal for spindle monitor</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -619,7 +619,7 @@
       </item>
       <item>
         <fname>cnc_rdctrldo</fname>
-        <fpage>./cnc_rdctrldo.htm</fpage>
+        <fpage>./cnc_rdctrldo.xml</fpage>
         <explanation>Read control output signal for spindle monitor</explanation>
         <h0ia>O</h0ia>
         <h0ib>O</h0ib>
@@ -670,7 +670,7 @@
       </item>
       <item>
         <fname>cnc_rdservoid2</fname>
-        <fpage>./cnc_rdservoid2.htm</fpage>
+        <fpage>./cnc_rdservoid2.xml</fpage>
         <explanation>Read servo id info(2)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -721,7 +721,7 @@
       </item>
       <item>
         <fname>cnc_rdspindleid2</fname>
-        <fpage>./cnc_rdspindleid2.htm</fpage>
+        <fpage>./cnc_rdspindleid2.xml</fpage>
         <explanation>Read spindle id info(2)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -772,7 +772,7 @@
       </item>
       <item>
         <fname>cnc_rdfromservoid2</fname>
-        <fpage>./cnc_rdfromservoid2.htm</fpage>
+        <fpage>./cnc_rdfromservoid2.xml</fpage>
         <explanation>Read from servo id info(2)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -823,7 +823,7 @@
       </item>
       <item>
         <fname>cnc_rdfromspindleid2</fname>
-        <fpage>./cnc_rdfromspindleid2.htm</fpage>
+        <fpage>./cnc_rdfromspindleid2.xml</fpage>
         <explanation>Read from spindle id info(2)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -874,7 +874,7 @@
       </item>
       <item>
         <fname>cnc_wrfromservoid2</fname>
-        <fpage>./cnc_wrfromservoid2.htm</fpage>
+        <fpage>./cnc_wrfromservoid2.xml</fpage>
         <explanation>Write from servo id info(2)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -925,7 +925,7 @@
       </item>
       <item>
         <fname>cnc_wrfromspindleid2</fname>
-        <fpage>./cnc_wrfromspindleid2.htm</fpage>
+        <fpage>./cnc_wrfromspindleid2.xml</fpage>
         <explanation>Write from spindle id info(2)</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
@@ -976,7 +976,7 @@
       </item>
       <item>
         <fname>cnc_loadtorq</fname>
-        <fpage>./cnc_loadtorq.htm</fpage>
+        <fpage>./cnc_loadtorq.xml</fpage>
         <explanation>Read abnormal load torq data</explanation>
         <h0ia>X</h0ia>
         <h0ib>X</h0ib>
