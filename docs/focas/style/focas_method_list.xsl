@@ -47,7 +47,7 @@
       <td class="func">
         <a  target="_parent">
           <xsl:attribute name="href">
-            <xsl:value-of select="concat(fpage, 'l')" />
+            <xsl:value-of select="fpage" />
           </xsl:attribute>
           <xsl:value-of select="fname"/>
         </a>
