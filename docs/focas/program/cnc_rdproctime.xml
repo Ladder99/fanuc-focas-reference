@@ -229,7 +229,7 @@ typedef struct odbptime {
     <reference>
         <item>
             <name>cnc_rdprgdirtime</name>
-            <file>Program/cnc_rdprgdirtime.htm</file>
+            <file>../program/cnc_rdprgdirtime.xml</file>
         </item>
     </reference>
 

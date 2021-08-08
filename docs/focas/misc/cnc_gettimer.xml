@@ -419,7 +419,7 @@ typedef struct iodbtimer {
     <reference>
         <item>
             <name>cnc_settimer</name>
-            <file>Misc/cnc_settimer.htm</file>
+            <file>../misc/cnc_settimer.xml</file>
         </item>
     </reference>
 

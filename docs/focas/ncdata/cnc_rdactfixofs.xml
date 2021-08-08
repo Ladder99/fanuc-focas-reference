@@ -281,11 +281,11 @@ typedef struct  iodbzofs {
     <reference>
         <item>
             <name>cnc_rdfixofs</name>
-            <file>ncdata/cnc_rdfixofs.htm</file>
+            <file>../ncdata/cnc_rdfixofs.xml</file>
         </item>
         <item>
             <name>cnc_wrfixofs</name>
-            <file>ncdata/cnc_wrfixofs.htm</file>
+            <file>../ncdata/cnc_wrfixofs.xml</file>
         </item>
     </reference>
 

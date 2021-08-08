@@ -244,11 +244,11 @@
     <reference>
         <item>
             <name>cnc_vrfstart4</name>
-            <file>Program/cnc_vrfstart4.htm</file>
+            <file>../program/cnc_vrfstart4.xml</file>
         </item>
         <item>
             <name>cnc_verify4</name>
-            <file>Program/cnc_verify4.htm</file>
+            <file>../program/cnc_verify4.xml</file>
         </item>
     </reference>
 

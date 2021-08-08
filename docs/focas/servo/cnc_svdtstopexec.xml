@@ -203,27 +203,27 @@
     <reference>
         <item>
             <name>cnc_svdtstartrd</name>
-            <file>Servo/cnc_svdtstartrd.htm</file>
+            <file>../servo/cnc_svdtstartrd.xml</file>
         </item>
         <item>
             <name>cnc_svdtrddata</name>
-            <file>Servo/cnc_svdtrddata.htm</file>
+            <file>../servo/cnc_svdtrddata.xml</file>
         </item>
         <item>
             <name>cnc_svdtendrd</name>
-            <file>Servo/cnc_svdtendrd.htm</file>
+            <file>../servo/cnc_svdtendrd.xml</file>
         </item>
         <item>
             <name>cnc_svdtstartwr</name>
-            <file>Servo/cnc_svdtstartwr.htm</file>
+            <file>../servo/cnc_svdtstartwr.xml</file>
         </item>
         <item>
             <name>cnc_svdtwrdata</name>
-            <file>Servo/cnc_svdtwrdata.htm</file>
+            <file>../servo/cnc_svdtwrdata.xml</file>
         </item>
         <item>
             <name>cnc_svdtendwr</name>
-            <file>Servo/cnc_svdtendwr.htm</file>
+            <file>../servo/cnc_svdtendwr.xml</file>
         </item>
     </reference>
 

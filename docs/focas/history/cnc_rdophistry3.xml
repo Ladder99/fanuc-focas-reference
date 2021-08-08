@@ -467,23 +467,23 @@ typedef struct odbophis3 {
     <reference>
         <item>
             <name>cnc_stopophis</name>
-            <file>History/cnc_stopophis.htm</file>
+            <file>../history/cnc_stopophis.xml</file>
         </item>
         <item>
             <name>cnc_startophis</name>
-            <file>History/cnc_startophis.htm</file>
+            <file>../history/cnc_startophis.xml</file>
         </item>
         <item>
             <name>cnc_rdophisno</name>
-            <file>History/cnc_rdophisno.htm</file>
+            <file>../history/cnc_rdophisno.xml</file>
         </item>
         <item>
             <name>cnc_rdophistry</name>
-            <file>History/cnc_rdophistry.htm</file>
+            <file>../history/cnc_rdophistry.xml</file>
         </item>
         <item>
             <name>cnc_clearophis</name>
-            <file>History/cnc_clearophis.htm</file>
+            <file>../history/cnc_clearophis.xml</file>
         </item>
     </reference>
 

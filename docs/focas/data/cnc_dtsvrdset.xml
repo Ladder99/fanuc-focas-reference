@@ -239,7 +239,7 @@ No option
     <reference>
         <item>
             <name>cnc_dtsvwrset</name>
-            <file>Data/cnc_dtsvwrset.htm</file>
+            <file>../data/cnc_dtsvwrset.xml</file>
         </item>
     </reference>
 

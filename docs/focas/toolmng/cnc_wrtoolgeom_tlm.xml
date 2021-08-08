@@ -288,7 +288,7 @@ typedef struct  tlmngtlgeom {
     <reference>
         <item>
             <name>cnc_rdtoolgeom_tlm</name>
-            <file>ToolMng/cnc_rdtoolgeom_tlm.htm</file>
+            <file>../toolMng/cnc_rdtoolgeom_tlm.xml</file>
         </item>
     </reference>
 

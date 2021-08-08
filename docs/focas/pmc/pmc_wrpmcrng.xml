@@ -439,11 +439,11 @@ typedef struct  iodbpmc {
     <reference>
         <item>
             <name>pmc_rdpmcrng</name>
-            <file>Pmc/pmc_rdpmcrng.htm</file>
+            <file>../pmc/pmc_rdpmcrng.xml</file>
         </item>
         <item>
             <name>pmc_rdpmcinfo</name>
-            <file>Pmc/pmc_rdpmcinfo.htm</file>
+            <file>../pmc/pmc_rdpmcinfo.xml</file>
         </item>
     </reference>
 

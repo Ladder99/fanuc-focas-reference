@@ -199,7 +199,7 @@
     <reference>
         <item>
             <name>ds_rdhostno</name>
-            <file>Data/ds_rdhostno.htm</file>
+            <file>../data/ds_rdhostno.xml</file>
         </item>
     </reference>
 

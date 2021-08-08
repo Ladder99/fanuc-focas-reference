@@ -319,15 +319,15 @@
     <reference>
         <item>
             <name>cnc_dwnstart</name>
-            <file>Program/cnc_dwnstart.htm</file>
+            <file>../program/cnc_dwnstart.xml</file>
         </item>
         <item>
             <name>cnc_cdownload</name>
-            <file>Program/cnc_cdownload.htm</file>
+            <file>../program/cnc_cdownload.xml</file>
         </item>
         <item>
             <name>cnc_dwnend</name>
-            <file>Program/cnc_dwnend.htm</file>
+            <file>../program/cnc_dwnend.xml</file>
         </item>
     </reference>
 

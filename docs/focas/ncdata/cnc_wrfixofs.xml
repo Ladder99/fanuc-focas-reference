@@ -309,11 +309,11 @@ typedef struct  iodbzor {
     <reference>
         <item>
             <name>cnc_rdactfixofs</name>
-            <file>ncdata/cnc_rdactfixofs.htm</file>
+            <file>../ncdata/cnc_rdactfixofs.xml</file>
         </item>
         <item>
             <name>cnc_rdfixofs</name>
-            <file>ncdata/cnc_rdfixofs.htm</file>
+            <file>../ncdata/cnc_rdfixofs.xml</file>
         </item>
     </reference>
 

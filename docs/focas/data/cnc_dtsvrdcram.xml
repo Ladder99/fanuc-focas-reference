@@ -205,7 +205,7 @@
     <reference>
         <item>
             <name>cnc_dtsvsavecram</name>
-            <file>Data/cnc_dtsvsavecram.htm</file>
+            <file>../data/cnc_dtsvsavecram.xml</file>
         </item>
     </reference>
 

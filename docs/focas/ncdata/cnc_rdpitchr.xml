@@ -298,11 +298,11 @@ typedef struct  iodbpi {
     <reference>
         <item>
             <name>cnc_wrpitchr</name>
-            <file>ncdata/cnc_wrpitchr.htm</file>
+            <file>../ncdata/cnc_wrpitchr.xml</file>
         </item>
         <item>
             <name>cnc_rdpitchinfo</name>
-            <file>ncdata/cnc_rdpitchinfo.htm</file>
+            <file>../ncdata/cnc_rdpitchinfo.xml</file>
         </item>
     </reference>
 

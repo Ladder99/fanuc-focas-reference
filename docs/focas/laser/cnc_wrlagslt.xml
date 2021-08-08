@@ -277,7 +277,7 @@ typedef struct iodblagsl {
     <reference>
         <item>
             <name>cnc_rdlagslt</name>
-            <file>Laser/cnc_rdlagslt.htm</file>
+            <file>../laser/cnc_rdlagslt.xml</file>
         </item>
     </reference>
 

@@ -189,7 +189,7 @@
     <reference>
         <item>
             <name>cnc_wrldsplc</name>
-            <file>Laser/cnc_wrldsplc.htm</file>
+            <file>../laser/cnc_wrldsplc.xml</file>
         </item>
     </reference>
 

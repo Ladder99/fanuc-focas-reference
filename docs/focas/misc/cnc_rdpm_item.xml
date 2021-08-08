@@ -274,7 +274,7 @@ typedef struct tagIODBPMAINTE {
     <reference>
         <item>
             <name>cnc_wrpm_item</name>
-            <file>misc/cnc_wrpm_item.htm</file>
+            <file>../misc/cnc_wrpm_item.xml</file>
         </item>
     </reference>
 

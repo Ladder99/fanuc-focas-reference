@@ -264,15 +264,15 @@ typedef struct _OUT_PBMNODEINFO{
     <reference>
         <item>
             <name>pbm_rd_nodetable</name>
-            <file>Profibus/pbm_rd_nodetable.htm</file>
+            <file>../profibus/pbm_rd_nodetable.xml</file>
         </item>
         <item>
             <name>pbm_rd_slot</name>
-            <file>Profibus/pbm_rd_slot.htm</file>
+            <file>../profibus/pbm_rd_slot.xml</file>
         </item>
         <item>
             <name>pbm_rd_slotinfo</name>
-            <file>Profibus/pbm_rd_slotinfo.htm</file>
+            <file>../profibus/pbm_rd_slotinfo.xml</file>
         </item>
     </reference>
 

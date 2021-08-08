@@ -246,7 +246,7 @@ No option
     <reference>
         <item>
             <name>cnc_dtsvrdset</name>
-            <file>Data/cnc_dtsvrdset.htm</file>
+            <file>../data/cnc_dtsvrdset.xml</file>
         </item>
     </reference>
 

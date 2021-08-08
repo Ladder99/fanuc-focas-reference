@@ -230,7 +230,7 @@ typedef struct iodblegpr {
     <reference>
         <item>
             <name>cnc_wrledgprc</name>
-            <file>Laser/cnc_wrledgprc.htm</file>
+            <file>../laser/cnc_wrledgprc.xml</file>
         </item>
     </reference>
 

@@ -180,7 +180,7 @@ name is not terminated with NULL character.
     <reference>
         <item>
             <name>cnc_rddncfname</name>
-            <file>Data/cnc_rddncfname.htm</file>
+            <file>../data/cnc_rddncfname.xml</file>
         </item>
     </reference>
 

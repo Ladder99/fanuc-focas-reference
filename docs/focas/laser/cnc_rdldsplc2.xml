@@ -255,7 +255,7 @@ typedef struct iodbdsplc {
     <reference>
         <item>
             <name>cnc_wrldsplc2</name>
-            <file>Laser/cnc_wrldsplc2.htm</file>
+            <file>../laser/cnc_wrldsplc2.xml</file>
         </item>
     </reference>
 

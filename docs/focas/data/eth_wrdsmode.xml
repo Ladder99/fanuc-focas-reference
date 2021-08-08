@@ -257,7 +257,7 @@
     <reference>
         <item>
             <name>eth_rddsmode</name>
-            <file>Data/eth_rddsmode.htm</file>
+            <file>../data/eth_rddsmode.xml</file>
         </item>
     </reference>
 

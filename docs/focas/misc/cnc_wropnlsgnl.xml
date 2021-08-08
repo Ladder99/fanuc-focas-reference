@@ -468,23 +468,23 @@ The software operator's panel function and the extended driver/library function 
     <reference>
         <item>
             <name>cnc_rdopnlsgnl</name>
-            <file>misc/cnc_rdopnlsgnl.htm</file>
+            <file>../misc/cnc_rdopnlsgnl.xml</file>
         </item>
         <item>
             <name>cnc_rdopnlgnrl</name>
-            <file>misc/cnc_rdopnlgnrl.htm</file>
+            <file>../misc/cnc_rdopnlgnrl.xml</file>
         </item>
         <item>
             <name>cnc_wropnlgnrl</name>
-            <file>misc/cnc_wropnlgnrl.htm</file>
+            <file>../misc/cnc_wropnlgnrl.xml</file>
         </item>
         <item>
             <name>cnc_rdopnlgsname</name>
-            <file>misc/cnc_rdopnlgsname.htm</file>
+            <file>../misc/cnc_rdopnlgsname.xml</file>
         </item>
         <item>
             <name>cnc_wropnlgsname</name>
-            <file>misc/cnc_wropnlgsname.htm</file>
+            <file>../misc/cnc_wropnlgsname.xml</file>
         </item>
     </reference>
 

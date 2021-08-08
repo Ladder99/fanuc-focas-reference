@@ -224,11 +224,11 @@
     <reference>
         <item>
             <name>cnc_dslistget_req</name>
-            <file>Data/cnc_dslistget_req.htm</file>
+            <file>../data/cnc_dslistget_req.xml</file>
         </item>
         <item>
             <name>cnc_dslistput_req</name>
-            <file>Data/cnc_dslistput_req.htm</file>
+            <file>../data/cnc_dslistput_req.xml</file>
         </item>
     </reference>
 

@@ -193,7 +193,7 @@
     <reference>
         <item>
             <name>cnc_saveprog_end</name>
-            <file>Program/cnc_saveprog_end.htm</file>
+            <file>../program/cnc_saveprog_end.xml</file>
         </item>
     </reference>
 

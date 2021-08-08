@@ -260,7 +260,7 @@
     <reference>
         <item>
             <name>eth_rddsm198host</name>
-            <file>Data/eth_rddsm198host.htm</file>
+            <file>../data/eth_rddsm198host.xml</file>
         </item>
     </reference>
 

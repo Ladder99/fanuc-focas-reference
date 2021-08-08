@@ -234,11 +234,11 @@
     <reference>
         <item>
             <name>ds_dwnstart</name>
-            <file>Data/ds_dwnstart.htm</file>
+            <file>../data/ds_dwnstart.xml</file>
         </item>
         <item>
             <name>ds_dwnend</name>
-            <file>Data/ds_dwnend.htm</file>
+            <file>../data/ds_dwnend.xml</file>
         </item>
     </reference>
 

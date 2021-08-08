@@ -196,15 +196,15 @@
     <reference>
         <item>
             <name>pmc_rdcntldata</name>
-            <file>Pmc/pmc_rdcntldata.htm</file>
+            <file>../pmc/pmc_rdcntldata.xml</file>
         </item>
         <item>
             <name>pmc_wrcntldata</name>
-            <file>Pmc/pmc_wrcntldata.htm</file>
+            <file>../pmc/pmc_wrcntldata.xml</file>
         </item>
         <item>
             <name>pmc_wrcntlgrp</name>
-            <file>Pmc/pmc_wrcntlgrp.htm</file>
+            <file>../pmc/pmc_wrcntlgrp.xml</file>
         </item>
     </reference>
 

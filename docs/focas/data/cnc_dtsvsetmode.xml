@@ -221,7 +221,7 @@ CNC parameter error(only Series 16/18, 16i/18i/21i)
     <reference>
         <item>
             <name>cnc_dtsvgetmode</name>
-            <file>Data/cnc_dtsvgetmode.htm</file>
+            <file>../data/cnc_dtsvgetmode.xml</file>
         </item>
     </reference>
 

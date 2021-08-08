@@ -201,7 +201,7 @@
     <reference>
         <item>
             <name>cnc_rdrcvmsg</name>
-            <file>Data/cnc_rdrcvmsg.htm</file>
+            <file>../data/cnc_rdrcvmsg.xml</file>
         </item>
     </reference>
 

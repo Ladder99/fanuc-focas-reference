@@ -275,15 +275,15 @@
     <reference>
         <item>
             <name>cnc_dwnstart</name>
-            <file>Program/cnc_dwnstart.htm</file>
+            <file>../program/cnc_dwnstart.xml</file>
         </item>
         <item>
             <name>cnc_download</name>
-            <file>Program/cnc_download.htm</file>
+            <file>../program/cnc_download.xml</file>
         </item>
         <item>
             <name>cnc_dwnend</name>
-            <file>Program/cnc_dwnend.htm</file>
+            <file>../program/cnc_dwnend.xml</file>
         </item>
     </reference>
 

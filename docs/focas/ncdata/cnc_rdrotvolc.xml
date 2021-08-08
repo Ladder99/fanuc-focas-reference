@@ -259,7 +259,7 @@ typedef struct iodbrotvolc {
     <reference>
         <item>
             <name>cnc_wrrotvolc</name>
-            <file>ncdata/cnc_wrrotvolc.htm</file>
+            <file>../ncdata/cnc_wrrotvolc.xml</file>
         </item>
     </reference>
 

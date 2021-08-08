@@ -353,15 +353,15 @@
     <reference>
         <item>
             <name>cnc_dncstart2</name>
-            <file>Program/cnc_dncstart2.htm</file>
+            <file>../program/cnc_dncstart2.xml</file>
         </item>
         <item>
             <name>cnc_dnc2</name>
-            <file>Program/cnc_dnc2.htm</file>
+            <file>../program/cnc_dnc2.xml</file>
         </item>
         <item>
             <name>cnc_rddncdgndt</name>
-            <file>Program/cnc_rddncdgndt.htm</file>
+            <file>../program/cnc_rddncdgndt.xml</file>
         </item>
     </reference>
 

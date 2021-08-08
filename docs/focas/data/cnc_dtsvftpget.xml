@@ -254,7 +254,7 @@ No option
     <reference>
         <item>
             <name>cnc_dtsvftpput</name>
-            <file>Data/cnc_dtsvftpput.htm</file>
+            <file>../data/cnc_dtsvftpput.xml</file>
         </item>
     </reference>
 

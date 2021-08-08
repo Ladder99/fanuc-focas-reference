@@ -449,7 +449,7 @@ This function check the validity of date format (IODBTIMER1) strictly. When you 
     <reference>
         <item>
             <name>cnc_gettimer</name>
-            <file>Misc/cnc_gettimer.htm</file>
+            <file>../misc/cnc_gettimer.xml</file>
         </item>
     </reference>
 

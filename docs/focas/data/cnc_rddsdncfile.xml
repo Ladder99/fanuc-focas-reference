@@ -233,7 +233,7 @@
     <reference>
         <item>
             <name>cnc_wrdsdncfile</name>
-            <file>Data/cnc_wrdsdncfile.htm</file>
+            <file>../data/cnc_wrdsdncfile.xml</file>
         </item>
     </reference>
 

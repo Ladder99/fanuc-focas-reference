@@ -197,7 +197,7 @@
     <reference>
         <item>
             <name>ds_wrdnchddfile</name>
-            <file>Data/ds_wrdnchddfile.htm</file>
+            <file>../data/ds_wrdnchddfile.xml</file>
         </item>
     </reference>
 

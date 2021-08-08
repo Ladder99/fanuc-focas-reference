@@ -236,15 +236,15 @@
     <reference>
         <item>
             <name>cnc_dncstart</name>
-            <file>Program/cnc_dncstart.htm</file>
+            <file>../program/cnc_dncstart.xml</file>
         </item>
         <item>
             <name>cnc_dnc</name>
-            <file>Program/cnc_dnc.htm</file>
+            <file>../program/cnc_dnc.xml</file>
         </item>
         <item>
             <name>cnc_dncend</name>
-            <file>Program/cnc_dncend.htm</file>
+            <file>../program/cnc_dncend.xml</file>
         </item>
     </reference>
 

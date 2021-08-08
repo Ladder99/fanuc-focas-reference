@@ -240,23 +240,23 @@
     <reference>
         <item>
             <name>cnc_startomhis</name>
-            <file>History/cnc_startomhis.htm</file>
+            <file>../history/cnc_startomhis.xml</file>
         </item>
         <item class="xis">
             <name>cnc_rdomhisinfo</name>
-            <file>History/cnc_rdomhisinfo.htm</file>
+            <file>../history/cnc_rdomhisinfo.xml</file>
         </item>
         <item class="xis">
             <name>cnc_rdophistry</name>
-            <file>History/cnc_rdophistry.htm</file>
+            <file>../history/cnc_rdophistry.xml</file>
         </item>
         <item class="xis">
             <name>cnc_rdomhistry</name>
-            <file>History/cnc_rdomhistry.htm</file>
+            <file>../history/cnc_rdomhistry.xml</file>
         </item>
         <item>
             <name>cnc_clearomhis</name>
-            <file>History/cnc_clearomhis.htm</file>
+            <file>../history/cnc_clearomhis.xml</file>
         </item>
     </reference>
 

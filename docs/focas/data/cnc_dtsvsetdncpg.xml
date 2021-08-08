@@ -209,7 +209,7 @@ No option
     <reference>
         <item>
             <name>cnc_dtsvgetdncpg</name>
-            <file>Data/cnc_dtsvgetdncpg.htm</file>
+            <file>../data/cnc_dtsvgetdncpg.xml</file>
         </item>
     </reference>
 

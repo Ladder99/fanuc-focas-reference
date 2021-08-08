@@ -260,7 +260,7 @@
     <reference>
         <item>
             <name>cnc_rdmovrlap</name>
-            <file>position/cnc_rdmovrlap.htm</file>
+            <file>../position/cnc_rdmovrlap.xml</file>
         </item>
     </reference>
 

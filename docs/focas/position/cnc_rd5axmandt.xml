@@ -264,11 +264,11 @@ typedef struct odb5axman {
     <reference>
         <item>
             <name>cnc_rd5axovrlap</name>
-            <file>position/cnc_rd5axovrlap.htm</file>
+            <file>../position/cnc_rd5axovrlap.xml</file>
         </item>
         <item>
             <name>cnc_clr5axpls</name>
-            <file>position/cnc_clr5axpls.htm</file>
+            <file>../position/cnc_clr5axpls.xml</file>
         </item>
     </reference>
 

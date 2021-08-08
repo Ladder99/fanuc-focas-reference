@@ -286,7 +286,7 @@ Specify the address of the variable which is set the maximum path number.
     <reference>
         <item>
             <name>cnc_setpath</name>
-            <file>misc/cnc_setpath.htm</file>
+            <file>../misc/cnc_setpath.xml</file>
         </item>
     </reference>
 

@@ -257,11 +257,11 @@ Maximum data length which can be write at a time is the size acquired in the <a 
     <reference>
         <item>
             <name>cnc_rdcexesram</name>
-            <file>Misc/cnc_rdcexesram.htm</file>
+            <file>../misc/cnc_rdcexesram.xml</file>
         </item>
         <item>
             <name>cnc_cexesramsize</name>
-            <file>Misc/cnc_cexesramsize.htm</file>
+            <file>../misc/cnc_cexesramsize.xml</file>
         </item>
     </reference>
 

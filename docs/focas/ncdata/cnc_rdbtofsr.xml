@@ -341,11 +341,11 @@ typedef struct iodbbto {
     <reference>
         <item>
             <name>cnc_wrbtofsr</name>
-            <file>ncdata/cnc_wrbtofsr.htm</file>
+            <file>../ncdata/cnc_wrbtofsr.xml</file>
         </item>
         <item>
             <name>cnc_rdbtofsinfo</name>
-            <file>ncdata/cnc_rdbtofsinfo.htm</file>
+            <file>../ncdata/cnc_rdbtofsinfo.xml</file>
         </item>
     </reference>
 

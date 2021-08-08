@@ -198,19 +198,19 @@ Please refer to <a href=".././Unsolic.xml" target="_parent">"Unsolicited Messagi
     <reference>
         <item>
             <name>cnc_wrunsolicprm</name>
-            <file>Unsolic/cnc_wrunsolicprm.htm</file>
+            <file>../unsolic/cnc_wrunsolicprm.xml</file>
         </item>
         <item>
             <name>cnc_rdunsolicprm</name>
-            <file>Unsolic/cnc_rdunsolicprm.htm</file>
+            <file>../unsolic/cnc_rdunsolicprm.xml</file>
         </item>
         <item>
             <name>cnc_unsolicstart</name>
-            <file>Unsolic/cnc_unsolicstart.htm</file>
+            <file>../unsolic/cnc_unsolicstart.xml</file>
         </item>
         <item>
             <name>cnc_rdunsolicmsg</name>
-            <file>Unsolic/cnc_rdunsolicmsg.htm</file>
+            <file>../unsolic/cnc_rdunsolicmsg.xml</file>
         </item>
     </reference>
 

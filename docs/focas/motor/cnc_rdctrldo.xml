@@ -395,7 +395,7 @@ typedef struct odbspdo {
     <reference>
         <item>
             <name>cnc_rdctrldi</name>
-            <file>motor/cnc_rdctrldi.htm</file>
+            <file>../motor/cnc_rdctrldi.xml</file>
         </item>
     </reference>
 

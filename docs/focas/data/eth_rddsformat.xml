@@ -204,7 +204,7 @@
     <reference>
         <item>
             <name>eth_dsformat</name>
-            <file>Data/eth_dsformat.htm</file>
+            <file>../data/eth_dsformat.xml</file>
         </item>
     </reference>
 

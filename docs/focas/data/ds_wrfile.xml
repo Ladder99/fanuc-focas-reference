@@ -247,7 +247,7 @@
     <reference>
         <item>
             <name>ds_rdfile</name>
-            <file>Data/ds_rdfile.htm</file>
+            <file>../data/ds_rdfile.xml</file>
         </item>
     </reference>
 

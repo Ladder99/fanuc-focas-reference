@@ -234,15 +234,15 @@ No option
     <reference>
         <item>
             <name>cnc_dtsvdownload</name>
-            <file>Data/cnc_dtsvdownload.htm</file>
+            <file>../data/cnc_dtsvdownload.xml</file>
         </item>
         <item>
             <name>cnc_dtsvupload</name>
-            <file>Data/cnc_dtsvupload.htm</file>
+            <file>../data/cnc_dtsvupload.xml</file>
         </item>
         <item>
             <name>cnc_dtsvcnclupdn</name>
-            <file>Data/cnc_dtsvcnclupdn.htm</file>
+            <file>../data/cnc_dtsvcnclupdn.xml</file>
         </item>
     </reference>
 

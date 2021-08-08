@@ -262,11 +262,11 @@ typedef struct odbaxis {
     <reference>
         <item>
             <name>cnc_rd5axmandt</name>
-            <file>position/cnc_rd5axmandt.htm</file>
+            <file>../position/cnc_rd5axmandt.xml</file>
         </item>
         <item>
             <name>cnc_clr5axpls</name>
-            <file>position/cnc_clr5axpls.htm</file>
+            <file>../position/cnc_clr5axpls.xml</file>
         </item>
     </reference>
 

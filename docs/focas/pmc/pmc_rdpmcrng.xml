@@ -2427,11 +2427,11 @@ typedef struct  iodbpmc {
     <reference>
         <item>
             <name>pmc_wrpmcrng</name>>
-            <file>Pmc/pmc_wrpmcrng.htm</file>
+            <file>../pmc/pmc_wrpmcrng.xml</file>
         </item>
         <item>
             <name>pmc_rdpmcinfo</name>
-            <file>Pmc/pmc_rdpmcinfo.htm</file>
+            <file>../pmc/pmc_rdpmcinfo.xml</file>
         </item>
     </reference>
 

@@ -523,7 +523,7 @@ typedef struct odbst2 {
     <reference>
         <item>
             <name>cnc_statinfo</name>
-            <file>Misc/cnc_statinfo.htm</file>
+            <file>../misc/cnc_statinfo.xml</file>
         </item>
     </reference>
 

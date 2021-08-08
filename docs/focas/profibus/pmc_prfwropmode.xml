@@ -220,7 +220,7 @@
     <reference>
         <item>
             <name>pmc_prfrdopmode</name>
-            <file>Profibus/pmc_prfrdopmode.htm</file>
+            <file>../profibus/pmc_prfrdopmode.xml</file>
         </item>
     </reference>
 

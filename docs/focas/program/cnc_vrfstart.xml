@@ -297,15 +297,15 @@
     <reference>
         <item>
             <name>cnc_verify</name>
-            <file>Program/cnc_verify.htm</file>
+            <file>../program/cnc_verify.xml</file>
         </item>
         <item>
             <name>cnc_cverify</name>
-            <file>Program/cnc_cverify.htm</file>
+            <file>../program/cnc_cverify.xml</file>
         </item>
         <item>
             <name>cnc_vrfend</name>
-            <file>Program/cnc_vrfend.htm</file>
+            <file>../program/cnc_vrfend.xml</file>
         </item>
     </reference>
 

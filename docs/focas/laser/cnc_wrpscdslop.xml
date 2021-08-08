@@ -332,7 +332,7 @@ typedef struct iodbslop {
     <reference>
         <item>
             <name>cnc_rdpscdslop</name>
-            <file>Laser/cnc_rdpscdslop.htm</file>
+            <file>../laser/cnc_rdpscdslop.xml</file>
         </item>
     </reference>
 

@@ -258,7 +258,7 @@ typedef struct odbrstrm {
     <reference>
         <item>
             <name>cnc_rdexecmcode</name>
-            <file>ncdata/cnc_rdexecmcode.htm</file>
+            <file>../ncdata/cnc_rdexecmcode.xml</file>
         </item>
     </reference>
 

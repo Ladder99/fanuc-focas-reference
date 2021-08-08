@@ -208,7 +208,7 @@
     <reference>
         <item>
             <name>cnc_rdlpwrslt</name>
-            <file>Laser/cnc_rdlpwrslt.htm</file>
+            <file>../laser/cnc_rdlpwrslt.xml</file>
         </item>
     </reference>
 

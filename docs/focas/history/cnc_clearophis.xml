@@ -335,47 +335,47 @@
     <reference>
         <item>
             <name>cnc_stopophis</name>
-            <file>History/cnc_stopophis.htm</file>
+            <file>../history/cnc_stopophis.xml</file>
         </item>
         <item>
             <name>cnc_startophis</name>
-            <file>History/cnc_startophis.htm</file>
+            <file>../history/cnc_startophis.xml</file>
         </item>
         <item>
             <name>cnc_rdophisno</name>
-            <file>History/cnc_rdophisno.htm</file>
+            <file>../history/cnc_rdophisno.xml</file>
         </item>
         <item class="xis">
             <name>cnc_rdophistry</name>
-            <file>History/cnc_rdophistry.htm</file>
+            <file>../history/cnc_rdophistry.xml</file>
         </item>
         <item class="xis">
             <name>cnc_rdophistry2</name>
-            <file>History/cnc_rdophistry2.htm</file>
+            <file>../history/cnc_rdophistry2.xml</file>
         </item>
         <item class="xis">
             <name>cnc_rdophistry4</name>
-            <file>History/cnc_rdophistry4.htm</file>
+            <file>../history/cnc_rdophistry4.xml</file>
         </item>
         <item>
             <name>cnc_rdalmhisno</name>
-            <file>History/cnc_rdalmhisno.htm</file>
+            <file>../history/cnc_rdalmhisno.xml</file>
         </item>
         <item class="xis">
             <name>cnc_rdalmhistry</name>
-            <file>History/cnc_rdalmhistry.htm</file>
+            <file>../history/cnc_rdalmhistry.xml</file>
         </item>
         <item class="xis">
             <name>cnc_rdalmhistry2</name>
-            <file>History/cnc_rdalmhistry2.htm</file>
+            <file>../history/cnc_rdalmhistry2.xml</file>
         </item>
         <item class="xis">
             <name>cnc_rdalmhistry3</name>
-            <file>History/cnc_rdalmhistry3.htm</file>
+            <file>../history/cnc_rdalmhistry3.xml</file>
         </item>
         <item class="xis">
             <name>cnc_rdalmhistry5</name>
-            <file>History/cnc_rdalmhistry5.htm</file>
+            <file>../history/cnc_rdalmhistry5.xml</file>
         </item>
     </reference>
 

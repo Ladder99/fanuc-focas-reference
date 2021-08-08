@@ -308,11 +308,11 @@
     <reference>
         <item>
             <name>ds_download</name>
-            <file>Data/ds_download.htm</file>
+            <file>../data/ds_download.xml</file>
         </item>
         <item>
             <name>ds_dwnend</name>
-            <file>Data/ds_dwnend.htm</file>
+            <file>../data/ds_dwnend.xml</file>
         </item>
     </reference>
 

@@ -298,15 +298,15 @@ typedef struct prgdir4 {
     <reference>
         <item>
             <name>cnc_rdprogdir</name>
-            <file>Program/cnc_rdprogdir.htm</file>
+            <file>../program/cnc_rdprogdir.xml</file>
         </item>
         <item>
             <name>cnc_rdprogdir2</name>
-            <file>Program/cnc_rdprogdir2.htm</file>
+            <file>../program/cnc_rdprogdir2.xml</file>
         </item>
         <item>
             <name>cnc_rdprogdir3</name>
-            <file>Program/cnc_rdprogdir3.htm</file>
+            <file>../program/cnc_rdprogdir3.xml</file>
         </item>
     </reference>
 

@@ -269,11 +269,11 @@
     <reference>
         <item>
             <name>cnc_wrmdiprog</name>
-            <file>Program/cnc_wrmdiprog.htm</file>
+            <file>../program/cnc_wrmdiprog.xml</file>
         </item>
         <item>
             <name>cnc_rdmdipntr</name>
-            <file>Program/cnc_rdmdipntr.htm</file>
+            <file>../program/cnc_rdmdipntr.xml</file>
         </item>
     </reference>
 

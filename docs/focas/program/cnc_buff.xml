@@ -196,31 +196,31 @@ typedef struct odbbuf {
     <reference>
         <item>
             <name>cnc_dwnstart3</name>
-            <file>Program/cnc_dwnstart3.htm</file>
+            <file>../program/cnc_dwnstart3.xml</file>
         </item>
         <item>
             <name>cnc_download3</name>
-            <file>Program/cnc_download3.htm</file>
+            <file>../program/cnc_download3.xml</file>
         </item>
         <item>
             <name>cnc_dwnend3</name>
-            <file>Program/cnc_dwnend3.htm</file>
+            <file>../program/cnc_dwnend3.xml</file>
         </item>
         <item>
             <name>cnc_vrfstart</name>
-            <file>Program/cnc_vrfstart.htm</file>
+            <file>../program/cnc_vrfstart.xml</file>
         </item>
         <item>
             <name>cnc_verify</name>
-            <file>Program/cnc_verify.htm</file>
+            <file>../program/cnc_verify.xml</file>
         </item>
         <item>
             <name>cnc_cverify</name>
-            <file>Program/cnc_cverify.htm</file>
+            <file>../program/cnc_cverify.xml</file>
         </item>
         <item>
             <name>cnc_vrfend</name>
-            <file>Program/cnc_vrfend.htm</file>
+            <file>../program/cnc_vrfend.xml</file>
         </item>
     </reference>
 

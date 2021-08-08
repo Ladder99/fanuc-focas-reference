@@ -276,15 +276,15 @@
     <reference>
         <item>
             <name>cnc_vrfstart</name>
-            <file>Program/cnc_vrfstart.htm</file>
+            <file>../program/cnc_vrfstart.xml</file>
         </item>
         <item>
             <name>cnc_verify</name>
-            <file>Program/cnc_verify.htm</file>
+            <file>../program/cnc_verify.xml</file>
         </item>
         <item>
             <name>cnc_cverify</name>
-            <file>Program/cnc_cverify.htm</file>
+            <file>../program/cnc_cverify.xml</file>
         </item>
     </reference>
 

@@ -202,15 +202,15 @@
     <reference>
         <item>
             <name>pmc_rdcntldata</name>
-            <file>Pmc/pmc_rdcntldata.htm</file>
+            <file>../pmc/pmc_rdcntldata.xml</file>
         </item>
         <item>
             <name>pmc_wrcntldata</name>
-            <file>Pmc/pmc_wrcntldata.htm</file>
+            <file>../pmc/pmc_wrcntldata.xml</file>
         </item>
         <item>
             <name>pmc_rdcntlgrp</name>
-            <file>Pmc/pmc_rdcntlgrp.htm</file>
+            <file>../pmc/pmc_rdcntlgrp.xml</file>
         </item>
     </reference>
 

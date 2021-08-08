@@ -368,11 +368,11 @@
     <reference>
         <item>
             <name>cnc_upstart3</name>
-            <file>Program/cnc_upstart3.htm</file>
+            <file>../program/cnc_upstart3.xml</file>
         </item>
         <item>
             <name>cnc_upload3</name>
-            <file>Program/cnc_upload3.htm</file>
+            <file>../program/cnc_upload3.xml</file>
         </item>
     </reference>
 

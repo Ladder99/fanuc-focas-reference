@@ -210,7 +210,7 @@
     <reference>
         <item>
             <name>cnc_rdsndmsg</name>
-            <file>Data/cnc_rdsndmsg.htm</file>
+            <file>../data/cnc_rdsndmsg.xml</file>
         </item>
     </reference>
 

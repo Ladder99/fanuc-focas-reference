@@ -266,7 +266,7 @@
     <reference>
         <item>
             <name>cnc_exaxisname</name>
-            <file>position/cnc_exaxisname.htm</file>
+            <file>../position/cnc_exaxisname.xml</file>
         </item>
     </reference>
 

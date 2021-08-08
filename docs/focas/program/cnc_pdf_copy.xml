@@ -20,7 +20,7 @@
             <p>Copies the specified program.</p>
             <p>The program name is specified according to the following format.</p>
             <table class="dd">
-                <tr><td>//Drive Name/Filder Name../Program Name</td></tr>
+                <tr><td>//Drive Name/Filder Name../program Name</td></tr>
             </table>
 
             <p>The copy between different devices is also possible. The device which can be specified is as follows.</p>

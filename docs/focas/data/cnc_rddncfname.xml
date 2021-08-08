@@ -178,7 +178,7 @@ Name of the file in the host computer for DNC operation is returned.
     <reference>
         <item>
             <name>cnc_wrdncfname</name>
-            <file>Data/cnc_wrdncfname.htm</file>
+            <file>../data/cnc_wrdncfname.xml</file>
         </item>
     </reference>
 

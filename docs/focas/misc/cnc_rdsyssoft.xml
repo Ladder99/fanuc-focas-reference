@@ -474,11 +474,11 @@ typedef struct odbsyss {
     <reference>
         <item>
             <name>cnc_rdsyssoft2</name>
-            <file>misc/cnc_rdsyssoft2.htm</file>
+            <file>../misc/cnc_rdsyssoft2.xml</file>
         </item>
         <item>
             <name>cnc_rdsyssoft3</name>
-            <file>misc/cnc_rdsyssoft3.htm</file>
+            <file>../misc/cnc_rdsyssoft3.xml</file>
         </item>
     </reference>
 

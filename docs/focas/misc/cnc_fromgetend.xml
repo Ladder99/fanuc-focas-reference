@@ -217,11 +217,11 @@
     <reference>
         <item>
             <name>cnc_fromgetstart</name>
-            <file>Misc/cnc_fromgetstart.htm</file>
+            <file>../misc/cnc_fromgetstart.xml</file>
         </item>
         <item>
             <name>cnc_fromget</name>
-            <file>Misc/cnc_fromget.htm</file>
+            <file>../misc/cnc_fromget.xml</file>
         </item>
     </reference>
 

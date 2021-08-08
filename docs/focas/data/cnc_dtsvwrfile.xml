@@ -309,7 +309,7 @@ No option
     <reference>
         <item>
             <name>cnc_dtsvrdfile</name>
-            <file>Data/cnc_dtsvrdfile.htm</file>
+            <file>../data/cnc_dtsvrdfile.xml</file>
         </item>
     </reference>
 

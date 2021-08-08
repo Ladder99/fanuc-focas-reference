@@ -332,7 +332,7 @@ CNC is on execution.
     <reference>
         <item>
             <name>cnc_rdpm_item</name>
-            <file>misc/cnc_rdpm_item.htm</file>
+            <file>../misc/cnc_rdpm_item.xml</file>
         </item>
     </reference>
 

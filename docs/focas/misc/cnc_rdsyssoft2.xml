@@ -260,11 +260,11 @@ However, you may not read the data after "reserve" according to the series/versi
     <reference>
         <item>
             <name>cnc_rdsyssoft</name>
-            <file>misc/cnc_rdsyssoft.htm</file>
+            <file>../misc/cnc_rdsyssoft.xml</file>
         </item>
         <item>
             <name>cnc_rdsyssoft3</name>
-            <file>misc/cnc_rdsyssoft3.htm</file>
+            <file>../misc/cnc_rdsyssoft3.xml</file>
         </item>
     </reference>
 

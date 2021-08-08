@@ -256,15 +256,15 @@ typedef struct iodbsig {
     <reference>
         <item>
             <name>cnc_rdhissgnl2</name>
-            <file>History/cnc_rdhissgnl2.htm</file>
+            <file>../history/cnc_rdhissgnl2.xml</file>
         </item>
         <item>
             <name>cnc_rdhissgnl3</name>
-            <file>History/cnc_rdhissgnl3.htm</file>
+            <file>../history/cnc_rdhissgnl3.xml</file>
         </item>
         <item>
             <name>cnc_wrhissgnl</name>
-            <file>History/cnc_wrhissgnl.htm</file>
+            <file>../history/cnc_wrhissgnl.xml</file>
         </item>
     </reference>
 

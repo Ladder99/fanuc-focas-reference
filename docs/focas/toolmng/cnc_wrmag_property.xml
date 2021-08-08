@@ -260,11 +260,11 @@ typedef struct  iodbmagprty {
     <reference>
         <item>
             <name>cnc_rdmag_property</name>
-            <file>ToolMng/cnc_rdmag_property.htm</file>
+            <file>../toolMng/cnc_rdmag_property.xml</file>
         </item>
         <item>
             <name>cnc_delmag_property</name>
-            <file>ToolMng/cnc_delmag_property.htm</file>
+            <file>../toolMng/cnc_delmag_property.xml</file>
         </item>
     </reference>
 

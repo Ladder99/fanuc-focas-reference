@@ -434,11 +434,11 @@ typedef struct  iodbint {
     <reference>
         <item>
             <name>cnc_wrintchk</name>
-            <file>ncdata/cnc_wrintchk.htm</file>
+            <file>../ncdata/cnc_wrintchk.xml</file>
         </item>
         <item>
             <name>cnc_rdintinfo</name>
-            <file>ncdata/cnc_rdintinfo.htm</file>
+            <file>../ncdata/cnc_rdintinfo.xml</file>
         </item>
     </reference>
 

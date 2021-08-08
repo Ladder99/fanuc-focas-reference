@@ -212,27 +212,27 @@
     <reference>
         <item>
             <name>cnc_rdsafetyzone</name>
-            <file>Punch/cnc_rdsafetyzone.htm</file>
+            <file>../punch/cnc_rdsafetyzone.xml</file>
         </item>
         <item>
             <name>cnc_wrsafetyzone</name>
-            <file>Punch/cnc_wrsafetyzone.htm</file>
+            <file>../punch/cnc_wrsafetyzone.xml</file>
         </item>
         <item>
             <name>cnc_rdtoolzone</name>
-            <file>Punch/cnc_rdtoolzone.htm</file>
+            <file>../punch/cnc_rdtoolzone.xml</file>
         </item>
         <item>
             <name>cnc_wrtoolzone</name>
-            <file>Punch/cnc_wrtoolzone.htm</file>
+            <file>../punch/cnc_wrtoolzone.xml</file>
         </item>
         <item>
             <name>cnc_rdacttlzone</name>
-            <file>Punch/cnc_rdacttlzone.htm</file>
+            <file>../punch/cnc_rdacttlzone.xml</file>
         </item>
         <item>
             <name>cnc_rdsetzone</name>
-            <file>Punch/cnc_rdsetzone.htm</file>
+            <file>../punch/cnc_rdsetzone.xml</file>
         </item>
     </reference>
 

@@ -186,7 +186,7 @@ No option
     <reference>
         <item>
             <name>cnc_dtsvsetmode</name>
-            <file>Data/cnc_dtsvsetmode.htm</file>
+            <file>../data/cnc_dtsvsetmode.xml</file>
         </item>
     </reference>
 

@@ -194,11 +194,11 @@
     <reference>
         <item>
             <name>cnc_setpglock</name>
-            <file>Program/cnc_setpglock.htm</file>
+            <file>../program/cnc_setpglock.xml</file>
         </item>
         <item>
             <name>cnc_rdpglockstat</name>
-            <file>Program/cnc_rdpglockstat.htm</file>
+            <file>../program/cnc_rdpglockstat.xml</file>
         </item>
     </reference>
 

@@ -221,7 +221,7 @@ typedef struct iodbmstp {
     <reference>
         <item>
             <name>cnc_wrmsptype</name>
-            <file>Wire/cnc_wrmsptype.htm</file>
+            <file>../wire/cnc_wrmsptype.xml</file>
         </item>
     </reference>
 

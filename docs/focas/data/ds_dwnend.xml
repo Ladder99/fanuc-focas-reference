@@ -201,11 +201,11 @@
     <reference>
         <item>
             <name>ds_dwnstart</name>
-            <file>Data/ds_dwnstart.htm</file>
+            <file>../data/ds_dwnstart.xml</file>
         </item>
         <item>
             <name>ds_download</name>
-            <file>Data/ds_download.htm</file>
+            <file>../data/ds_download.xml</file>
         </item>
     </reference>
 

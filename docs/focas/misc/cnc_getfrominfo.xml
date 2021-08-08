@@ -274,31 +274,31 @@ And the slot number where an error occurred will be set in err_dtno of ODBERR st
     <reference>
         <item>
             <name>cnc_fromgetstart</name>
-            <file>Misc/cnc_fromgetstart.htm</file>
+            <file>../misc/cnc_fromgetstart.xml</file>
         </item>
         <item>
             <name>cnc_fromget</name>
-            <file>Misc/cnc_fromget.htm</file>
+            <file>../misc/cnc_fromget.xml</file>
         </item>
         <item>
             <name>cnc_fromgetend</name>
-            <file>Misc/cnc_fromgetend.htm</file>
+            <file>../misc/cnc_fromgetend.xml</file>
         </item>
         <item>
             <name>cnc_fromputstart</name>
-            <file>Misc/cnc_fromputstart.htm</file>
+            <file>../misc/cnc_fromputstart.xml</file>
         </item>
         <item>
             <name>cnc_fromput</name>
-            <file>Misc/cnc_fromput.htm</file>
+            <file>../misc/cnc_fromput.xml</file>
         </item>
         <item>
             <name>cnc_fromputend</name>
-            <file>Misc/cnc_fromputend.htm</file>
+            <file>../misc/cnc_fromputend.xml</file>
         </item>
         <item>
             <name>cnc_fromremove</name>
-            <file>Misc/cnc_fromremove.htm</file>
+            <file>../misc/cnc_fromremove.xml</file>
         </item>
     </reference>
 

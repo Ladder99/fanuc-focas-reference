@@ -250,7 +250,7 @@
     <reference>
         <item>
             <name>eth_rddsm198dir</name>
-            <file>Data/eth_rddsm198dir.htm</file>
+            <file>../data/eth_rddsm198dir.xml</file>
         </item>
     </reference>
 

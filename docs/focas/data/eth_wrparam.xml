@@ -829,7 +829,7 @@ typedef struct _ping_prm {
     <reference>
         <item>
             <name>eth_rdparam</name>
-            <file>Data/eth_rdparam.htm</file>
+            <file>../data/eth_rdparam.xml</file>
         </item>
     </reference>
 

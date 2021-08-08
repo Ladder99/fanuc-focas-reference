@@ -221,15 +221,15 @@
     <reference>
         <item>
             <name>pbm_rd_nodetable</name>
-            <file>Profibus/pbm_rd_nodetable.htm</file>
+            <file>../profibus/pbm_rd_nodetable.xml</file>
         </item>
         <item>
             <name>pbm_rd_nodeinfo</name>
-            <file>Profibus/pbm_rd_nodeinfo.htm</file>
+            <file>../profibus/pbm_rd_nodeinfo.xml</file>
         </item>
         <item>
             <name>pbm_rd_slotinfo</name>
-            <file>Profibus/pbm_rd_slotinfo.htm</file>
+            <file>../profibus/pbm_rd_slotinfo.xml</file>
         </item>
     </reference>
 

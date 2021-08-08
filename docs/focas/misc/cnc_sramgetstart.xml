@@ -214,15 +214,15 @@ If the system is operated, the contents of the S-RAM data is not guaranteed.
     <reference>
         <item>
             <name>cnc_getsraminfo</name>
-            <file>Misc/cnc_getsraminfo.htm</file>
+            <file>../misc/cnc_getsraminfo.xml</file>
         </item>
         <item>
             <name>cnc_sramget</name>
-            <file>Misc/cnc_sramget.htm</file>
+            <file>../misc/cnc_sramget.xml</file>
         </item>
         <item>
             <name>cnc_sramgetend</name>
-            <file>Misc/cnc_sramgetend.htm</file>
+            <file>../misc/cnc_sramgetend.xml</file>
         </item>
     </reference>
 

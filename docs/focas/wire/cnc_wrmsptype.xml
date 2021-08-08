@@ -213,7 +213,7 @@ typedef struct iodbmstp {
     <reference>
         <item>
             <name>cnc_rdmsptype</name>
-            <file>Wire/cnc_rdmsptype.htm</file>
+            <file>../wire/cnc_rdmsptype.xml</file>
         </item>
     </reference>
 

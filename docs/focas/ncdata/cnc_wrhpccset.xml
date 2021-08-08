@@ -430,23 +430,23 @@ typedef struct iodbhpst {
     <reference>
         <item>
             <name>cnc_rdhpccset</name>
-            <file>ncdata/cnc_rdhpccset.htm</file>
+            <file>../ncdata/cnc_rdhpccset.xml</file>
         </item>
         <item>
             <name>cnc_rdhpcctupr</name>
-            <file>ncdata/cnc_rdhpcctupr.htm</file>
+            <file>../ncdata/cnc_rdhpcctupr.xml</file>
         </item>
         <item>
             <name>cnc_wrhpcctupr</name>
-            <file>ncdata/cnc_wrhpcctupr.htm</file>
+            <file>../ncdata/cnc_wrhpcctupr.xml</file>
         </item>
         <item>
             <name>cnc_rdhpcctuac</name>
-            <file>ncdata/cnc_rdhpcctuac.htm</file>
+            <file>../ncdata/cnc_rdhpcctuac.xml</file>
         </item>
         <item>
             <name>cnc_wrhpcctuac</name>
-            <file>ncdata/cnc_wrhpcctuac.htm</file>
+            <file>../ncdata/cnc_wrhpcctuac.xml</file>
         </item>
     </reference>
 

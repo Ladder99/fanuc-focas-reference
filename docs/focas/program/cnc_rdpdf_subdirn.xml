@@ -226,11 +226,11 @@ typedef struct odbpdfnfil {
     <reference>
         <item>
             <name>cnc_rdpdf_subdir</name>
-            <file>Program/cnc_rdpdf_subdir.htm</file>
+            <file>../program/cnc_rdpdf_subdir.xml</file>
         </item>
         <item>
             <name>cnc_rdpdf_alldir</name>
-            <file>Program/cnc_rdpdf_alldir.htm</file>
+            <file>../program/cnc_rdpdf_alldir.xml</file>
         </item>
     </reference>
 

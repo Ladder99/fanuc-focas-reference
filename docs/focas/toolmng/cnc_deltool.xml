@@ -282,37 +282,37 @@
     <reference>
         <item>
             <name>cnc_regtool</name>
-            <file>ToolMng/cnc_regtool.htm</file>
+            <file>../toolMng/cnc_regtool.xml</file>
         </item>
         <item>
             <name>cnc_regtool_f2</name>
-            <file>ToolMng/cnc_regtool_f2.htm</file>
+            <file>../toolMng/cnc_regtool_f2.xml</file>
         </item>
 <!--
         <item>
             <name>cnc_deltool</name>
-            <file>ToolMng/cnc_deltool.htm</file>
+            <file>../toolMng/cnc_deltool.xml</file>
         </item>
 -->
         <item>
             <name>cnc_rdtool</name>
-            <file>ToolMng/cnc_rdtool.htm</file>
+            <file>../toolMng/cnc_rdtool.xml</file>
         </item>
         <item>
             <name>cnc_rdtool_f2</name>
-            <file>ToolMng/cnc_rdtool_f2.htm</file>
+            <file>../toolMng/cnc_rdtool_f2.xml</file>
         </item>
         <item>
             <name>cnc_wrtool</name>
-            <file>ToolMng/cnc_wrtool.htm</file>
+            <file>../toolMng/cnc_wrtool.xml</file>
         </item>
         <item>
             <name>cnc_wrtool_f2</name>
-            <file>ToolMng/cnc_wrtool_f2.htm</file>
+            <file>../toolMng/cnc_wrtool_f2.xml</file>
         </item>
         <item>
             <name>cnc_wrtool2</name>
-            <file>ToolMng/cnc_wrtool2.htm</file>
+            <file>../toolMng/cnc_wrtool2.xml</file>
         </item>
     </reference>
 

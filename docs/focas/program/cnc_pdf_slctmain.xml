@@ -214,7 +214,7 @@
     <reference>
         <item>
             <name>cnc_pdf_rdmain</name>
-            <file>Program/cnc_pdf_rdmain.htm</file>
+            <file>../program/cnc_pdf_rdmain.xml</file>
         </item>
     </reference>
 

@@ -313,7 +313,7 @@ typedef struct iodbpunch2_ex {
     <reference>
         <item>
             <name>cnc_rd1punchtl_ex</name>
-            <file>Punch/cnc_rd1punchtl_ex.htm</file>
+            <file>../punch/cnc_rd1punchtl_ex.xml</file>
         </item>
     </reference>
 

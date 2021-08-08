@@ -242,7 +242,7 @@
     <reference>
         <item>
             <name>eth_wrhost</name>
-            <file>Data/eth_wrhost.htm</file>
+            <file>../data/eth_wrhost.xml</file>
         </item>
     </reference>
 

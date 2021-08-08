@@ -221,23 +221,23 @@
     <reference>
         <item>
             <name>pmc_rdprmstart</name>
-            <file>Pmc/pmc_rdprmstart.htm</file>
+            <file>../pmc/pmc_rdprmstart.xml</file>
         </item>
         <item>
             <name>pmc_rdpmcparam</name>
-            <file>Pmc/pmc_rdpmcparam.htm</file>
+            <file>../pmc/pmc_rdpmcparam.xml</file>
         </item>
         <item>
             <name>pmc_rdprmend</name>
-            <file>Pmc/pmc_rdprmend.htm</file>
+            <file>../pmc/pmc_rdprmend.xml</file>
         </item>
         <item>
             <name>pmc_wrprmstart</name>
-            <file>Pmc/pmc_wrprmstart.htm</file>
+            <file>../pmc/pmc_wrprmstart.xml</file>
         </item>
         <item>
             <name>pmc_wrpmcparam</name>
-            <file>Pmc/pmc_wrpmcparam.htm</file>
+            <file>../pmc/pmc_wrpmcparam.xml</file>
         </item>
     </reference>
 

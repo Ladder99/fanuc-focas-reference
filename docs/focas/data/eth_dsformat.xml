@@ -229,7 +229,7 @@
     <reference>
         <item>
             <name>eth_rddsformat</name>
-            <file>Data/eth_rddsformat.htm</file>
+            <file>../data/eth_rddsformat.xml</file>
         </item>
     </reference>
 

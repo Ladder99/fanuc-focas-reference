@@ -539,19 +539,19 @@ typedef struct odbdiagif {
     <reference>
         <item>
             <name>cnc_diagnoss</name>
-            <file>Misc/cnc_diagnoss.htm</file>
+            <file>../misc/cnc_diagnoss.xml</file>
         </item>
         <item>
             <name>cnc_diagnosr</name>
-            <file>Misc/cnc_diagnosr.htm</file>
+            <file>../misc/cnc_diagnosr.xml</file>
         </item>
         <item>
             <name>cnc_rddiag_ext</name>
-            <file>Misc/cnc_rddiag_ext.htm</file>
+            <file>../misc/cnc_rddiag_ext.xml</file>
         </item>
         <item>
             <name>cnc_rddiagnum</name>
-            <file>Misc/cnc_rddiagnum.htm</file>
+            <file>../misc/cnc_rddiagnum.xml</file>
         </item>
     </reference>
 

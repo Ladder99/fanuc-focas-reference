@@ -194,7 +194,7 @@
     <reference>
         <item>
             <name>cnc_rdlpwrcpst</name>
-            <file>Laser/cnc_rdlpwrcpst.htm</file>
+            <file>../laser/cnc_rdlpwrcpst.xml</file>
         </item>
     </reference>
 

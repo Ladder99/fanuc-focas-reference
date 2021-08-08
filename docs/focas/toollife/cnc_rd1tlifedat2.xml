@@ -407,7 +407,7 @@ typedef struct iodbtd2 {
     <reference>
         <item>
             <name>cnc_rd1tlifedata</name>
-            <file>Toollife/cnc_rd1tlifedata.htm</file>
+            <file>../toollife/cnc_rd1tlifedata.xml</file>
         </item>
     </reference>
 

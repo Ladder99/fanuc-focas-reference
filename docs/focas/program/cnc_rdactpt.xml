@@ -253,7 +253,7 @@
     <reference>
         <item>
             <name>cnc_wractpt</name>
-            <file>Program/cnc_wractpt.htm</file>
+            <file>../program/cnc_wractpt.xml</file>
         </item>
     </reference>
 

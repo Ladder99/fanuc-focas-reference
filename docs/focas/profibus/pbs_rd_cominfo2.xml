@@ -266,7 +266,7 @@ typedef struct OUT_PBSSTATUS2{
     <reference>
         <item>
             <name>pbs_rd_cominfo</name>
-            <file>Profibus/pbs_rd_cominfo.htm</file>
+            <file>../profibus/pbs_rd_cominfo.xml</file>
         </item>
     </reference>
 

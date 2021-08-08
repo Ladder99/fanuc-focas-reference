@@ -436,7 +436,7 @@ typedef struct iodbpirc {
     <reference>
         <item>
             <name>cnc_rdpscdpirc</name>
-            <file>Laser/cnc_rdpscdpirc.htm</file>
+            <file>../laser/cnc_rdpscdpirc.xml</file>
         </item>
     </reference>
 

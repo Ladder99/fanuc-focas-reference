@@ -792,7 +792,7 @@ typedef struct _T_SLOT_IND_PARA
     <reference>
         <item>
             <name>pbm_wr_param</name>
-            <file>Profibus/pbm_wr_param.htm</file>
+            <file>../profibus/pbm_wr_param.xml</file>
         </item>
     </reference>
 

@@ -333,29 +333,29 @@ When CNC falls into the system alarm, it is completely impossible to communicate
     <reference>
         <item>
             <name>cnc_alarm</name>
-            <file>misc/cnc_alarm.htm</file>
+            <file>../misc/cnc_alarm.xml</file>
         </item>
         <item>
             <name>cnc_rdalminfo</name>
-            <file>misc/cnc_rdalminfo.htm</file>
+            <file>../misc/cnc_rdalminfo.xml</file>
         </item>
         <item>
             <name>cnc_rdalmmsg</name>
-            <file>misc/cnc_rdalmmsg.htm</file>
+            <file>../misc/cnc_rdalmmsg.xml</file>
         </item>
         <is>
             <item>
                 <name>cnc_alarm</name>
-                <file>misc/cnc_alarm.htm</file>
+                <file>../misc/cnc_alarm.xml</file>
             </item>
             <item>
                 <name>cnc_rdalminfo</name>
-                <file>misc/cnc_rdalminfo.htm</file>
+                <file>../misc/cnc_rdalminfo.xml</file>
             </item>
             <!--  is Nothing
             <item>
                 <name>cnc_rdalmmsg</name>
-                <file>misc/cnc_rdalmmsg.htm</file>
+                <file>../misc/cnc_rdalmmsg.xml</file>
             </item>
              is Nothingu -->
         </is>

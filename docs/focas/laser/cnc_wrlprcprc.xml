@@ -249,7 +249,7 @@ typedef struct iodblpcpr {
     <reference>
         <item>
             <name>cnc_rdlprcprc</name>
-            <file>Laser/cnc_rdlprcprc.htm</file>
+            <file>../laser/cnc_rdlprcprc.xml</file>
         </item>
     </reference>
 

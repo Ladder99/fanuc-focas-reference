@@ -601,27 +601,27 @@ typedef struct  iodbpsd {
     <reference>
         <item>
             <name>cnc_rdparam</name>
-            <file>ncdata/cnc_rdparam.htm</file>
+            <file>../ncdata/cnc_rdparam.xml</file>
         </item>
         <item>
             <name>cnc_rdparar</name>
-            <file>ncdata/cnc_rdparar.htm</file>
+            <file>../ncdata/cnc_rdparar.xml</file>
         </item>
         <item>
             <name>cnc_wrparas</name>
-            <file>ncdata/cnc_wrparas.htm</file>
+            <file>../ncdata/cnc_wrparas.xml</file>
         </item>
         <item>
             <name>cnc_rdparam_ext</name>
-            <file>ncdata/cnc_rdparam_ext.htm</file>
+            <file>../ncdata/cnc_rdparam_ext.xml</file>
         </item>
         <item>
             <name>cnc_rdparainfo</name>
-            <file>ncdata/cnc_rdparainfo.htm</file>
+            <file>../ncdata/cnc_rdparainfo.xml</file>
         </item>
         <item>
             <name>cnc_rdparanum</name>
-            <file>ncdata/cnc_rdparanum.htm</file>
+            <file>../ncdata/cnc_rdparanum.xml</file>
         </item>
     </reference>
 

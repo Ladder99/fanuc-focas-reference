@@ -305,11 +305,11 @@
     <reference>
         <item>
             <name>cnc_download4</name>
-            <file>Program/cnc_download4.htm</file>
+            <file>../program/cnc_download4.xml</file>
         </item>
         <item>
             <name>cnc_dwnend4</name>
-            <file>Program/cnc_dwnend4.htm</file>
+            <file>../program/cnc_dwnend4.xml</file>
         </item>
     </reference>
 

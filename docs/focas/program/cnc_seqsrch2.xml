@@ -204,7 +204,7 @@
     <reference>
         <item>
             <name>cnc_seqsrch</name>
-            <file>Program/cnc_seqsrch.htm</file>
+            <file>../program/cnc_seqsrch.xml</file>
         </item>
     </reference>
 

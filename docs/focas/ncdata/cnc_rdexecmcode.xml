@@ -264,7 +264,7 @@ typedef struct odbexem {
     <reference>
         <item>
             <name>cnc_rdrstrmcode</name>
-            <file>ncdata/cnc_rdrstrmcode.htm</file>
+            <file>../ncdata/cnc_rdrstrmcode.xml</file>
         </item>
     </reference>
 

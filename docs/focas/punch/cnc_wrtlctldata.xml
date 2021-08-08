@@ -318,27 +318,27 @@ typedef struct iodbtlctl {
     <reference>
         <item>
             <name>cnc_rdtlctldata</name>
-            <file>Punch/cnc_rdtlctldata.htm</file>
+            <file>../punch/cnc_rdtlctldata.xml</file>
         </item>
         <item>
             <name>cnc_rdtooldata</name>
-            <file>Punch/cnc_rdtooldata.htm</file>
+            <file>../punch/cnc_rdtooldata.xml</file>
         </item>
         <item>
             <name>cnc_wrtooldata</name>
-            <file>Punch/cnc_wrtooldata.htm</file>
+            <file>../punch/cnc_wrtooldata.xml</file>
         </item>
         <item>
             <name>cnc_rdmultitldt</name>
-            <file>Punch/cnc_rdmultitldt.htm</file>
+            <file>../punch/cnc_rdmultitldt.xml</file>
         </item>
         <item>
             <name>cnc_wrmultitldt</name>
-            <file>Punch/cnc_wrmultitldt.htm</file>
+            <file>../punch/cnc_wrmultitldt.xml</file>
         </item>
         <item>
             <name>cnc_rdtoolinfo</name>
-            <file>Punch/cnc_rdtoolinfo.htm</file>
+            <file>../punch/cnc_rdtoolinfo.xml</file>
         </item>
     </reference>
 

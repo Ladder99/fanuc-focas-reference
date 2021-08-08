@@ -220,7 +220,7 @@ typedef struct {
     <reference>
         <item>
             <name>pmc_prfrdindiadr</name>
-            <file>Profibus/pmc_prfrdindiadr.htm</file>
+            <file>../profibus/pmc_prfrdindiadr.xml</file>
         </item>
     </reference>
 

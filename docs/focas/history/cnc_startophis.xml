@@ -259,27 +259,27 @@
     <reference>
         <item>
             <name>cnc_stopophis</name>
-            <file>History/cnc_stopophis.htm</file>
+            <file>../history/cnc_stopophis.xml</file>
         </item>
         <item>
             <name>cnc_rdophisno</name>
-            <file>History/cnc_rdophisno.htm</file>
+            <file>../history/cnc_rdophisno.xml</file>
         </item>
         <item class="xis">
             <name>cnc_rdophistry</name>
-            <file>History/cnc_rdophistry.htm</file>
+            <file>../history/cnc_rdophistry.xml</file>
         </item>
         <item>
             <name>cnc_rdalmhisno</name>
-            <file>History/cnc_rdalmhisno.htm</file>
+            <file>../history/cnc_rdalmhisno.xml</file>
         </item>
         <item class="xis">
             <name>cnc_rdalmhistry</name>
-            <file>History/cnc_rdalmhistry.htm</file>
+            <file>../history/cnc_rdalmhistry.xml</file>
         </item>
         <item>
             <name>cnc_clearophis</name>
-            <file>History/cnc_clearophis.htm</file>
+            <file>../history/cnc_clearophis.xml</file>
         </item>
     </reference>
 

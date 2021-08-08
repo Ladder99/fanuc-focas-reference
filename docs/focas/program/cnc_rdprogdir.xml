@@ -330,15 +330,15 @@ typedef struct prgdir {
     <reference>
         <item>
             <name>cnc_rdprogdir2</name>
-            <file>Program/cnc_rdprogdir2.htm</file>
+            <file>../program/cnc_rdprogdir2.xml</file>
         </item>
         <item>
             <name>cnc_rdprogdir3</name>
-            <file>Program/cnc_rdprogdir2.htm</file>
+            <file>../program/cnc_rdprogdir2.xml</file>
         </item>
         <item>
             <name>cnc_rdprogdir4</name>
-            <file>Program/cnc_rdprogdir4.htm</file>
+            <file>../program/cnc_rdprogdir4.xml</file>
         </item>
     </reference>
 

@@ -251,7 +251,7 @@
     <reference>
         <item>
             <name>ds_searchresult</name>
-            <file>Data/ds_searchresult.htm</file>
+            <file>../data/ds_searchresult.xml</file>
         </item>
     </reference>
 

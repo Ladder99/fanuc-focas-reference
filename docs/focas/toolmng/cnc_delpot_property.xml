@@ -250,11 +250,11 @@
     <reference>
         <item>
             <name>cnc_rdpot_property</name>
-            <file>ToolMng/cnc_rdpot_property.htm</file>
+            <file>../toolMng/cnc_rdpot_property.xml</file>
         </item>
         <item>
             <name>cnc_wrpot_property</name>
-            <file>ToolMng/cnc_wrpot_property.htm</file>
+            <file>../toolMng/cnc_wrpot_property.xml</file>
         </item>
     </reference>
 

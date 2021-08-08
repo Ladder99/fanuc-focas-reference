@@ -257,19 +257,19 @@ typedef struct _T_SLVSLT_IND{
     <reference>
         <item>
             <name>pbm_ini_prm</name>
-            <file>Profibus/pbm_ini_prm.htm</file>
+            <file>../profibus/pbm_ini_prm.xml</file>
         </item>
         <item>
             <name>pbm_rd_allslvtbl</name>
-            <file>Profibus/pbm_rd_allslvtbl.htm</file>
+            <file>../profibus/pbm_rd_allslvtbl.xml</file>
         </item>
         <item>
             <name>pbm_rd_subprm</name>
-            <file>Profibus/pbm_rd_subprm.htm</file>
+            <file>../profibus/pbm_rd_subprm.xml</file>
         </item>
         <item>
             <name>pbm_rd_errcode</name>
-            <file>Profibus/pbm_rd_errcode.htm</file>
+            <file>../profibus/pbm_rd_errcode.xml</file>
         </item>
     </reference>
 

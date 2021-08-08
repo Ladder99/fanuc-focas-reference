@@ -212,7 +212,7 @@
     <reference>
         <item>
             <name>eth_wrdsm198dir</name>
-            <file>Data/eth_wrdsm198dir.htm</file>
+            <file>../data/eth_wrdsm198dir.xml</file>
         </item>
     </reference>
 

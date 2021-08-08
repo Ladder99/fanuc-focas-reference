@@ -196,15 +196,15 @@
     <reference>
         <item>
             <name>cnc_hpccatset</name>
-            <file>ncdata/cnc_hpccatset.htm</file>
+            <file>../ncdata/cnc_hpccatset.xml</file>
         </item>
         <item>
             <name>cnc_hpccattune</name>
-            <file>ncdata/cnc_hpccattune.htm</file>
+            <file>../ncdata/cnc_hpccattune.xml</file>
         </item>
         <item>
             <name>cnc_hpccselfine</name>
-            <file>ncdata/cnc_hpccselfine.htm</file>
+            <file>../ncdata/cnc_hpccselfine.xml</file>
         </item>
     </reference>
 

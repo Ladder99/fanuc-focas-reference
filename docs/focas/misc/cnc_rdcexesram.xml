@@ -259,11 +259,11 @@ Therefore, it is necessary to take mediation between the application of FOCAS1/2
     <reference>
         <item>
             <name>cnc_wrcexesram</name>
-            <file>Misc/cnc_wrcexesram.htm</file>
+            <file>../misc/cnc_wrcexesram.xml</file>
         </item>
         <item>
             <name>cnc_cexesramsize</name>
-            <file>Misc/cnc_cexesramsize.htm</file>
+            <file>../misc/cnc_cexesramsize.xml</file>
         </item>
     </reference>
 

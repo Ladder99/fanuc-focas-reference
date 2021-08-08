@@ -585,7 +585,7 @@ If any of the following bits is "1", corresponding status information is reporte
     <reference>
         <item>
             <name>cnc_wrcomparam</name>
-            <file>Data/cnc_wrcomparam.htm</file>
+            <file>../data/cnc_wrcomparam.xml</file>
         </item>
     </reference>
 

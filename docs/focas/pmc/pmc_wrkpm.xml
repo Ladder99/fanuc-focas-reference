@@ -244,19 +244,19 @@
     <reference>
         <item>
             <name>pmc_rdkpm</name>
-            <file>Pmc/pmc_rdkpm.htm</file>
+            <file>../pmc/pmc_rdkpm.xml</file>
         </item>
         <item>
             <name>pmc_rdkpm2</name>
-            <file>Pmc/pmc_rdkpm2.htm</file>
+            <file>../pmc/pmc_rdkpm2.xml</file>
         </item>
         <item>
             <name>pmc_wrkpm2</name>
-            <file>Pmc/pmc_wrkpm2.htm</file>
+            <file>../pmc/pmc_wrkpm2.xml</file>
         </item>
         <item>
             <name>pmc_kpmsiz</name>
-            <file>Pmc/pmc_kpmsiz.htm</file>
+            <file>../pmc/pmc_kpmsiz.xml</file>
         </item>
     </reference>
 

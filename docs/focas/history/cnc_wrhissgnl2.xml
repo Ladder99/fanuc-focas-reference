@@ -291,11 +291,11 @@ typedef struct iodbsig2 {
     <reference>
         <item>
             <name>cnc_rdhissgnl2</name>
-            <file>History/cnc_rdhissgnl2.htm</file>
+            <file>../history/cnc_rdhissgnl2.xml</file>
         </item>
         <item>
             <name>cnc_wrhissgnl</name>
-            <file>History/cnc_wrhissgnl.htm</file>
+            <file>../history/cnc_wrhissgnl.xml</file>
         </item>
     </reference>
 

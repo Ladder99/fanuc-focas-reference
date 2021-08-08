@@ -189,15 +189,15 @@
     <reference>
         <item>
             <name>pmc_select_pmc_unit</name>
-            <file>pmc/pmc_select_pmc_unit.htm</file>
+            <file>../pmc/pmc_select_pmc_unit.xml</file>
         </item>
         <item>
             <name>pmc_get_current_pmc_unit</name>
-            <file>pmc/pmc_get_current_pmc_unit.htm</file>
+            <file>../pmc/pmc_get_current_pmc_unit.xml</file>
         </item>
         <item>
             <name>pmc_get_pmc_unit_types</name>
-            <file>pmc/pmc_get_pmc_unit_types.htm</file>
+            <file>../pmc/pmc_get_pmc_unit_types.xml</file>
         </item>
     </reference>
 

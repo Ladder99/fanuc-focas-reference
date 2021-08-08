@@ -249,19 +249,19 @@
     <reference>
         <item>
             <name>cnc_stopomhis</name>
-            <file>History/cnc_stopomhis.htm</file>
+            <file>../history/cnc_stopomhis.xml</file>
         </item>
         <item>
             <name>cnc_startomhis</name>
-            <file>History/cnc_startomhis.htm</file>
+            <file>../history/cnc_startomhis.xml</file>
         </item>
         <item class="xis">
             <name>cnc_rdomhisinfo</name>
-            <file>History/cnc_rdomhisinfo.htm</file>
+            <file>../history/cnc_rdomhisinfo.xml</file>
         </item>    
         <item class="xis">
             <name>cnc_rdomhistry</name>
-            <file>History/cnc_rdomhistry.htm</file>
+            <file>../history/cnc_rdomhistry.xml</file>
         </item>
     </reference>
 

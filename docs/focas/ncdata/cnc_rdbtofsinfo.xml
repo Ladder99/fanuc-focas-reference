@@ -244,11 +244,11 @@ typedef struct  odbbtlinf {
     <reference>
         <item>
             <name>cnc_rdbtofsr</name>
-            <file>ncdata/cnc_rdbtofsr.htm</file>
+            <file>../ncdata/cnc_rdbtofsr.xml</file>
         </item>
         <item>
             <name>cnc_wrbtofsr</name>
-            <file>ncdata/cnc_wrbtofsr.htm</file>
+            <file>../ncdata/cnc_wrbtofsr.xml</file>
         </item>
     </reference>
 

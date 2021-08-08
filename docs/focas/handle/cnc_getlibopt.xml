@@ -235,11 +235,11 @@
         <reference>
             <item>
                 <name>cnc_setlibopt</name>
-                <file>handle/cnc_setlibopt.htm</file>
+                <file>../handle/cnc_setlibopt.xml</file>
             </item>
             <item>
                 <name>cnc_rdpdf_line</name>
-                <file>program/cnc_rdpdf_line.htm</file>
+                <file>../program/cnc_rdpdf_line.xml</file>
             </item>
         </reference>
 

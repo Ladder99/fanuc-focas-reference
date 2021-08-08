@@ -259,7 +259,7 @@
     <reference>
         <item>
             <name>cnc_rddsdncfile</name>
-            <file>Data/cnc_rddsdncfile.htm</file>
+            <file>../data/cnc_rddsdncfile.xml</file>
         </item>
     </reference>
 

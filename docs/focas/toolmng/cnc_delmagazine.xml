@@ -308,15 +308,15 @@ typedef struct  iodbtlmag2 {
     <reference>
         <item>
             <name>cnc_regmagazine</name>
-            <file>ToolMng/cnc_regmagazine.htm</file>
+            <file>../toolMng/cnc_regmagazine.xml</file>
         </item>
         <item>
             <name>cnc_rdmagazine</name>
-            <file>ToolMng/cnc_rdmagazine.htm</file>
+            <file>../toolMng/cnc_rdmagazine.xml</file>
         </item>
         <item>
             <name>cnc_wrmagazine</name>
-            <file>ToolMng/cnc_wrmagazine.htm</file>
+            <file>../toolMng/cnc_wrmagazine.xml</file>
         </item>
     </reference>
 

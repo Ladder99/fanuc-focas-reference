@@ -359,11 +359,11 @@ M30 ;
     <reference>
         <item>
             <name>cnc_dwnstart4</name>
-            <file>Program/cnc_dwnstart4.htm</file>
+            <file>../program/cnc_dwnstart4.xml</file>
         </item>
         <item>
             <name>cnc_dwnend4</name>
-            <file>Program/cnc_dwnend4.htm</file>
+            <file>../program/cnc_dwnend4.xml</file>
         </item>
     </reference>
 

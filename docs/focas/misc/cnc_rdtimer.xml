@@ -199,7 +199,7 @@ typedef struct iodbtime {
     <reference>
         <item>
             <name>cnc_wrtimer</name>
-            <file>Misc/cnc_wrtimer.htm</file>
+            <file>../misc/cnc_wrtimer.xml</file>
         </item>
     </reference>
 

@@ -421,7 +421,7 @@ typedef struct odbaxis {
     <reference>
         <item>
             <name>cnc_relative</name>
-            <file>position/cnc_relative.htm</file>
+            <file>../position/cnc_relative.xml</file>
         </item>
     </reference>
 

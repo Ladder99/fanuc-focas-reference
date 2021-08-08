@@ -324,11 +324,11 @@ typedef struct odbmdip {
     <reference>
         <item>
             <name>cnc_wrmdiprog</name>
-            <file>Program/cnc_wrmdiprog.htm</file>
+            <file>../program/cnc_wrmdiprog.xml</file>
         </item>
         <item>
             <name>cnc_wrmdipntr</name>
-            <file>Program/cnc_wrmdipntr.htm</file>
+            <file>../program/cnc_wrmdipntr.xml</file>
         </item>
     </reference>
 

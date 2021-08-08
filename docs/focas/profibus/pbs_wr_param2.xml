@@ -351,7 +351,7 @@ typedef struct _IN_PBSPRM2{
     <reference>
         <item>
             <name>pbs_rd_param2</name>
-            <file>Profibus/pbs_rd_param2.htm</file>
+            <file>../profibus/pbs_rd_param2.xml</file>
         </item>
     </reference>
 

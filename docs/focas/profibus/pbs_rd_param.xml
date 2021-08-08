@@ -262,7 +262,7 @@ typedef struct _OUT_PBSPRM{
     <reference>
         <item>
             <name>pbs_wr_param</name>
-            <file>Profibus/pbs_wr_param.htm</file>
+            <file>../profibus/pbs_wr_param.xml</file>
         </item>
     </reference>
 

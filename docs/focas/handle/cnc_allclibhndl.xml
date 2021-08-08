@@ -213,20 +213,20 @@
     <reference>
         <item>
             <name>cnc_allclibhndl2</name>
-            <file>Handle/cnc_allclibhndl2.htm</file>
+            <file>../handle/cnc_allclibhndl2.xml</file>
         </item>
         <item>
             <name>cnc_allclibhndl3</name>
-            <file>Handle/cnc_allclibhndl3.htm</file>
+            <file>../handle/cnc_allclibhndl3.xml</file>
         </item>
         <item>
             <name>cnc_freelibhndl</name>
-            <file>Handle/cnc_freelibhndl.htm</file>
+            <file>../handle/cnc_freelibhndl.xml</file>
         </item>
         <is>
             <item>
                 <name>cnc_freelibhndl</name>
-                <file>Handle/cnc_freelibhndl.htm</file>
+                <file>../handle/cnc_freelibhndl.xml</file>
             </item>
         </is>
     </reference>

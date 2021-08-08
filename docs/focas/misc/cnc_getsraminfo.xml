@@ -216,15 +216,15 @@ typedef struct odbsinfo {
     <reference>
         <item>
             <name>cnc_sramgetstart</name>
-            <file>Misc/cnc_sramgetstart.htm</file>
+            <file>../misc/cnc_sramgetstart.xml</file>
         </item>
         <item>
             <name>cnc_sramget</name>
-            <file>Misc/cnc_sramget.htm</file>
+            <file>../misc/cnc_sramget.xml</file>
         </item>
         <item>
             <name>cnc_sramgetend</name>
-            <file>Misc/cnc_sramgetend.htm</file>
+            <file>../misc/cnc_sramgetend.xml</file>
         </item>        
     </reference>
 

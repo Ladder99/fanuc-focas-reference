@@ -257,15 +257,15 @@ The following details status will be set onto the member, err_no of ODBERR struc
     <reference>
         <item>
             <name>cnc_getfrominfo</name>
-            <file>Misc/cnc_getfrominfo.htm</file>
+            <file>../misc/cnc_getfrominfo.xml</file>
         </item>
         <item>
             <name>cnc_fromget</name>
-            <file>Misc/cnc_fromget.htm</file>
+            <file>../misc/cnc_fromget.xml</file>
         </item>
         <item>
             <name>cnc_fromgetend</name>
-            <file>Misc/cnc_fromgetend.htm</file>
+            <file>../misc/cnc_fromgetend.xml</file>
         </item>
     </reference>
 

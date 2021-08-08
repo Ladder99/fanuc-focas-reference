@@ -241,7 +241,7 @@
     <reference>
         <item>
             <name>ds_wrfile</name>
-            <file>Data/ds_wrfile.htm</file>
+            <file>../data/ds_wrfile.xml</file>
         </item>
     </reference>
 

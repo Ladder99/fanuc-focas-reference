@@ -1546,19 +1546,19 @@ typedef struct iodbto {
     <reference>
         <item>
             <name>cnc_rdtofs</name>
-            <file>ncdata/cnc_rdtofs.htm</file>
+            <file>../ncdata/cnc_rdtofs.xml</file>
         </item>
         <item>
             <name>cnc_wrtofs</name>
-            <file>ncdata/cnc_wrtofs.htm</file>
+            <file>../ncdata/cnc_wrtofs.xml</file>
         </item>
         <item>
             <name>cnc_wrtofsr</name>
-            <file>ncdata/cnc_wrtofsr.htm</file>
+            <file>../ncdata/cnc_wrtofsr.xml</file>
         </item>
         <item>
             <name>cnc_rdtofsinfo</name>
-            <file>ncdata/cnc_rdtofsinfo.htm</file>
+            <file>../ncdata/cnc_rdtofsinfo.xml</file>
         </item>
     </reference>
 

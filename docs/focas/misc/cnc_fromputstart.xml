@@ -220,11 +220,11 @@
     <reference>
         <item>
             <name>cnc_fromput</name>
-            <file>Misc/cnc_fromput.htm</file>
+            <file>../misc/cnc_fromput.xml</file>
         </item>
         <item>
             <name>cnc_fromputend</name>
-            <file>Misc/cnc_fromputend.htm</file>
+            <file>../misc/cnc_fromputend.xml</file>
         </item>
     </reference>
 

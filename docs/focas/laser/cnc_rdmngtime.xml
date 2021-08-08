@@ -248,7 +248,7 @@ typedef struct iodbmngtime {
     <reference>
         <item>
             <name>cnc_wrmngtime</name>
-            <file>Laser/cnc_wrmngtime.htm</file>
+            <file>../laser/cnc_wrmngtime.xml</file>
         </item>
     </reference>
 

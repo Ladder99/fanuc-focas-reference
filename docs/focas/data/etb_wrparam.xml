@@ -341,7 +341,7 @@ typedef struct _etbprm {
     <reference>
         <item>
             <name>etb_rdparam</name>
-            <file>Data/etb_rdparam.htm</file>
+            <file>../data/etb_rdparam.xml</file>
         </item>
     </reference>
 

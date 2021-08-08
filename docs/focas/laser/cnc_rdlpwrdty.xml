@@ -226,7 +226,7 @@ typedef struct iodblpwdt {
     <reference>
         <item>
             <name>cnc_wrlpwrdty</name>
-            <file>Laser/cnc_wrlpwrdty.htm</file>
+            <file>../laser/cnc_wrlpwrdty.xml</file>
         </item>
     </reference>
 

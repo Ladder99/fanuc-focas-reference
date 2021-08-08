@@ -1155,19 +1155,19 @@ typedef struct odbtofs {
     <reference>
         <item>
             <name>cnc_wrtofs</name>
-            <file>ncdata/cnc_wrtofs.htm</file>
+            <file>../ncdata/cnc_wrtofs.xml</file>
         </item>
         <item>
             <name>cnc_rdtofsr</name>
-            <file>ncdata/cnc_rdtofsr.htm</file>
+            <file>../ncdata/cnc_rdtofsr.xml</file>
         </item>
         <item>
             <name>cnc_wrtofsr</name>
-            <file>ncdata/cnc_wrtofsr.htm</file>
+            <file>../ncdata/cnc_wrtofsr.xml</file>
         </item>
         <item>
             <name>cnc_rdtofsinfo</name>
-            <file>ncdata/cnc_rdtofsinfo.htm</file>
+            <file>../ncdata/cnc_rdtofsinfo.xml</file>
         </item>
     </reference>
 

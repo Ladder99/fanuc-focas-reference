@@ -216,11 +216,11 @@ typedef struct odbprgname {
     <reference>
         <item>
             <name>cnc_setpdf_pglock</name>
-            <file>Program/cnc_setpdf_pglock.htm</file>
+            <file>../program/cnc_setpdf_pglock.xml</file>
         </item>
         <item>
             <name>cnc_resetpdf_pglock</name>
-            <file>Program/cnc_resetpdf_pglock.htm</file>
+            <file>../program/cnc_resetpdf_pglock.xml</file>
         </item>
     </reference>
 

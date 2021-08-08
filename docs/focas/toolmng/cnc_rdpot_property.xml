@@ -269,11 +269,11 @@ typedef struct  iodbpotprty {
     <reference>
         <item>
             <name>cnc_wrpot_property</name>
-            <file>ToolMng/cnc_wrpot_property.htm</file>
+            <file>../toolMng/cnc_wrpot_property.xml</file>
         </item>
         <item>
             <name>cnc_delpot_property</name>
-            <file>ToolMng/cnc_delpot_property.htm</file>
+            <file>../toolMng/cnc_delpot_property.xml</file>
         </item>
     </reference>
 

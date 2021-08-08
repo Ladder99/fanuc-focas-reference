@@ -598,7 +598,7 @@ In order to get more information for this err_no return value, execute <a href="
     <reference>
         <item>
             <name>cnc_getlockstat</name>
-            <file>Misc/cnc_getlockstat.htm</file>
+            <file>../misc/cnc_getlockstat.xml</file>
         </item>
     </reference>
 

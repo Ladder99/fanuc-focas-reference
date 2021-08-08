@@ -512,7 +512,7 @@ sysinfo.axes     = " 3"
     <reference>
         <item>
             <name>cnc_sysinfo_ex</name>
-            <file>misc/cnc_sysinfo_ex.htm</file>
+            <file>../misc/cnc_sysinfo_ex.xml</file>
         </item>
     </reference>
 

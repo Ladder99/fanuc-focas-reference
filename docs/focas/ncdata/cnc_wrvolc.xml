@@ -295,11 +295,11 @@ typedef struct odbvolc {
     <reference>
         <item>
             <name>cnc_rdvolc</name>
-            <file>ncdata/cnc_rdvolc.htm</file>
+            <file>../ncdata/cnc_rdvolc.xml</file>
         </item>
         <item>
             <name>cnc_rdvolccomp</name>
-            <file>ncdata/cnc_rdvolccomp.htm</file>
+            <file>../ncdata/cnc_rdvolccomp.xml</file>
         </item>
     </reference>
 

@@ -213,7 +213,7 @@
     <reference>
         <item>
             <name>cnc_wrmenuswitch</name>
-            <file>misc/cnc_wrmenuswitch.htm</file>
+            <file>../misc/cnc_wrmenuswitch.xml</file>
         </item>
     </reference>
 

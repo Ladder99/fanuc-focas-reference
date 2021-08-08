@@ -253,7 +253,7 @@
     <reference>
         <item class="xis">
             <name>cnc_seqsrch2</name>
-            <file>Program/cnc_seqsrch2.htm</file>
+            <file>../program/cnc_seqsrch2.xml</file>
         </item>
     </reference>
 

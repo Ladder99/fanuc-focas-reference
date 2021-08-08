@@ -239,19 +239,19 @@ typedef struct odbomif {
     <reference>
         <item>
             <name>cnc_stopomhis</name>
-            <file>History/cnc_stopomhis.htm</file>
+            <file>../history/cnc_stopomhis.xml</file>
         </item>
         <item>
             <name>cnc_startomhis</name>
-            <file>History/cnc_startomhis.htm</file>
+            <file>../history/cnc_startomhis.xml</file>
         </item>
         <item>
             <name>cnc_rdomhistry</name>
-            <file>History/cnc_rdomhistry.htm</file>
+            <file>../history/cnc_rdomhistry.xml</file>
         </item>
         <item>
             <name>cnc_clearomhis</name>
-            <file>History/cnc_clearomhis.htm</file>
+            <file>../history/cnc_clearomhis.xml</file>
         </item>
     </reference>
 

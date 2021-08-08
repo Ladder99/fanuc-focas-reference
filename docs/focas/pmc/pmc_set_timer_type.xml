@@ -242,7 +242,7 @@
         <reference>
             <item>
                 <name>pmc_get_timer_type</name>>
-                <file>Pmc/pmc_get_timer_type.htm</file>
+                <file>../pmc/pmc_get_timer_type.xml</file>
             </item>
         </reference>
 

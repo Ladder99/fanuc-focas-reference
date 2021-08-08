@@ -422,11 +422,11 @@
     <reference>
         <item>
             <name>cnc_dwnstart3</name>
-            <file>Program/cnc_dwnstart3.htm</file>
+            <file>../program/cnc_dwnstart3.xml</file>
         </item>
         <item>
             <name>cnc_download3</name>
-            <file>Program/cnc_download3.htm</file>
+            <file>../program/cnc_download3.xml</file>
         </item>
     </reference>
 

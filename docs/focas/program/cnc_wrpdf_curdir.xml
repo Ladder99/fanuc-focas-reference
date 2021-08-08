@@ -229,7 +229,7 @@
     <reference>
         <item>
             <name>cnc_rdpdf_curdir</name>
-            <file>Program/cnc_rdpdf_curdir.htm</file>
+            <file>../program/cnc_rdpdf_curdir.xml</file>
         </item>
     </reference>
 

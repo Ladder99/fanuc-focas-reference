@@ -272,7 +272,7 @@ typedef union hspdata {
     <reference>
         <item>
             <name>cnc_rdhsprminfo</name>
-            <file>ncdata/cnc_rdhsprminfo.htm</file>
+            <file>../ncdata/cnc_rdhsprminfo.xml</file>
         </item>
     </reference>
 

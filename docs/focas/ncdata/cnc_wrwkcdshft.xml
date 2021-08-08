@@ -350,15 +350,15 @@ typedef struct iodbwcsf {
     <reference>
         <item>
             <name>cnc_rdwkcdshft</name>
-            <file>ncdata/cnc_rdwkcdshft.htm</file>
+            <file>../ncdata/cnc_rdwkcdshft.xml</file>
         </item>
         <item>
             <name>cnc_rdwkcdsfms</name>
-            <file>ncdata/cnc_rdwkcdsfms.htm</file>
+            <file>../ncdata/cnc_rdwkcdsfms.xml</file>
         </item>
         <item>
             <name>cnc_wrwkcdsfms</name>
-            <file>ncdata/cnc_wrwkcdsfms.htm</file>
+            <file>../ncdata/cnc_wrwkcdsfms.xml</file>
         </item>
     </reference>
 

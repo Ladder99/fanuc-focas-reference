@@ -233,7 +233,7 @@
         <reference>
             <item>
                 <name>pmc_set_timer_type</name>>
-                <file>Pmc/pmc_set_timer_type.htm</file>
+                <file>../pmc/pmc_set_timer_type.xml</file>
             </item>
         </reference>
 

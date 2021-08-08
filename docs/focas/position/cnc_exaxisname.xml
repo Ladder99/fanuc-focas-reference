@@ -259,7 +259,7 @@
     <reference>
         <item>
             <name>cnc_exaxisname2</name>
-            <file>position/cnc_exaxisname2.htm</file>
+            <file>../position/cnc_exaxisname2.xml</file>
         </item>
     </reference>
 

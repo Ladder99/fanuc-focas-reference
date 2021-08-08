@@ -287,7 +287,7 @@ typedef struct idbmgrp {
     <reference>
         <item>
             <name>cnc_rdmgrpdata</name>
-            <file>ncdata/cnc_rdmgrpdata.htm</file>
+            <file>../ncdata/cnc_rdmgrpdata.xml</file>
         </item>
     </reference>
 

@@ -335,7 +335,7 @@ typedef struct odbtlife5 {
     <reference>
         <item>
             <name>cnc_rdgrpid</name>
-            <file>Toollife/cnc_rdgrpid.htm</file>
+            <file>../toollife/cnc_rdgrpid.xml</file>
         </item>
     </reference>
 

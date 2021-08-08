@@ -262,7 +262,7 @@
     <reference>
         <item>
             <name>cnc_rddsfile</name>
-            <file>Data/cnc_rddsfile.htm</file>
+            <file>../data/cnc_rddsfile.xml</file>
         </item>
     </reference>
 

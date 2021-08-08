@@ -222,19 +222,19 @@ ODB3DHDL tooltip[2] ;
     <reference>
         <item>
             <name>cnc_rd3dpulse</name>
-            <file>position/cnc_rd3dpulse.htm</file>
+            <file>../position/cnc_rd3dpulse.xml</file>
         </item>
         <item>
             <name>cnc_rd3dmovrlap</name>
-            <file>position/cnc_rd3dmovrlap.htm</file>
+            <file>../position/cnc_rd3dmovrlap.xml</file>
         </item>
         <item>
             <name>cnc_rd3dofschg</name>
-            <file>position/cnc_rd3dofschg.htm</file>
+            <file>../position/cnc_rd3dofschg.xml</file>
         </item>
         <item>
             <name>cnc_clr3dplsmov</name>
-            <file>position/cnc_clr3dplsmov.htm</file>
+            <file>../position/cnc_clr3dplsmov.xml</file>
         </item>
     </reference>
 

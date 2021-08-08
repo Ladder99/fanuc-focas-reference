@@ -446,43 +446,43 @@ typedef struct odbdy2 {
     <reference>
         <item>
             <name>cnc_rddynamic</name>
-            <file>position/cnc_rddynamic.htm</file>
+            <file>../position/cnc_rddynamic.xml</file>
         </item>
         <item>
             <name>cnc_alarm2</name>
-            <file>misc/cnc_alarm2.htm</file>
+            <file>../misc/cnc_alarm2.xml</file>
         </item>
         <item>
             <name>cnc_rdprgnum</name>
-            <file>program/cnc_rdprgnum.htm</file>
+            <file>../program/cnc_rdprgnum.xml</file>
         </item>
         <item>
             <name>cnc_rdseqnum</name>
-            <file>program/cnc_rdseqnum.htm</file>
+            <file>../program/cnc_rdseqnum.xml</file>
         </item>
         <item>
             <name>cnc_actf</name>
-            <file>position/cnc_actf.htm</file>
+            <file>../position/cnc_actf.xml</file>
         </item>
         <item>
             <name>cnc_acts</name>
-            <file>position/cnc_acts.htm</file>
+            <file>../position/cnc_acts.xml</file>
         </item>
         <item>
             <name>cnc_absolute</name>
-            <file>position/cnc_absolute.htm</file>
+            <file>../position/cnc_absolute.xml</file>
         </item>
         <item>
             <name>cnc_machine</name>
-            <file>position/cnc_machine.htm</file>
+            <file>../position/cnc_machine.xml</file>
         </item>
         <item>
             <name>cnc_relative</name>
-            <file>position/cnc_relative.htm</file>
+            <file>../position/cnc_relative.xml</file>
         </item>
         <item>
             <name>cnc_distance</name>
-            <file>position/cnc_distance.htm</file>
+            <file>../position/cnc_distance.xml</file>
         </item>
     </reference>
 

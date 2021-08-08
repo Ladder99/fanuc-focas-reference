@@ -186,7 +186,7 @@
     <reference>
         <item>
             <name>cnc_dtsvrdcram</name>
-            <file>Data/cnc_dtsvrdcram.htm</file>
+            <file>../data/cnc_dtsvrdcram.xml</file>
         </item>
     </reference>
 

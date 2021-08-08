@@ -290,11 +290,11 @@
     <reference>
         <item>
             <name>cnc_resetpdf_pglock</name>
-            <file>Program/cnc_resetpdf_pglock.htm</file>
+            <file>../program/cnc_resetpdf_pglock.xml</file>
         </item>
         <item>
             <name>cnc_rdpdf_pglockstat</name>
-            <file>Program/cnc_rdpdf_pglockstat.htm</file>
+            <file>../program/cnc_rdpdf_pglockstat.xml</file>
         </item>
     </reference>
 

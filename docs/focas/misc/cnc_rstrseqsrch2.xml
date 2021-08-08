@@ -266,11 +266,11 @@ The following details status will be set onto the member, err_no of ODBERR struc
     <reference>
         <item>
             <name>cnc_rdprstrinfo</name>
-            <file>misc/cnc_rdprstrinfo.htm</file>
+            <file>../misc/cnc_rdprstrinfo.xml</file>
         </item>
         <item>
             <name>cnc_rstrseqsrch</name>
-            <file>misc/cnc_rstrseqsrch.htm</file>
+            <file>../misc/cnc_rstrseqsrch.xml</file>
         </item>
     </reference>
 

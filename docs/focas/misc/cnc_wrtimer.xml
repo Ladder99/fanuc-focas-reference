@@ -204,7 +204,7 @@ typedef struct iodbtime {
     <reference>
         <item>
             <name>cnc_rdtimer</name>
-            <file>Misc/cnc_rdtimer.htm</file>
+            <file>../misc/cnc_rdtimer.xml</file>
         </item>
     </reference>
 

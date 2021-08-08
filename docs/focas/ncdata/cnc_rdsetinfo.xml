@@ -696,23 +696,23 @@ typedef struct odbsetif {
     <reference>
         <item>
             <name>cnc_rdset</name>
-            <file>ncdata/cnc_rdset.htm</file>
+            <file>../ncdata/cnc_rdset.xml</file>
         </item>
         <item>
             <name>cnc_wrset</name>
-            <file>ncdata/cnc_wrset.htm</file>
+            <file>../ncdata/cnc_wrset.xml</file>
         </item>
         <item>
             <name>cnc_rdsetr</name>
-            <file>ncdata/cnc_rdsetr.htm</file>
+            <file>../ncdata/cnc_rdsetr.xml</file>
         </item>
         <item>
             <name>cnc_wrsets</name>
-            <file>ncdata/cnc_wrsets.htm</file>
+            <file>../ncdata/cnc_wrsets.xml</file>
         </item>
         <item>
             <name>cnc_rdsetnum</name>
-            <file>ncdata/cnc_rdsetnum.htm</file>
+            <file>../ncdata/cnc_rdsetnum.xml</file>
         </item>
     </reference>
 

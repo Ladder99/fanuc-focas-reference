@@ -270,15 +270,15 @@ typedef struct odbup {
     <reference>
         <item>
             <name>cnc_upstart</name>
-            <file>Program/cnc_upstart.htm</file>
+            <file>../program/cnc_upstart.xml</file>
         </item>
         <item>
             <name>cnc_cupload</name>
-            <file>Program/cnc_cupload.htm</file>
+            <file>../program/cnc_cupload.xml</file>
         </item>
         <item>
             <name>cnc_upend</name>
-            <file>Program/cnc_upend.htm</file>
+            <file>../program/cnc_upend.xml</file>
         </item>
     </reference>
 

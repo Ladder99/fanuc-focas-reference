@@ -357,11 +357,11 @@
     <reference>
         <item>
             <name>cnc_delall</name>
-            <file>Program/cnc_delall.htm</file>
+            <file>../program/cnc_delall.xml</file>
         </item>
         <item>
             <name>cnc_delrange</name>
-            <file>Program/cnc_delrange.htm</file>
+            <file>../program/cnc_delrange.xml</file>
         </item>
     </reference>
 

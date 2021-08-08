@@ -572,19 +572,19 @@ typedef struct iodbzofs {
     <reference>
         <item>
             <name>cnc_rdzofs</name>
-            <file>ncdata/cnc_rdzofs.htm</file>
+            <file>../ncdata/cnc_rdzofs.xml</file>
         </item>
         <item>
             <name>cnc_rdzofsr</name>
-            <file>ncdata/cnc_rdzofsr.htm</file>
+            <file>../ncdata/cnc_rdzofsr.xml</file>
         </item>
         <item>
             <name>cnc_wrzofsr</name>
-            <file>ncdata/cnc_wrzofsr.htm</file>
+            <file>../ncdata/cnc_wrzofsr.xml</file>
         </item>
         <item>
             <name>cnc_rdzofsinfo</name>
-            <file>ncdata/cnc_rdzofsinfo.htm</file>
+            <file>../ncdata/cnc_rdzofsinfo.xml</file>
         </item>
     </reference>
 

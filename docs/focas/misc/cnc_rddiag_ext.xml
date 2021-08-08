@@ -458,19 +458,19 @@ typedef struct iodbprm {
     <reference>
         <item>
             <name>cnc_diagnoss</name>
-            <file>misc/cnc_diagnoss.htm</file>
+            <file>../misc/cnc_diagnoss.xml</file>
         </item>
         <item>
             <name>cnc_diagnosr</name>
-            <file>misc/cnc_diagnosr.htm</file>
+            <file>../misc/cnc_diagnosr.xml</file>
         </item>
         <item>
             <name>cnc_rddiaginfo</name>
-            <file>misc/cnc_rddiaginfo.htm</file>
+            <file>../misc/cnc_rddiaginfo.xml</file>
         </item>
         <item>
             <name>cnc_rddiagnum</name>
-            <file>misc/cnc_rddiagnum.htm</file>
+            <file>../misc/cnc_rddiagnum.xml</file>
         </item>
     </reference>
 

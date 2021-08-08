@@ -197,7 +197,7 @@
     <reference>
         <item>
             <name>pmc_prfwropmode</name>
-            <file>Profibus/pmc_prfwropmode.htm</file>
+            <file>../profibus/pmc_prfwropmode.xml</file>
         </item>
     </reference>
 

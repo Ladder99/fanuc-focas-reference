@@ -618,29 +618,29 @@ typedef struct alminfo {
     <reference>
         <item>
             <name>cnc_alarm</name>
-            <file>misc/cnc_alarm.htm</file>
+            <file>../misc/cnc_alarm.xml</file>
         </item>
         <item>
             <name>cnc_alarm2</name>
-            <file>misc/cnc_alarm2.htm</file>
+            <file>../misc/cnc_alarm2.xml</file>
         </item>
         <item>
             <name>cnc_rdalmmsg</name>
-            <file>misc/cnc_rdalmmsg.htm</file>
+            <file>../misc/cnc_rdalmmsg.xml</file>
         </item>
         <is>
             <item>
                 <name>cnc_alarm</name>
-                <file>misc/cnc_alarm.htm</file>
+                <file>../misc/cnc_alarm.xml</file>
             </item>
             <item>
                 <name>cnc_alarm2</name>
-                <file>misc/cnc_alarm2.htm</file>
+                <file>../misc/cnc_alarm2.xml</file>
             </item>
             <!-- is Nothing 
             <item>
                 <name>cnc_rdalmmsg</name>
-                <file>misc/cnc_rdalmmsg.htm</file>
+                <file>../misc/cnc_rdalmmsg.xml</file>
             </item>
             -->
         </is>

@@ -308,7 +308,7 @@ typedef struct iodbedge {
     <reference>
         <item>
             <name>cnc_wrpscdedge</name>
-            <file>Laser/cnc_wrpscdedge.htm</file>
+            <file>../laser/cnc_wrpscdedge.xml</file>
         </item>
     </reference>
 

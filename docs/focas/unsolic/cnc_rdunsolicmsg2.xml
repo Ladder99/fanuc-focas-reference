@@ -295,27 +295,27 @@ typedef struct unsolicmsg_type_msg {
     <reference>
         <item>
             <name>cnc_wrunsolicprm</name>
-            <file>Unsolic/cnc_wrunsolicprm.htm</file>
+            <file>../unsolic/cnc_wrunsolicprm.xml</file>
         </item>
         <item>
             <name>cnc_wrunsolicprm2</name>
-            <file>Unsolic/cnc_wrunsolicprm2.htm</file>
+            <file>../unsolic/cnc_wrunsolicprm2.xml</file>
         </item>
         <item>
             <name>cnc_rdunsolicprm</name>
-            <file>Unsolic/cnc_rdunsolicprm.htm</file>
+            <file>../unsolic/cnc_rdunsolicprm.xml</file>
         </item>
         <item>
             <name>cnc_rdunsolicprm2</name>
-            <file>Unsolic/cnc_rdunsolicprm2.htm</file>
+            <file>../unsolic/cnc_rdunsolicprm2.xml</file>
         </item>
         <item>
             <name>cnc_unsolicstart</name>
-            <file>Unsolic/cnc_unsolicstart.htm</file>
+            <file>../unsolic/cnc_unsolicstart.xml</file>
         </item>
         <item>
             <name>cnc_unsolicstop</name>
-            <file>Unsolic/cnc_unsolicstop.htm</file>
+            <file>../unsolic/cnc_unsolicstop.xml</file>
         </item>
     </reference>
 

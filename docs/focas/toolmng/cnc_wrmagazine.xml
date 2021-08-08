@@ -313,15 +313,15 @@
     <reference>
         <item>
             <name>cnc_regmagazine</name>
-            <file>ToolMng/cnc_regmagazine.htm</file>
+            <file>../toolMng/cnc_regmagazine.xml</file>
         </item>
         <item>
             <name>cnc_delmagazine</name>
-            <file>ToolMng/cnc_delmagazine.htm</file>
+            <file>../toolMng/cnc_delmagazine.xml</file>
         </item>
         <item>
             <name>cnc_rdmagazine</name>
-            <file>ToolMng/cnc_rdmagazine.htm</file>
+            <file>../toolMng/cnc_rdmagazine.xml</file>
         </item>
     </reference>
 

@@ -453,7 +453,7 @@ typedef struct iodbpscd {
     <reference>
         <item>
             <name>cnc_wrpscdproc</name>
-            <file>Laser/cnc_wrpscdproc.htm</file>
+            <file>../laser/cnc_wrpscdproc.xml</file>
         </item>
     </reference>
 

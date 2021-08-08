@@ -293,11 +293,11 @@ typedef struct odbpdfsdir {
     <reference>
         <item>
             <name>cnc_rdpdf_alldir</name>
-            <file>Program/cnc_rdpdf_alldir.htm</file>
+            <file>../program/cnc_rdpdf_alldir.xml</file>
         </item>
         <item>
             <name>cnc_rdpdf_subdirn</name>
-            <file>Program/cnc_rdpdf_subdirn.htm</file>
+            <file>../program/cnc_rdpdf_subdirn.xml</file>
         </item>
     </reference>
 

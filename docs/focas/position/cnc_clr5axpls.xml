@@ -208,11 +208,11 @@
     <reference>
         <item>
             <name>cnc_rd5axmandt</name>
-            <file>position/cnc_rd5axmandt.htm</file>
+            <file>../position/cnc_rd5axmandt.xml</file>
         </item>
         <item>
             <name>cnc_rd5axovrlap</name>
-            <file>position/cnc_rd5axovrlap.htm</file>
+            <file>../position/cnc_rd5axovrlap.xml</file>
         </item>
     </reference>
 

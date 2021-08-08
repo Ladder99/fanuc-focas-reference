@@ -367,35 +367,35 @@ typedef struct odbpminf {
     <reference>
         <item>
             <name>cnc_rdpmacro</name>
-            <file>ncdata/cnc_rdpmacro.htm</file>
+            <file>../ncdata/cnc_rdpmacro.xml</file>
         </item>
         <item>
             <name>cnc_wrpmacro</name>
-            <file>ncdata/cnc_wrpmacro.htm</file>
+            <file>../ncdata/cnc_wrpmacro.xml</file>
         </item>
         <item>
             <name>cnc_rdpmacror</name>
-            <file>ncdata/cnc_rdpmacror.htm</file>
+            <file>../ncdata/cnc_rdpmacror.xml</file>
         </item>
         <item>
             <name>cnc_wrpmacror</name>
-            <file>ncdata/cnc_wrpmacror.htm</file>
+            <file>../ncdata/cnc_wrpmacror.xml</file>
         </item>
         <item>
             <name>cnc_rdpmacror2</name>
-            <file>ncdata/cnc_rdpmacror2.htm</file>
+            <file>../ncdata/cnc_rdpmacror2.xml</file>
         </item>
         <item>
             <name>cnc_wrpmacror2</name>
-            <file>ncdata/cnc_wrpmacror2.htm</file>
+            <file>../ncdata/cnc_wrpmacror2.xml</file>
         </item>
         <item>
             <name>cnc_getpmactype</name>
-            <file>ncdata/cnc_getpmactype.htm</file>
+            <file>../ncdata/cnc_getpmactype.xml</file>
         </item>
         <item>
             <name>cnc_setpmactype</name>
-            <file>ncdata/cnc_setpmactype.htm</file>
+            <file>../ncdata/cnc_setpmactype.xml</file>
         </item>
     </reference>
 

@@ -330,19 +330,19 @@
     <reference>
         <item>
             <name>cnc_rdzofs</name>
-            <file>ncdata/cnc_rdzofs.htm</file>
+            <file>../ncdata/cnc_rdzofs.xml</file>
         </item>
         <item>
             <name>cnc_wrzofs</name>
-            <file>ncdata/cnc_wrzofs.htm</file>
+            <file>../ncdata/cnc_wrzofs.xml</file>
         </item>
         <item>
             <name>cnc_rdzofsr</name>
-            <file>ncdata/cnc_rdzofsr.htm</file>
+            <file>../ncdata/cnc_rdzofsr.xml</file>
         </item>
         <item>
             <name>cnc_wrzofsr</name>
-            <file>ncdata/cnc_wrzofsr.htm</file>
+            <file>../ncdata/cnc_wrzofsr.xml</file>
         </item>
     </reference>
 

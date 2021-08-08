@@ -208,7 +208,7 @@
     <reference>
         <item>
             <name>ds_wrdnchostfile</name>
-            <file>Data/ds_wrdnchostfile.htm</file>
+            <file>../data/ds_wrdnchostfile.xml</file>
         </item>
     </reference>
 

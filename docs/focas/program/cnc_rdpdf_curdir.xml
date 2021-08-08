@@ -211,7 +211,7 @@
     <reference>
         <item>
             <name>cnc_wrpdf_curdir</name>
-            <file>Program/cnc_wrpdf_curdir.htm</file>
+            <file>../program/cnc_wrpdf_curdir.xml</file>
         </item>
     </reference>
 

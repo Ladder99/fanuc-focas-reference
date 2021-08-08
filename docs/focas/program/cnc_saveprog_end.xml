@@ -226,7 +226,7 @@
     <reference>
         <item>
             <name>cnc_saveprog_start</name>
-            <file>Program/cnc_saveprog_start.htm</file>
+            <file>../program/cnc_saveprog_start.xml</file>
         </item>
     </reference>
 

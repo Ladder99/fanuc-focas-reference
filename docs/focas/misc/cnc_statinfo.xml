@@ -1090,7 +1090,7 @@ typedef struct odbst {
     <reference>
         <item class="xis">
             <name>cnc_statinfo2</name>
-            <file>Misc/cnc_statinfo2.htm</file>
+            <file>../misc/cnc_statinfo2.xml</file>
         </item>
     </reference>
 

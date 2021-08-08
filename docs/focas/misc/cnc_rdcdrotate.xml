@@ -238,35 +238,35 @@ typedef struct odbrot {
     <reference>
         <item>
             <name>cnc_rdradofs</name>
-            <file>misc/cnc_rdradofs.htm</file>
+            <file>../misc/cnc_rdradofs.xml</file>
         </item>
         <item>
             <name>cnc_rdlenofs</name>
-            <file>misc/cnc_rdlenofs.htm</file>
+            <file>../misc/cnc_rdlenofs.xml</file>
         </item>
         <item>
             <name>cnc_rdfixcycle</name>
-            <file>misc/cnc_rdfixcycle.htm</file>
+            <file>../misc/cnc_rdfixcycle.xml</file>
         </item>
         <item>
             <name>cnc_rd3dcdcnv</name>
-            <file>misc/cnc_rd3dcdcnv.htm</file>
+            <file>../misc/cnc_rd3dcdcnv.xml</file>
         </item>
         <item>
             <name>cnc_rdmirimage</name>
-            <file>misc/cnc_rdmirimage.htm</file>
+            <file>../misc/cnc_rdmirimage.xml</file>
         </item>
         <item>
             <name>cnc_rdscaling</name>
-            <file>misc/cnc_rdscaling.htm</file>
+            <file>../misc/cnc_rdscaling.xml</file>
         </item>
         <item>
             <name>cnc_rd3dtofs</name>
-            <file>misc/cnc_rd3dtofs.htm</file>
+            <file>../misc/cnc_rd3dtofs.xml</file>
         </item>
         <item>
             <name>cnc_rdposofs</name>
-            <file>misc/cnc_rdposofs.htm</file>
+            <file>../misc/cnc_rdposofs.xml</file>
         </item>
     </reference>
 

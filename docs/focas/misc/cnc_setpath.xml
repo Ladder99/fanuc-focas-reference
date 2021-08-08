@@ -281,7 +281,7 @@ Specify the path number.
     <reference>
         <item>
             <name>cnc_getpath</name>
-            <file>misc/cnc_getpath.htm</file>
+            <file>../misc/cnc_getpath.xml</file>
         </item>
     </reference>
 

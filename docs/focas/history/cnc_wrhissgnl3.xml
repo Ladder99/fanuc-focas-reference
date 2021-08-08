@@ -288,11 +288,11 @@ typedef struct iodbsig3 {
     <reference>
         <item>
             <name>cnc_rdhissgnl3</name>
-            <file>History/cnc_rdhissgnl3.htm</file>
+            <file>../history/cnc_rdhissgnl3.xml</file>
         </item>
         <item class="xis">
             <name>cnc_wrhissgnl</name>
-            <file>History/cnc_wrhissgnl.htm</file>
+            <file>../history/cnc_wrhissgnl.xml</file>
         </item>
     </reference>
 

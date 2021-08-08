@@ -200,7 +200,7 @@
     <reference>
         <item>
             <name>ds_rddnchostfile</name>
-            <file>Data/ds_rddnchostfile.htm</file>
+            <file>../data/ds_rddnchostfile.xml</file>
         </item>
     </reference>
 

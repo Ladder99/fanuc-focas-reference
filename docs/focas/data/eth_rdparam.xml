@@ -681,7 +681,7 @@ typedef struct _ping_prm {
     <reference>
         <item>
             <name>eth_wrparam</name>
-            <file>Data/eth_wrparam.htm</file>
+            <file>../data/eth_wrparam.xml</file>
         </item>
     </reference>
 

@@ -284,11 +284,11 @@ typedef struct odbpmcinf {
     <reference>
         <item>
             <name>pmc_rdpmcrng</name>
-            <file>Pmc/pmc_rdpmcrng.htm</file>
+            <file>../pmc/pmc_rdpmcrng.xml</file>
         </item>
         <item>
             <name>pmc_wrpmcrng</name>
-            <file>Pmc/pmc_wrpmcrng.htm</file>
+            <file>../pmc/pmc_wrpmcrng.xml</file>
         </item>
     </reference>
 

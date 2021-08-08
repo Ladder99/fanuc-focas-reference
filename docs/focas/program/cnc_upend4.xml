@@ -244,11 +244,11 @@
     <reference>
         <item>
             <name>cnc_upstart4</name>
-            <file>Program/cnc_upstart4.htm</file>
+            <file>../program/cnc_upstart4.xml</file>
         </item>
         <item>
             <name>cnc_upload4</name>
-            <file>Program/cnc_upload4.htm</file>
+            <file>../program/cnc_upload4.xml</file>
         </item>
     </reference>
 

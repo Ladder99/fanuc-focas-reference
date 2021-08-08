@@ -208,7 +208,7 @@ In case of subprogram call, the remainder counter is acquired.
     <reference>
         <item>
             <name>cnc_rdrepeatval_ext</name>
-            <file>misc/cnc_rdrepeatval_ext.htm</file>
+            <file>../misc/cnc_rdrepeatval_ext.xml</file>
         </item>
     </reference>
 

@@ -276,7 +276,7 @@ typedef struct prgdirtm {
     <reference>
         <item>
             <name>cnc_rdproctime</name>
-            <file>Program/cnc_rdproctime.htm</file>
+            <file>../program/cnc_rdproctime.xml</file>
         </item>
     </reference>
 

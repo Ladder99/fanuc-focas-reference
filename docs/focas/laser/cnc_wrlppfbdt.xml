@@ -371,7 +371,7 @@ typedef struct iodblppfbdt {
     <reference>
         <item>
             <name>cnc_rdlppfbdt</name>
-            <file>Laser/cnc_rdlppfbdt.htm</file>
+            <file>../laser/cnc_rdlppfbdt.xml</file>
         </item>
     </reference>
 

@@ -256,7 +256,7 @@ No option
     <reference>
         <item>
             <name>cnc_dtsvftpget</name>
-            <file>Data/cnc_dtsvftpget.htm</file>
+            <file>../data/cnc_dtsvftpget.xml</file>
         </item>
     </reference>
 

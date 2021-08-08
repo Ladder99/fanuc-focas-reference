@@ -236,11 +236,11 @@
     <reference>
         <item>
             <name>cnc_rdintchk</name>
-            <file>ncdata/cnc_rdintchk.htm</file>
+            <file>../ncdata/cnc_rdintchk.xml</file>
         </item>
         <item>
             <name>cnc_wrintchk</name>
-            <file>ncdata/cnc_wrintchk.htm</file>
+            <file>../ncdata/cnc_wrintchk.xml</file>
         </item>
     </reference>
 

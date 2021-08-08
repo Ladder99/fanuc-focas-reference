@@ -277,15 +277,15 @@
     <reference>
         <item>
             <name>cnc_getfrominfo</name>
-            <file>Misc/cnc_getfrominfo.htm</file>
+            <file>../misc/cnc_getfrominfo.xml</file>
         </item>
         <item>
             <name>cnc_fromgetstart</name>
-            <file>Misc/cnc_fromgetstart.htm</file>
+            <file>../misc/cnc_fromgetstart.xml</file>
         </item>
         <item>
             <name>cnc_fromgetend</name>
-            <file>Misc/cnc_fromgetend.htm</file>
+            <file>../misc/cnc_fromgetend.xml</file>
         </item>        
     </reference>
 

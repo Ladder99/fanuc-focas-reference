@@ -200,7 +200,7 @@
     <reference>
         <item>
             <name>ds_searchword</name>
-            <file>Data/ds_searchword.htm</file>
+            <file>../data/ds_searchword.xml</file>
         </item>
     </reference>
 

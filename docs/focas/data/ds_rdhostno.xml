@@ -197,7 +197,7 @@
     <reference>
         <item>
             <name>ds_wrhostno</name>
-            <file>Data/ds_wrhostno.htm</file>
+            <file>../data/ds_wrhostno.xml</file>
         </item>
     </reference>
 

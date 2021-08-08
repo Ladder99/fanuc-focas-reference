@@ -296,7 +296,7 @@ Type of the execution pointer you will set.
     <reference>
         <item>
             <name>cnc_rdactpt</name>
-            <file>Program/cnc_rdactpt.htm</file>
+            <file>../program/cnc_rdactpt.xml</file>
         </item>
     </reference>
 

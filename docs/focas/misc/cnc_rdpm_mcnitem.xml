@@ -215,7 +215,7 @@
     <reference>
         <item>
             <name>cnc_wrpm_mcnitem</name>
-            <file>misc/cnc_wrpm_mcnitem.htm</file>
+            <file>../misc/cnc_wrpm_mcnitem.xml</file>
         </item>
     </reference>
 

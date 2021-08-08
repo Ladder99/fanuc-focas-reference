@@ -321,7 +321,7 @@ typedef struct iodbpwrctl {
     <reference>
         <item>
             <name>cnc_wrlpscdpwrctl</name>
-            <file>Laser/cnc_wrlpscdpwrctl.htm</file>
+            <file>../laser/cnc_wrlpscdpwrctl.xml</file>
         </item>
     </reference>
 

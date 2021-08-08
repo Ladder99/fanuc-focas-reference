@@ -386,11 +386,11 @@ typedef struct odbpdfadir {
     <reference>
         <item>
             <name>cnc_rdpdf_subdir</name>
-            <file>Program/cnc_rdpdf_subdir.htm</file>
+            <file>../program/cnc_rdpdf_subdir.xml</file>
         </item>
         <item>
             <name>cnc_rdpdf_subdirn</name>
-            <file>Program/cnc_rdpdf_subdirn.htm</file>
+            <file>../program/cnc_rdpdf_subdirn.xml</file>
         </item>
     </reference>
 

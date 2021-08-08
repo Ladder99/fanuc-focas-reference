@@ -469,23 +469,23 @@ typedef struct iodbsgnl {
     <reference>
         <item>
             <name>cnc_wropnlsgnl</name>
-            <file>misc/cnc_wropnlsgnl.htm</file>
+            <file>../misc/cnc_wropnlsgnl.xml</file>
         </item>
         <item>
             <name>cnc_rdopnlgnrl</name>
-            <file>misc/cnc_rdopnlgnrl.htm</file>
+            <file>../misc/cnc_rdopnlgnrl.xml</file>
         </item>
         <item>
             <name>cnc_wropnlgnrl</name>
-            <file>misc/cnc_wropnlgnrl.htm</file>
+            <file>../misc/cnc_wropnlgnrl.xml</file>
         </item>
         <item>
             <name>cnc_rdopnlgsname</name>
-            <file>misc/cnc_rdopnlgsname.htm</file>
+            <file>../misc/cnc_rdopnlgsname.xml</file>
         </item>
         <item>
             <name>cnc_wropnlgsname</name>
-            <file>misc/cnc_wropnlgsname.htm</file>
+            <file>../misc/cnc_wropnlgsname.xml</file>
         </item>
     </reference>
 

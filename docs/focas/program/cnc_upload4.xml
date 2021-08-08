@@ -330,11 +330,11 @@
     <reference>
         <item>
             <name>cnc_upstart4</name>
-            <file>Program/cnc_upstart4.htm</file>
+            <file>../program/cnc_upstart4.xml</file>
         </item>
         <item>
             <name>cnc_upend4</name>
-            <file>Program/cnc_upend4.htm</file>
+            <file>../program/cnc_upend4.xml</file>
         </item>
     </reference>
 

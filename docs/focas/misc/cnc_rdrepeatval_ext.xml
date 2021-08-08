@@ -218,7 +218,7 @@
     <reference>
         <item>
             <name>cnc_rdrepeatval</name>
-            <file>misc/cnc_rdrepeatval.htm</file>
+            <file>../misc/cnc_rdrepeatval.xml</file>
         </item>
     </reference>
 

@@ -406,15 +406,15 @@
     <reference>
         <item>
             <name>cnc_dncstart2</name>
-            <file>Program/cnc_dncstart2.htm</file>
+            <file>../program/cnc_dncstart2.xml</file>
         </item>
         <item>
             <name>cnc_dncend2</name>
-            <file>Program/cnc_dncend2.htm</file>
+            <file>../program/cnc_dncend2.xml</file>
         </item>
         <item>
             <name>cnc_rddncdgndt</name>
-            <file>Program/cnc_rddncdgndt.htm</file>
+            <file>../program/cnc_rddncdgndt.xml</file>
         </item>
     </reference>
 

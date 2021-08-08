@@ -307,11 +307,11 @@
     <reference>
         <item>
             <name>cnc_rdpitchr</name>
-            <file>ncdata/cnc_rdpitchr.htm</file>
+            <file>../ncdata/cnc_rdpitchr.xml</file>
         </item>
         <item>
             <name>cnc_wrpitchr</name>
-            <file>ncdata/cnc_wrpitchr.htm</file>
+            <file>../ncdata/cnc_wrpitchr.xml</file>
         </item>
     </reference>
 

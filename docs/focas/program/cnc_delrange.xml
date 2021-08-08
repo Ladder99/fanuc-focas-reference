@@ -226,11 +226,11 @@
     <reference>
         <item>
             <name>cnc_delall</name>
-            <file>Program/cnc_delall.htm</file>
+            <file>../program/cnc_delall.xml</file>
         </item>
         <item>
             <name>cnc_delete</name>
-            <file>Program/cnc_delete.htm</file>
+            <file>../program/cnc_delete.xml</file>
         </item>
     </reference>
 

@@ -323,7 +323,7 @@ typedef struct _IN_PBSPRM{
     <reference>
         <item>
             <name>pbs_rd_param</name>
-            <file>Profibus/pbs_rd_param.htm</file>
+            <file>../profibus/pbs_rd_param.xml</file>
         </item>
     </reference>
 

@@ -300,15 +300,15 @@ The following detail status will be set onto the member, err_no of ODBERR struct
     <reference>
         <item>
             <name>cnc_getfrominfo</name>
-            <file>Misc/cnc_getfrominfo.htm</file>
+            <file>../misc/cnc_getfrominfo.xml</file>
         </item>
         <item>
             <name>cnc_fromputstart</name>
-            <file>Misc/cnc_fromputstart.htm</file>
+            <file>../misc/cnc_fromputstart.xml</file>
         </item>
         <item>
             <name>cnc_fromputend</name>
-            <file>Misc/cnc_fromputend.htm</file>
+            <file>../misc/cnc_fromputend.xml</file>
         </item>        
     </reference>
 

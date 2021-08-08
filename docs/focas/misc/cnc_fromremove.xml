@@ -256,7 +256,7 @@ The following detail status will be set onto the member, err_no of ODBERR struct
     <reference>
         <item>
             <name>cnc_getfrominfo</name>
-            <file>Misc/cnc_getfrominfo.htm</file>
+            <file>../misc/cnc_getfrominfo.xml</file>
         </item>
     </reference>
 

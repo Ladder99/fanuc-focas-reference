@@ -263,11 +263,11 @@
     <reference>
         <item>
             <name>cnc_dsmkdir</name>
-            <file>Data/cnc_dsmkdir.htm</file>
+            <file>../data/cnc_dsmkdir.xml</file>
         </item>
         <item>
             <name>cnc_dsrmdir</name>
-            <file>Data/cnc_dsrmdir.htm</file>
+            <file>../data/cnc_dsrmdir.xml</file>
         </item>
     </reference>
 

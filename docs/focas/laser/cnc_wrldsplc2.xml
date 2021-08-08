@@ -262,7 +262,7 @@ typedef struct iodbdsplc {
     <reference>
         <item>
             <name>cnc_rdldsplc2</name>
-            <file>Laser/cnc_rdldsplc2.htm</file>
+            <file>../laser/cnc_rdldsplc2.xml</file>
         </item>
     </reference>
 

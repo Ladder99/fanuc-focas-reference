@@ -313,11 +313,11 @@
     <reference>
        <item>
             <name>cnc_delete</name>
-            <file>Program/cnc_delete.htm</file>
+            <file>../program/cnc_delete.xml</file>
         </item>
         <item>
             <name>cnc_delrange</name>
-            <file>Program/cnc_delrange.htm</file>
+            <file>../program/cnc_delrange.xml</file>
         </item>
     </reference>
 

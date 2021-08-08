@@ -294,11 +294,11 @@
     <reference>
         <item>
             <name>cnc_vrfstart4</name>
-            <file>Program/cnc_vrfstart4.htm</file>
+            <file>../program/cnc_vrfstart4.xml</file>
         </item>
         <item>
             <name>cnc_vrfend4</name>
-            <file>Program/cnc_vrfend4.htm</file>
+            <file>../program/cnc_vrfend4.xml</file>
         </item>
     </reference>
 

@@ -447,7 +447,7 @@ typedef struct out_dsfile {
     <reference>
         <item>
             <name>cnc_rddsdir</name>
-            <file>Data/cnc_rddsdir.htm</file>
+            <file>../data/cnc_rddsdir.xml</file>
         </item>
     </reference>
 

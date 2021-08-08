@@ -190,7 +190,7 @@
     <reference>
         <item>
             <name>ds_rdm198hdddir</name>
-            <file>Data/ds_rdm198hdddir.htm</file>
+            <file>../data/ds_rdm198hdddir.xml</file>
         </item>
     </reference>
 

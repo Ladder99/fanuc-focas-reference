@@ -690,31 +690,31 @@ typedef struct iodbwvprm {
     <reference>
         <item>
             <name>cnc_rdwaveprm</name>
-            <file>Wave/cnc_rdwaveprm.htm</file>
+            <file>../wave/cnc_rdwaveprm.xml</file>
         </item>
         <item>
             <name>cnc_wrwaveprm</name>
-            <file>Wave/cnc_wrwaveprm.htm</file>
+            <file>../wave/cnc_wrwaveprm.xml</file>
         </item>
         <item>
             <name>cnc_wrwaveprm2</name>
-            <file>Wave/cnc_wrwaveprm2.htm</file>
+            <file>../wave/cnc_wrwaveprm2.xml</file>
         </item>
         <item>
             <name>cnc_wavestart</name>
-            <file>Wave/cnc_wavestart.htm</file>
+            <file>../wave/cnc_wavestart.xml</file>
         </item>
         <item>
             <name> cnc_wavestop</name>
-            <file>Wave/cnc_wavestop.htm</file>
+            <file>../wave/cnc_wavestop.xml</file>
         </item>
         <item>
             <name>cnc_wavestat</name>
-            <file>Wave/cnc_wavestat.htm</file>
+            <file>../wave/cnc_wavestat.xml</file>
         </item>
         <item>
             <name>cnc_rdwavedata</name>
-            <file>Wave/cnc_rdwavedata.htm</file>
+            <file>../wave/cnc_rdwavedata.xml</file>
         </item>
     </reference>
 

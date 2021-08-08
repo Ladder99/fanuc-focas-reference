@@ -201,7 +201,7 @@
     <reference>
         <item>
             <name>ds_wrm198hdddir</name>
-            <file>Data/ds_wrm198hdddir.htm</file>
+            <file>../data/ds_wrm198hdddir.xml</file>
         </item>
     </reference>
 

@@ -2026,11 +2026,11 @@ The array of g_data is stored in g_rdata.<br/>
 <reference>
     <item>
         <name>cnc_rdgcode</name>
-        <file>Misc/cnc_rdgcode.htm</file>
+        <file>../misc/cnc_rdgcode.xml</file>
     </item>
     <item>
         <name>cnc_rdcommand</name>
-        <file>Misc/cnc_rdcommand.htm</file>
+        <file>../misc/cnc_rdcommand.xml</file>
     </item>
 </reference>
 

@@ -380,21 +380,21 @@
     <reference>
         <item>
             <name>cnc_rdmdipntr</name>
-            <file>Program/cnc_rdmdipntr.htm</file>
+            <file>../program/cnc_rdmdipntr.xml</file>
         </item>
         <item>
             <name>cnc_wrmdipntr</name>
-            <file>Program/cnc_wrmdipntr.htm</file>
+            <file>../program/cnc_wrmdipntr.xml</file>
         </item>
 
         <is>
             <item>
                 <name>cnc_rdmdipntr</name>
-                <file>Program/cnc_rdmdipntr.htm</file>
+                <file>../program/cnc_rdmdipntr.xml</file>
             </item>
             <item>
                 <name>cnc_wrmdipntr</name>
-                <file>Program/cnc_wrmdipntr.htm</file>
+                <file>../program/cnc_wrmdipntr.xml</file>
             </item>
         </is>
     </reference>

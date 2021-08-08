@@ -211,7 +211,7 @@ typedef struct _out_ethdsmode {
     <reference>
         <item>
             <name>eth_wrdsmode</name>
-            <file>Data/eth_wrdsmode.htm</file>
+            <file>../data/eth_wrdsmode.xml</file>
         </item>
     </reference>
 

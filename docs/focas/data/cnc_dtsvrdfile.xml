@@ -297,7 +297,7 @@ After using this function, the mode of the channel used by this function is chan
     <reference>
         <item>
             <name>cnc_dtsvwrfile</name>
-            <file>Data/cnc_dtsvwrfile.htm</file>
+            <file>../data/cnc_dtsvwrfile.xml</file>
         </item>
     </reference>
 

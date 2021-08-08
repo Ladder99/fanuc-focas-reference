@@ -277,7 +277,7 @@ typedef struct odbact {
     <reference>
         <item>
             <name>cnc_acts2</name>
-            <file>position/cnc_acts2.htm</file>
+            <file>../position/cnc_acts2.xml</file>
         </item>
     </reference>
 

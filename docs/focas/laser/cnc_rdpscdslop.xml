@@ -296,7 +296,7 @@ typedef struct iodbslop {
     <reference>
         <item>
             <name>cnc_wrpscdslop</name>
-            <file>Laser/cnc_wrpscdslop.htm</file>
+            <file>../laser/cnc_wrpscdslop.xml</file>
         </item>
     </reference>
 

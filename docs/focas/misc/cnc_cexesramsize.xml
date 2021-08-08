@@ -225,11 +225,11 @@
     <reference>
         <item>
             <name>cnc_rdcexesram</name>
-            <file>Misc/cnc_rdcexesram.htm</file>
+            <file>../misc/cnc_rdcexesram.xml</file>
         </item>
         <item>
             <name>cnc_wrcexesram</name>
-            <file>Misc/cnc_wrcexesram.htm</file>
+            <file>../misc/cnc_wrcexesram.xml</file>
         </item>
     </reference>
 

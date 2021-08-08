@@ -240,11 +240,11 @@
         <reference>
             <item>
                 <name>cnc_getlibopt</name>
-                <file>handle/cnc_getlibopt.htm</file>
+                <file>../handle/cnc_getlibopt.xml</file>
             </item>
             <item>
                 <name>cnc_rdpdf_line</name>
-                <file>program/cnc_rdpdf_line.htm</file>
+                <file>../program/cnc_rdpdf_line.xml</file>
             </item>
         </reference>
 

@@ -197,7 +197,7 @@
     <reference>
         <item>
             <name>cnc_pdf_slctmain</name>
-            <file>Program/cnc_pdf_slctmain.htm</file>
+            <file>../program/cnc_pdf_slctmain.xml</file>
         </item>
     </reference>
 

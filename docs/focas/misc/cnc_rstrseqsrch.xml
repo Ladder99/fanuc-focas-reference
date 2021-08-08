@@ -321,11 +321,11 @@ Specify the search type.
     <reference>
         <item>
             <name>cnc_rdprstrinfo</name>
-            <file>misc/cnc_rdprstrinfo.htm</file>
+            <file>../misc/cnc_rdprstrinfo.xml</file>
         </item>
         <item class="xis">
             <name>cnc_rstrseqsrch2</name>
-            <file>misc/cnc_rstrseqsrch2.htm</file>
+            <file>../misc/cnc_rstrseqsrch2.xml</file>
         </item>
     </reference>
 

@@ -515,15 +515,15 @@ typedef struct odbsyss3 {
     <reference>
         <item class="xis">
             <name>cnc_rdsyssoft</name>
-            <file>misc/cnc_rdsyssoft.htm</file>
+            <file>../misc/cnc_rdsyssoft.xml</file>
         </item>
         <item class="xis">
             <name>cnc_rdsyssoft2</name>
-            <file>misc/cnc_rdsyssoft2.htm</file>
+            <file>../misc/cnc_rdsyssoft2.xml</file>
         </item>
         <item>
             <name>cnc_rdsyshard</name>
-            <file>misc/cnc_rdsyshard.htm</file>
+            <file>../misc/cnc_rdsyshard.xml</file>
         </item>
     </reference>
 

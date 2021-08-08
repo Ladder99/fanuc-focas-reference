@@ -203,7 +203,7 @@
     <reference>
         <item>
             <name>cnc_wrlpwrctrl</name>
-            <file>Laser/cnc_wrlpwrctrl.htm</file>
+            <file>../laser/cnc_wrlpwrctrl.xml</file>
         </item>
     </reference>
 

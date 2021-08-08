@@ -225,11 +225,11 @@
     <reference>
         <item>
             <name>cnc_dslistget_req</name>
-            <file>Data/cnc_dslistget_req.htm</file>
+            <file>../data/cnc_dslistget_req.xml</file>
         </item>
         <item>
             <name>cnc_dslistdel_req</name>
-            <file>Data/cnc_dslistdel_req.htm</file>
+            <file>../data/cnc_dslistdel_req.xml</file>
         </item>
     </reference>
 

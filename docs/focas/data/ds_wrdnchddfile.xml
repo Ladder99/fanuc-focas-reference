@@ -201,7 +201,7 @@
     <reference>
         <item>
             <name>ds_rddnchddfile</name>
-            <file>Data/ds_rddnchddfile.htm</file>
+            <file>../data/ds_rddnchddfile.xml</file>
         </item>
     </reference>
 

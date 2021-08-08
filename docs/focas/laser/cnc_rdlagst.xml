@@ -233,7 +233,7 @@ typedef struct iodblagst {
     <reference>
         <item>
             <name>cnc_wrlagst</name>
-            <file>Laser/cnc_wrlagst.htm</file>
+            <file>../laser/cnc_wrlagst.xml</file>
         </item>
     </reference>
 

@@ -937,11 +937,11 @@ typedef struct odbcmd {
     <reference>
         <item>
             <name>cnc_modal</name>
-            <file>Misc/cnc_modal.htm</file>
+            <file>../misc/cnc_modal.xml</file>
         </item>
         <item>
             <name>cnc_rdgcode</name>
-            <file>Misc/cnc_rdgcode.htm</file>
+            <file>../misc/cnc_rdgcode.xml</file>
         </item>
     </reference>
 

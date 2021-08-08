@@ -323,23 +323,23 @@ N005 M30 ;
     <reference>
         <item>
             <name>cnc_wrpdf_line</name>
-            <file>Program/cnc_wrpdf_line.htm</file>
+            <file>../program/cnc_wrpdf_line.xml</file>
         </item>
         <item>
             <name>cnc_del_pdfline</name>
-            <file>Program/cnc_pdf_delline.htm</file>
+            <file>../program/cnc_pdf_delline.xml</file>
         </item>
         <item>
             <name>cnc_pdf_searchword</name>
-            <file>Program/cnc_pdf_searchword.htm</file>
+            <file>../program/cnc_pdf_searchword.xml</file>
         </item>
         <item>
             <name>cnc_pdf_searchresult</name>
-            <file>Program/cnc_pdf_searchresult.htm</file>
+            <file>../program/cnc_pdf_searchresult.xml</file>
         </item>
         <item>
             <name>cnc_setlibopt</name>
-            <file>handle/cnc_setlibopt.htm</file>
+            <file>../handle/cnc_setlibopt.xml</file>
         </item>
     </reference>
 

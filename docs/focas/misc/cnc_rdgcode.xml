@@ -1309,11 +1309,11 @@ N110 G17 G02 X10. Y-20. R12. ;</pre>
     <reference>
         <item>
             <name>cnc_modal</name>
-            <file>Misc/cnc_modal.htm</file>
+            <file>../misc/cnc_modal.xml</file>
         </item>
         <item>
             <name>cnc_rdcommand</name>
-            <file>Misc/cnc_rdcommand.htm</file>
+            <file>../misc/cnc_rdcommand.xml</file>
         </item>
     </reference>
 

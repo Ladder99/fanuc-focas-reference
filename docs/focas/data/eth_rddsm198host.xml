@@ -220,7 +220,7 @@
     <reference>
         <item>
             <name>eth_wrdsm198host</name>
-            <file>Data/eth_wrdsm198host.htm</file>
+            <file>../data/eth_wrdsm198host.xml</file>
         </item>
     </reference>
 

@@ -332,7 +332,7 @@ typedef struct _etbprm {
     <reference>
         <item>
             <name>etb_wrparam</name>
-            <file>Data/etb_wrparam.htm</file>
+            <file>../data/etb_wrparam.xml</file>
         </item>
     </reference>
 

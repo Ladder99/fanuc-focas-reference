@@ -630,7 +630,7 @@ In calculating underlined part above, fraction part is discarded.
     <reference>
         <item>
             <name>cnc_rdcomparam</name>
-            <file>Data/cnc_rdcomparam.htm</file>
+            <file>../data/cnc_rdcomparam.xml</file>
         </item>
     </reference>
 

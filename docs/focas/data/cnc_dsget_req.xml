@@ -261,15 +261,15 @@
     <reference>
         <item>
             <name>cnc_dsput_req</name>
-            <file>Data/cnc_dsput_req.htm</file>
+            <file>../data/cnc_dsput_req.xml</file>
         </item>
         <item>
             <name>cnc_dsmget_req</name>
-            <file>Data/cnc_dsmget_req.htm</file>
+            <file>../data/cnc_dsmget_req.xml</file>
         </item>
         <item>
             <name>cnc_dsmput_req</name>
-            <file>Data/cnc_dsmput_req.htm</file>
+            <file>../data/cnc_dsmput_req.xml</file>
         </item>
     </reference>
 

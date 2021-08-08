@@ -223,11 +223,11 @@
     <reference>
         <item>
             <name>freelibhndl</name>
-            <file>Handle/cnc_freelibhndl.htm</file>
+            <file>../handle/cnc_freelibhndl.xml</file>
         </item>
         <item>
             <name>cnc_settimeout</name>
-            <file>Handle/cnc_settimeout.htm</file>
+            <file>../handle/cnc_settimeout.xml</file>
         </item>
     </reference>
 

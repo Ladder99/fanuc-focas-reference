@@ -280,7 +280,7 @@ typedef struct odbsysex {
         <reference>
             <item>
                 <name>cnc_sysinfo</name>
-                <file>misc/cnc_sysinfo.htm</file>
+                <file>../misc/cnc_sysinfo.xml</file>
             </item>
         </reference>
 

@@ -189,7 +189,7 @@
     <reference>
         <item>
             <name>ds_rdm198host</name>
-            <file>Data/ds_rdm198host.htm</file>
+            <file>../data/ds_rdm198host.xml</file>
         </item>
     </reference>
 

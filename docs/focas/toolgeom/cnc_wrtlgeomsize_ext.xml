@@ -397,7 +397,7 @@ typedef struct iodbtlgsext{
     <reference>
         <item>
             <name>cnc_rdtlgeomsize_ext</name>
-            <file>ToolGeom/cnc_rdtlgeomsize_ext.htm</file>
+            <file>../toolgeom/cnc_rdtlgeomsize_ext.xml</file>
         </item>
     </reference>
 

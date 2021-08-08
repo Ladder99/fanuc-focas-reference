@@ -646,7 +646,7 @@ The meaning of each bit is as follows.
     <reference>
         <item>
             <name>cnc_chgprotbit</name>
-            <file>Misc/cnc_chgprotbit.htm</file>
+            <file>../misc/cnc_chgprotbit.xml</file>
         </item>
     </reference>
 

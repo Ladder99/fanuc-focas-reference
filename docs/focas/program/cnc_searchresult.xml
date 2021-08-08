@@ -225,23 +225,23 @@
     <reference>
         <item>
             <name>cnc_rdprogline</name>
-            <file>Program/cnc_rdprogline.htm</file>
+            <file>../program/cnc_rdprogline.xml</file>
         </item>
         <item>
             <name>cnc_rdprogline2</name>
-            <file>Program/cnc_rdprogline2.htm</file>
+            <file>../program/cnc_rdprogline2.xml</file>
         </item>
         <item>
             <name>cnc_wrprogline</name>
-            <file>Program/cnc_wrprogline.htm</file>
+            <file>../program/cnc_wrprogline.xml</file>
         </item>
         <item>
             <name>cnc_delprogline</name>
-            <file>Program/cnc_delprogline.htm</file>
+            <file>../program/cnc_delprogline.xml</file>
         </item>
         <item>
             <name>cnc_searchword</name>
-            <file>Program/cnc_searchword.htm</file>
+            <file>../program/cnc_searchword.xml</file>
         </item>
     </reference>
 

@@ -214,7 +214,7 @@
     <reference>
         <item>
             <name>ds_rdmode</name>
-            <file>Data/ds_rdmode.htm</file>
+            <file>../data/ds_rdmode.xml</file>
         </item>
     </reference>
 

@@ -262,11 +262,11 @@ No option
     <reference>
         <item>
             <name>cnc_dtsvcnclupdn</name>
-            <file>Data/cnc_dtsvcnclupdn.htm</file>
+            <file>../data/cnc_dtsvcnclupdn.xml</file>
         </item>
         <item>
             <name>cnc_dtsvupdnstat</name>
-            <file>Data/cnc_dtsvupdnstat.htm</file>
+            <file>../data/cnc_dtsvupdnstat.xml</file>
         </item>
     </reference>
 

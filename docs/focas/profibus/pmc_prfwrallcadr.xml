@@ -311,7 +311,7 @@ typedef struct {
     <reference>
         <item>
             <name>pmc_prfrdallcadr</name>
-            <file>Profibus/pmc_prfrdallcadr.htm</file>
+            <file>../profibus/pmc_prfrdallcadr.xml</file>
         </item>
     </reference>
 

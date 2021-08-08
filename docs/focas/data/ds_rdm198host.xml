@@ -198,7 +198,7 @@
     <reference>
         <item>
             <name>ds_wrm198host</name>
-            <file>Data/ds_wrm198host.htm</file>
+            <file>../data/ds_wrm198host.xml</file>
         </item>
     </reference>
 

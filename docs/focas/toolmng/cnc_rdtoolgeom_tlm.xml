@@ -254,7 +254,7 @@
     <reference>
         <item>
             <name>cnc_wrtoolgeom_tlm</name>
-            <file>ToolMng/cnc_wrtoolgeom_tlm.htm</file>
+            <file>../toolMng/cnc_wrtoolgeom_tlm.xml</file>
         </item>
     </reference>
 

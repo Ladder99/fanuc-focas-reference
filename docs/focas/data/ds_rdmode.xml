@@ -180,7 +180,7 @@
     <reference>
         <item>
             <name>ds_wrmode</name>
-            <file>Data/ds_wrmode.htm</file>
+            <file>../data/ds_wrmode.xml</file>
         </item>
     </reference>
 

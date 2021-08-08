@@ -211,35 +211,35 @@
     <reference>
         <item>
             <name>cnc_rdmacro</name>
-            <file>ncdata/cnc_rdmacro.htm</file>
+            <file>../ncdata/cnc_rdmacro.xml</file>
         </item>
         <item>
             <name>cnc_wrmacro</name>
-            <file>ncdata/cnc_wrmacro.htm</file>
+            <file>../ncdata/cnc_wrmacro.xml</file>
         </item>
         <item>
             <name>cnc_rdmacror</name>
-            <file>ncdata/cnc_rdmacror.htm</file>
+            <file>../ncdata/cnc_rdmacror.xml</file>
         </item>
         <item>
             <name>cnc_wrmacror</name>
-            <file>ncdata/cnc_wrmacror.htm</file>
+            <file>../ncdata/cnc_wrmacror.xml</file>
         </item>
         <item>
             <name>cnc_rdmacror2</name>
-            <file>ncdata/cnc_rdmacror2.htm</file>
+            <file>../ncdata/cnc_rdmacror2.xml</file>
         </item>
         <item>
             <name>cnc_wrmacror2</name>
-            <file>ncdata/cnc_wrmacror2.htm</file>
+            <file>../ncdata/cnc_wrmacror2.xml</file>
         </item>
         <item>
             <name>cnc_rdmacroinfo</name>
-            <file>ncdata/cnc_rdmacroinfo.htm</file>
+            <file>../ncdata/cnc_rdmacroinfo.xml</file>
         </item>
         <item>
             <name>cnc_setmactype</name>
-            <file>ncdata/cnc_setmactype.htm</file>
+            <file>../ncdata/cnc_setmactype.xml</file>
         </item>
     </reference>
 

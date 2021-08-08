@@ -268,11 +268,11 @@
     <reference>
         <item>
             <name>ds_rdncfile</name>
-            <file>Data/ds_rdncfile.htm</file>
+            <file>../data/ds_rdncfile.xml</file>
         </item>
         <item>
             <name>ds_rdncfile2</name>
-            <file>Data/ds_rdncfile2.htm</file>
+            <file>../data/ds_rdncfile2.xml</file>
         </item>
     </reference>
 

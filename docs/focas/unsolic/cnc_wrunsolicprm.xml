@@ -347,19 +347,19 @@ In order to get more information for this err_no return value, execute <a href="
     <reference>
         <item>
             <name>cnc_rdunsolicprm</name>
-            <file>Unsolic/cnc_rdunsolicprm.htm</file>
+            <file>../unsolic/cnc_rdunsolicprm.xml</file>
         </item>
         <item>
             <name>cnc_unsolicstart</name>
-            <file>Unsolic/cnc_unsolicstart.htm</file>
+            <file>../unsolic/cnc_unsolicstart.xml</file>
         </item>
         <item>
             <name>cnc_unsolicstop</name>
-            <file>Unsolic/cnc_unsolicstop.htm</file>
+            <file>../unsolic/cnc_unsolicstop.xml</file>
         </item>
         <item>
             <name>cnc_rdunsolicmsg</name>
-            <file>Unsolic/cnc_rdunsolicmsg.htm</file>
+            <file>../unsolic/cnc_rdunsolicmsg.xml</file>
         </item>
     </reference>
 

@@ -245,11 +245,11 @@ typedef struct  iodbmagprty2 {
     <reference>
         <item>
             <name>cnc_rdmag_property</name>
-            <file>ToolMng/cnc_rdmag_property.htm</file>
+            <file>../toolMng/cnc_rdmag_property.xml</file>
         </item>
         <item>
             <name>cnc_wrmag_property</name>
-            <file>ToolMng/cnc_wrmag_property.htm</file>
+            <file>../toolMng/cnc_wrmag_property.xml</file>
         </item>
     </reference>
 

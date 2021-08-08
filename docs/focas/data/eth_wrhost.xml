@@ -256,7 +256,7 @@
     <reference>
         <item>
             <name>eth_rdhost</name>
-            <file>Data/eth_rdhost.htm</file>
+            <file>../data/eth_rdhost.xml</file>
         </item>
     </reference>
 
