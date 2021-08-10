@@ -8,9 +8,4 @@ fanuc-driver
    :maxdepth: 4
    :caption: Table of Contents
 
-   docs/focas/data/index
-   focas/handle/index.xml
-   focas/history/index
-   focas/laser/index
-   focas/misc/index
-   focas/motor/index
+   Focas API <focas/all/index>
