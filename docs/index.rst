@@ -5,8 +5,8 @@ fanuc-driver documentation
 fanuc-driver
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 2
    :caption: Table of Contents
 
-   Focas API <focas/all/index>
-   FF <focas/all/index.xml>
+   Focas API <index>
+   FF <index.xml>
