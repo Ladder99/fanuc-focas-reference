@@ -9,3 +9,4 @@ fanuc-driver
    :caption: Table of Contents
 
    Focas API <focas/all/index>
+   FF <focas/all/index.xml>
