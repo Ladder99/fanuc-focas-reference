@@ -1,6 +1,6 @@
-****************
+**************************
 fanuc-driver documentation
-****************
+**************************
 
 fanuc-driver
 
@@ -8,8 +8,8 @@ fanuc-driver
    :maxdepth: 4
    :caption: Table of Contents
 
-   focas/data/index
-   focas/handle/index
+   docs/focas/data/index
+   focas/handle/index.xml
    focas/history/index
    focas/laser/index
    focas/misc/index
