@@ -3,7 +3,7 @@
 
 <root>
     <chapter>
-      <title>CNC: Function Reference related to library handle, node</title>
+      <title>CNC: Handle</title>
       <tag>All</tag>
       <item>
         <fname>cnc_rdnodenum</fname>
@@ -568,7 +568,7 @@
       </item>
     </chapter>
     <chapter>
-      <title>CNC: Function related to controlled axis/spindle</title>
+      <title>CNC: Axis/Spindle</title>
       <tag>All</tag>
       <item>
         <fname>cnc_actf</fname>
@@ -2612,7 +2612,7 @@
       </item>
     </chapter>
     <chapter>
-      <title>CNC: Function related to CNC program</title>
+      <title>CNC: Program</title>
       <tag>All</tag>
       <item>
         <fname>cnc_dwnstart</fname>
@@ -7971,7 +7971,7 @@
       </item>
     </chapter>
     <chapter>
-      <title>CNC: Function related to CNC file data</title>
+      <title>CNC: File Data</title>
       <tag>All</tag>
       <item>
         <fname>cnc_rdtofs</fname>
@@ -12412,7 +12412,7 @@
       </item>
     </chapter>
     <chapter>
-      <title>CNC: Function related to tool life management data</title>
+      <title>CNC: Tool Life Mgmt</title>
       <tag>All</tag>
       <item>
         <fname>cnc_rdgrpid</fname>
@@ -14558,7 +14558,7 @@
       </item>
     </chapter>
     <chapter>
-      <title>CNC: Function related to tool management data</title>
+      <title>CNC: Tool Mgmt</title>
       <tag>All</tag>
       <item>
         <fname>cnc_regtool</fname>
@@ -15735,7 +15735,7 @@
       </item>
     </chapter>
     <chapter>
-      <title>CNC: Function related to tool geometry size data</title>
+      <title>CNC: Tool Geometry</title>
       <tag>All</tag>
       <item>
         <fname>cnc_rdtlgeomsize_ext</fname>
@@ -15841,7 +15841,7 @@
       </item>
     </chapter>
     <chapter>
-      <title>CNC: Function related to history data</title>
+      <title>CNC: History</title>
       <tag>All</tag>
       <item>
         <fname>cnc_stopophis</fname>
@@ -17120,7 +17120,7 @@
       </item>
     </chapter>
     <chapter>
-      <title>CNC: Function related to servo/spindle</title>
+      <title>CNC: Servo/Spindle</title>
       <tag>All</tag>
       <item>
         <fname>cnc_rdloopgain</fname>
@@ -18144,7 +18144,7 @@
       </item>
     </chapter>
     <chapter>
-      <title>CNC: Function related to waveform diagnosis</title>
+      <title>CNC: Waveform Diag</title>
       <tag>All</tag>
       <item>
         <fname>cnc_rdwaveprm</fname>
@@ -18556,7 +18556,7 @@
       </item>
     </chapter>
     <chapter>
-      <title>CNC: Function related to PUNCH PRESS</title>
+      <title>CNC: Punch Press</title>
       <tag>All</tag>
       <item>
         <fname>cnc_rdtlctldata</fname>
@@ -19427,7 +19427,7 @@
       </item>
     </chapter>
     <chapter>
-      <title>CNC: Function related to LASER</title>
+      <title>CNC: Laser</title>
       <tag>All</tag>
       <item>
         <fname>cnc_rdpscdproc</fname>
@@ -21675,7 +21675,7 @@
       </item>
     </chapter>
     <chapter>
-      <title>CNC: Function related to WIRE CUT</title>
+      <title>CNC: Wire Cut</title>
       <tag>All</tag>
       <item>
         <fname>cnc_setvrtclpos</fname>
@@ -21832,7 +21832,7 @@
       </item>
     </chapter>
     <chapter>
-      <title>CNC: Function Reference related to data server,DNC1,DNC2,OSI-Ethernet</title>
+      <title>CNC: Data Server</title>
       <tag>All</tag>
       <item>
         <fname>cnc_dtsvftpget</fname>
@@ -27803,7 +27803,7 @@
       </item>
     </chapter>
     <chapter>
-      <title>CNC: Function Reference related to servo learning data</title>
+      <title>CNC: Servo Learning</title>
       <tag>All</tag>
       <item>
         <fname>cnc_svdtstartrd</fname>
@@ -28164,7 +28164,7 @@
       </item>
     </chapter>
     <chapter>
-      <title>CNC: Function related to Unsolicited messaging function</title>
+      <title>CNC: Unsolicited</title>
       <tag>All</tag>
       <item>
         <fname>cnc_wrunsolicprm</fname>
@@ -28576,7 +28576,7 @@
       </item>
     </chapter>
     <chapter>
-      <title>PMC: Function related to PMC</title>
+      <title>PMC: PMC</title>
       <tag>All</tag>
       <item>
         <fname>pmc_rdmsg</fname>
@@ -30161,7 +30161,7 @@
       </item>
     </chapter>
     <chapter>
-      <title>PMC: Function Reference related to PROFIBUS-DP</title>
+      <title>PMC: PROFIBUS-DP</title>
       <tag>All</tag>
       <item>
         <fname>pmc_prfrdconfig</fname>
@@ -32205,7 +32205,7 @@
       </item>
     </chapter>
     <chapter>
-      <title>CNC: Function related to others</title>
+      <title>CNC: Other</title>
       <tag>All</tag>
       <item>
         <fname>cnc_sysinfo</fname>
