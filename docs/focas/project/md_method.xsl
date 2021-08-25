@@ -6,6 +6,8 @@
     exclude-result-prefixes="xs functx"
     version="2.0">
     
+    <xsl:output indent="no"/>
+    <xsl:strip-space elements="*"/>
     <xsl:import href="http://www.xsltfunctions.com/xsl/functx-1.0.1-doc.xsl"/>
     
     <xsl:template match="/">
@@ -54,8 +56,8 @@
         <xsl:text> | </xsl:text>
         <xsl:value-of select="type"/>
         <xsl:text> | </xsl:text>
-        <xsl:copy-of select="normalize-space(content)"/>
+        <xsl:copy-of select="content/*"/>
         <xsl:text> |&#xa;</xsl:text>
     </xsl:template>
-    
+  
 </xsl:stylesheet>
